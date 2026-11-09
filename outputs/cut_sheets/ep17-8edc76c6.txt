@@ -1,0 +1,29 @@
+PROMO ep17-8edc76c6
+Episode 17 - Episode 17
+Duration: 21.0s   Segments: 1
+Score: 61.41 (heuristic 61.41)
+
+IN / OUT
+  segment 1: 00:39.00 -> 01:00.05  (21.05s)
+
+HOOK      00:42.00  Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.
+CLIFF     00:58.80  "Of them?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 17, 1 segment(s), 21s
+[00:39.00-00:42.00] CAMERA: Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth.
+[00:40.00-00:44.50] ACTION: Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand.
+[00:42.00-00:45.00] CAMERA: Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.
+[00:42.80-00:44.70] JULIANA (Tender, Reproachful): "You were bleeding last night."
+[00:45.00-00:48.50] CAMERA: Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.
+[00:46.00-00:47.30] ALEXANDER (Quiet, Fond): "So were you."
+[00:48.50-00:51.50] CAMERA: Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips.
+[00:49.00-00:51.50] JULIANA (Softly Teasing): "You make it very difficult to argue with you."
+[00:51.50-00:54.00] CAMERA: Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face.
+[00:53.50-00:56.00] ACTION: Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective.
+[00:54.00-00:58.50] CAMERA: Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow.
+[00:56.50-00:58.00] JULIANA (Vulnerable, Sincere): "I was frightened."
+[00:58.50-01:00.05] CAMERA: Close-up of Alexander, his brow furrowing with sudden concern.
+[00:58.80-00:59.80] ALEXANDER (Questioning): "Of them?"

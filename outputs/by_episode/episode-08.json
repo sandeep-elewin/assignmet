@@ -1,0 +1,64 @@
+{
+  "episode": 8,
+  "label": "Episode 8",
+  "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+  "continuity_notes": "Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.",
+  "duration_s": 78.0,
+  "candidates_considered": 6,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "hook too weak (0.31 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep08-819bc6a8",
+      "rank": null,
+      "episode": 8,
+      "episode_label": "Episode 8",
+      "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 0.2,
+          "end": 37.15,
+          "start_tc": "00:00.20",
+          "end_tc": "00:37.15",
+          "duration": 36.95
+        }
+      ],
+      "clip_duration": 36.95,
+      "hook": "\"Some of the pages are ruined. Careful.\"",
+      "cliffhanger": "\"Not yet?\"",
+      "why_it_works": "opening is the weak point; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 66.34,
+      "heuristic_score": 66.34,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.311,
+        "cliffhanger": 0.681,
+        "standalone": 0.95,
+        "arc": 0.812,
+        "pacing": 0.988
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "hook too weak (0.31 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 8, 1 segment(s), 37s\n[00:00.20-00:03.20] JULIANA (Gentle, Somber): \"Some of the pages are ruined. Careful.\"\n[00:03.20-00:05.10] CAMERA: Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book.\n[00:03.40-00:04.50] SOUND: Soft metallic click of the book clasp loosening.\n[00:05.10-00:07.80] CAMERA: Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages.\n[00:05.10-00:07.80] JULIANA (Reflective, Reverent): \"Mother spent years writing this.\"\n[00:07.80-00:10.50] CAMERA: Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table.\n[00:08.50-00:10.50] ACTION: Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.\n[00:10.50-00:11.90] CAMERA: Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise.\n[00:10.50-00:11.80] JULIANA (Curious, Recognizing): \"Yarrow.\"\n[00:11.90-00:15.00] CAMERA: Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face.\n[00:12.00-00:14.60] ALEXANDER (Calm, Knowledgeable): \"Good for wounds. Fever, too.\"\n[00:15.00-00:16.30] CAMERA: Medium close-up of Juliana looking up at him with genuine curiosity.\n[00:15.10-00:16.10] JULIANA (Inquiring, Soft): \"How do you know that?\"\n[00:16.30-00:19.30] CAMERA: Close-up of Alexander speaking in a steady, measured tone.\n[00:16.30-00:18.90] ALEXANDER (Somber, Matter-of-Fact): \"Soldiers learn quickly which plants keep a man alive.\"\n[00:19.30-00:21.50] CAMERA: Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.\n[00:19.40-00:21.80] JULIANA (Observant, Lightly Teasing): \"You know more about healing than you let on.\"\n[00:21.50-00:24.30] CAMERA: Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.\n[00:22.80-00:24.20] ALEXANDER (Quiet, Gritty): \"Enough to survive.\"\n[00:24.30-00:26.50] CAMERA: Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.\n[00:25.00-00:26.80] JULIANA (Hesitant, Soft): \"Your hair and beard...\"\n[00:26.50-00:28.10] CAMERA: Medium shot of Alexander standing tall over her, looking down patiently.\n[00:28.10-00:31.90] CAMERA: Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.\n[00:30.10-00:31.90] JULIANA (Gentle, Tender): \"I could trim them for you.\"\n[00:31.90-00:33.20] CAMERA: Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.\n[00:33.20-00:35.50] CAMERA: Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.\n[00:33.20-00:34.50] ALEXANDER (Firm, Low): \"Not yet.\"\n[00:35.50-00:37.15] CAMERA: Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.\n[00:35.80-00:36.90] JULIANA (Puzzled, Curious): \"Not yet?\""
+    }
+  ]
+}

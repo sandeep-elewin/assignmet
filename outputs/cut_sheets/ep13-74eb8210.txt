@@ -1,0 +1,31 @@
+PROMO ep13-74eb8210
+Episode 13 - Episode 13
+Duration: 20.0s   Segments: 1
+Score: 60.6 (heuristic 60.6)
+
+IN / OUT
+  segment 1: 00:47.20 -> 01:07.25  (20.05s)
+
+HOOK      00:47.20  "Juliana, stop!"
+CLIFF     01:02.20  "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 13, 1 segment(s), 20s
+[00:47.20-00:48.80] ALEXANDER (Screaming, Panicked): "Juliana, stop!"
+[00:47.80-00:49.20] SOUND: Rattling of heavy iron chains.
+[00:50.00-00:53.00] ACTION: Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.
+[00:50.00-00:52.00] CAMERA: Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars.
+[00:51.50-00:52.60] ALEXANDER (Strangled, Weeping): "Please..."
+[00:52.00-00:53.50] CAMERA: Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs.
+[00:53.50-00:56.00] CAMERA: Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground.
+[00:54.00-00:56.50] ACTION: Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.
+[00:54.50-00:55.80] JULIANA (Gasping in Pain): "No..."
+[00:56.00-00:58.20] CAMERA: Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds.
+[00:57.20-00:58.60] CLARISSA (Gleeful, Derisive): "Look at her hands."
+[00:58.20-01:02.00] CAMERA: Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her.
+[00:58.80-01:01.80] CLARISSA (Mocking, Spiteful): "The lady has finally found something worthy of her."
+[01:02.00-01:04.00] ACTION: Gerald leans his hands on the terrace railing, sneering callously.
+[01:02.00-01:07.25] CAMERA: Low-angle medium close-up of Gerald shouting down into the garden.
+[01:02.20-01:07.00] GERALD (Taunting, Cruel): "Keep searching, Juliana. Your husband's freedom is somewhere in that garden."

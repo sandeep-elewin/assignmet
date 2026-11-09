@@ -1,0 +1,111 @@
+{
+  "episode": 22,
+  "label": "Episode 22",
+  "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+  "continuity_notes": "Directly follows Episode 21 where Prudence revealed that the Dowager Duchess is dying from a mysterious illness; Juliana sets aside her aristocratic identity to sneak into Ashbury Manor under the guise of domestic help to save her.",
+  "duration_s": 131.0,
+  "candidates_considered": 10,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep22-0107b635",
+      "rank": 4,
+      "episode": 22,
+      "episode_label": "Episode 22",
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 96.0,
+          "end": 131.0,
+          "start_tc": "01:36.00",
+          "end_tc": "02:11.00",
+          "duration": 35.0
+        }
+      ],
+      "clip_duration": 35.0,
+      "hook": "\"Do not stare. Keep walking.\"",
+      "cliffhanger": "\"Who has been treating you?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 74.27,
+      "heuristic_score": 74.27,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.654,
+        "cliffhanger": 0.726,
+        "standalone": 0.9,
+        "arc": 0.655,
+        "pacing": 0.865
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA, PRUDENCE"
+        ],
+        "prior_knowledge_entities": [
+          "PRUDENCE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 22, 1 segment(s), 35s\n[01:36.00-01:38.50] ACTION: Prudence rushes into frame, grabbing Juliana's arm to keep her moving.\n[01:36.00-01:38.80] CAMERA: Medium close-up of Prudence whispering frantically into Juliana's ear.\n[01:36.00-01:38.50] PRUDENCE (Panicked, Hushed): \"Do not stare. Keep walking.\"\n[01:38.80-01:42.00] CAMERA: Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing.\n[01:42.00-01:45.50] CAMERA: Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved.\n[01:45.50-01:48.50] ACTION: Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob.\n[01:45.50-01:48.50] CAMERA: Close-up of Lady Juliana's hand twisting the latch handle.\n[01:46.50-01:48.50] SOUND: Faint, muffled click of the heavy door lock turning.\n[01:48.50-01:53.80] CAMERA: Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless.\n[01:49.00-01:54.00] SOUND: Labored, raspy, shallow breathing echoing in the quiet room.\n[01:53.80-01:56.00] ACTION: Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside.\n[01:54.00-01:55.50] LADY JULIANA (Gentle, Concerned): \"Your Grace?\"\n[01:55.50-01:58.20] CAMERA: Close-up of the Dowager Duchess lying propped on pillows, her face gaunt, ashen, and drenched in cold sweat, her eyes half-fluttering.\n[01:58.20-02:00.80] CAMERA: Medium close-up of Lady Juliana taking the Duchess's fragile, cold hands into her own.\n[01:58.20-01:59.80] LADY JULIANA (Soft, Comforting): \"Do not speak.\"\n[02:00.80-02:05.50] CAMERA: Close-up of Lady Juliana checking the Duchess's pulse and gently pressing her fingertips against the Duchess's chest and neck, her herbalist instincts taking over.\n[02:03.00-02:05.80] ACTION: Lady Juliana's eyes widen with sudden, horrifying realization.\n[02:03.50-02:05.80] LADY JULIANA (Shocked, Murmuring): \"This isn't ordinary fever.\"\n[02:05.80-02:07.00] ACTION: The Dowager Duchess suddenly gasps violently for breath, convulsing weakly as her eyes snap open in agony.\n[02:05.80-02:07.00] CAMERA: Close-up of the Duchess gasping in sudden spasms.\n[02:07.00-02:08.80] CAMERA: Intense two-shot as Lady Juliana leans in close, gripping the Duchess's shoulder with urgent desperation.\n[02:07.20-02:08.80] LADY JULIANA (Urgent, Alarmed): \"Who has been treating you?\"\n[02:08.80-02:11.00] CAMERA: Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up as she chokes for air, the haunting realization of poison lingering as dramatic music hits an abrupt, suspenseful cliffhanger."
+    },
+    {
+      "id": "ep22-809781d9",
+      "rank": null,
+      "episode": 22,
+      "episode_label": "Episode 22",
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 11.2,
+          "end": 69.75,
+          "start_tc": "00:11.20",
+          "end_tc": "01:09.75",
+          "duration": 58.55
+        }
+      ],
+      "clip_duration": 58.55,
+      "hook": "\"No one will recognize me dressed like this.\"",
+      "cliffhanger": "\"And can you keep your eyes and ears where they belong?\"",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 60.21,
+      "heuristic_score": 60.21,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.735,
+        "cliffhanger": 0.723,
+        "standalone": 0.72,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, JULIANA, PRUDENCE, RUPERT"
+        ],
+        "prior_knowledge_entities": [
+          "RUPERT",
+          "PRUDENCE",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 22, 1 segment(s), 59s\n[00:11.20-00:14.20] LADY JULIANA (Resolute, Quiet): \"No one will recognize me dressed like this.\"\n[00:14.20-00:19.00] CAMERA: Medium close-up of Prudence glancing nervously toward the courtyard before fixing her gaze on Juliana.\n[00:14.20-00:19.00] PRUDENCE (Nervous, Warning): \"This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert...\"\n[00:19.00-00:21.20] CAMERA: Close-up of Lady Juliana cutting in with fierce, unyielding conviction.\n[00:19.10-00:21.00] LADY JULIANA (Determined): \"The Duchess is dying.\"\n[00:21.20-00:25.80] CAMERA: Low-angle shot looking up at Lady Juliana and Prudence standing beneath the looming stone facade of the manor.\n[00:22.00-00:25.50] LADY JULIANA (Defiant, Firm): \"I saved Toby. I can save her.\"\n[00:25.80-00:28.10] CAMERA: Close-up on Prudence, her eyes wide with dread.\n[00:26.00-00:28.10] PRUDENCE (Fretful): \"And if they discover who you are?\"\n[00:28.10-00:31.50] CAMERA: Close-up on Lady Juliana holding her gaze steadily.\n[00:28.20-00:31.00] LADY JULIANA (Steely, Selfless): \"Then I will face that when she is breathing again.\"\n[00:31.50-00:36.20] CAMERA: Medium two-shot outside the heavy wooden servant entrance door.\n[00:33.80-00:36.00] PRUDENCE (Solemn): \"Then forget you were ever a lady.\"\n[00:36.20-00:39.80] CAMERA: Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise.\n[00:37.00-00:39.50] LADY JULIANA (Quietly Resolute): \"Today, I am only a maid.\"\n[00:39.80-00:42.50] ACTION: Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them.\n[00:41.50-00:42.80] SOUND: Heavy wooden latch clicks shut with a thud.\n[00:43.00-00:44.20] HOUSEKEEPER (Sharp, Stern, O.S.): \"Prudence.\"\n[00:43.00-00:46.00] CAMERA: Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist.\n[00:44.30-00:45.60] HOUSEKEEPER (Suspicious): \"Who is this?\"\n[00:46.00-00:49.20] CAMERA: Medium shot of Prudence curtsying low with downcast eyes while Lady Juliana stands behind her carrying a heavy wooden water bucket.\n[00:46.00-00:49.00] PRUDENCE (Submissive): \"Julian, ma'am. New help for the winter cleaning.\"\n[00:49.20-00:52.20] CAMERA: Close-up profile of the Housekeeper sizing up Juliana critically.\n[00:49.50-00:51.80] HOUSEKEEPER (Cold, Skeptical): \"She looks soft.\"\n[00:51.80-00:53.00] ACTION: Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly.\n[00:52.80-00:55.20] CAMERA: Close-up on Lady Juliana keeping her eyes dutifully lowered.\n[00:52.80-00:54.80] LADY JULIANA (Humble, Steady): \"I can work, ma'am.\"\n[00:55.20-00:58.50] CAMERA: Low-angle shot of the Housekeeper staring down coldly.\n[00:56.00-00:58.00] HOUSEKEEPER (Demanding): \"Can you scrub stone?\"\n[00:58.50-01:00.00] CAMERA: Close-up on Lady Juliana nodding slightly.\n[00:58.50-00:59.80] LADY JULIANA (Subdued): \"Yes, ma'am.\"\n[01:00.20-01:01.80] HOUSEKEEPER (Harsh, O.S.): \"Carry coal?\"\n[01:00.20-01:02.30] CAMERA: Close-up of the Housekeeper's stern face.\n[01:02.30-01:04.20] CAMERA: Cut back to Lady Juliana maintaining her meek posture.\n[01:02.50-01:03.80] LADY JULIANA (Polite): \"Yes, ma'am.\"\n[01:04.20-01:09.75] CAMERA: Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes.\n[01:06.00-01:09.50] HOUSEKEEPER (Menacing, Threatening): \"And can you keep your eyes and ears where they belong?\""
+    }
+  ]
+}

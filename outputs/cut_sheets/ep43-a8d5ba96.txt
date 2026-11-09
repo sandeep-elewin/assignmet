@@ -1,0 +1,43 @@
+PROMO ep43-a8d5ba96
+Episode 43 - Episode 43
+Duration: 41.3s   Segments: 1
+Score: 69.11 (heuristic 69.11)
+
+IN / OUT
+  segment 1: 01:11.40 -> 01:52.75  (41.35s)
+
+HOOK      01:11.40  "I didn't!"
+CLIFF     01:50.40  "Going somewhere, Lord Sterling?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 43, 1 segment(s), 41s
+[01:11.40-01:12.70] BLOND NOBLEMAN (Desperate, Denying): "I didn't!"
+[01:12.70-01:14.80] CAMERA: Low-angle tracking push-in on Alexander raising the red-ribboned war document toward the cathedral arches.
+[01:12.80-01:15.20] ALEXANDER (Resonant, Accusatory): "And when you believed I was dead..."
+[01:14.80-01:16.00] CAMERA: Quick reaction shot on Rupert gasping on the steps.
+[01:16.00-01:17.80] CAMERA: Tight close-up on Alexander's scarred, furious face.
+[01:16.10-01:17.60] ALEXANDER (Venomous): "You took my title."
+[01:17.80-01:21.00] CAMERA: Extreme close-up on the Crown Official's gloved thumb cracking the red wax seal open.
+[01:18.00-01:19.40] SOUND: Brittle snap of breaking sealing wax.
+[01:21.00-01:25.00] CAMERA: Full shot of the Crown Official standing amidst church debris reading the death register.
+[01:21.50-01:25.80] CROWN OFFICIAL (Grave, Official): "Official death confirmation was filed three months after the ambush."
+[01:25.00-01:28.00] CAMERA: Two-shot of the Crown Official in the background and Alexander's dark silhouette in the foreground.
+[01:26.00-01:28.50] CROWN OFFICIAL (Continuing): "Duke Alexander Ashburn was declared dead."
+[01:28.00-01:33.20] CAMERA: Wide majestic shot capturing the entire nave, the rows of horrified guests, and the ruined cathedral windows.
+[01:28.60-01:33.00] CROWN OFFICIAL (Loud, Authoritative): "His estate and title were subsequently transferred under false authority."
+[01:33.20-01:36.50] CAMERA: Medium close-up on Rupert clutching his chest as if choking on his own lies.
+[01:33.40-01:36.40] BLOND NOBLEMAN (Screaming, Desperate): "I was told he was dead!"
+[01:36.50-01:39.80] CAMERA: Low shot following Alexander's heavy boots stepping steadily up the stone steps toward the altar.
+[01:36.80-01:39.80] ALEXANDER (Cold, Penetrating): "You were told exactly what you needed to hear."
+[01:39.80-01:42.20] CAMERA: Medium shot on Rupert whirling around in a frenzy, pointing his finger toward Lord Sterling.
+[01:40.00-01:42.20] BLOND NOBLEMAN (Frantic, Betraying): "Sterling handled the report!"
+[01:42.20-01:43.40] CAMERA: Alexander turns his head sharply toward the side pews.
+[01:43.40-01:44.80] CAMERA: Medium shot of Lord Henry Sterling silently slipping out of his seat and making a break toward the side exit.
+[01:44.80-01:46.50] CAMERA: Close-up on Catherine peering out from under her bridal veil in shock.
+[01:44.80-01:46.20] CATHERINE (Shocked, Murmuring): "My Lord?"
+[01:46.50-01:49.80] CAMERA: Medium shot of Lord Sterling frantically unlatching the heavy oak church door and pulling it open.
+[01:47.00-01:49.00] SOUND: Heavy iron latch clicking open and wooden door creaking.
+[01:49.80-01:52.75] CAMERA: Reverse angle from inside the doorway showing a stern British Police Constable standing directly outside, blocking the passage.
+[01:50.40-01:52.50] POLICE CONSTABLE (Firm, Sardonic): "Going somewhere, Lord Sterling?"

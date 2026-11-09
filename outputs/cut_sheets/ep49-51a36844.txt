@@ -1,0 +1,25 @@
+PROMO ep49-51a36844
+Episode 49 - Episode 49
+Duration: 30.3s   Segments: 1
+Score: 63.69 (heuristic 63.69)
+
+IN / OUT
+  segment 1: 01:34.40 -> 02:04.75  (30.35s)
+
+HOOK      01:34.40  "I want eyes and ears everywhere that decides my future."
+CLIFF     01:58.20  "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored."
+
+WHY       opening is the weak point; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 49, 1 segment(s), 30s
+[01:34.40-01:37.80] CATHERINE (Haughty, Imperious): "I want eyes and ears everywhere that decides my future."
+[01:38.00-01:43.80] CAMERA: Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway.
+[01:38.20-01:42.50] ACTION: Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.
+[01:38.30-01:43.20] CATHERINE (Bitterly Resolute): "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?"
+[01:43.80-01:53.00] CAMERA: Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern.
+[01:44.20-01:52.80] FATHER THOMAS (Wary, Grave): "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?"
+[01:53.00-01:58.00] CAMERA: Medium two-shot tracking closer as Catherine steps closer toward him.
+[01:53.20-01:57.80] CATHERINE (Seductive, Reassuring): "Then make certain he doesn't find out. You're careful. I've seen how careful."
+[01:58.00-02:04.75] CAMERA: Tight close-up on Father Thomas's intense, brooding face.
+[01:58.20-02:04.50] FATHER THOMAS (Stern, Stark): "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored."

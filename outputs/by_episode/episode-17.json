@@ -1,0 +1,110 @@
+{
+  "episode": 17,
+  "label": "Episode 17",
+  "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+  "continuity_notes": "Picks up the morning after Episode 16's moonlit confrontation where Alexander defended Juliana and defeated Harrington's hired thugs in her medicinal garden.",
+  "duration_s": 118.88,
+  "candidates_considered": 7,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep17-0fc97e2f",
+      "rank": null,
+      "episode": 17,
+      "episode_label": "Episode 17",
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 7.0,
+          "end": 31.25,
+          "start_tc": "00:07.00",
+          "end_tc": "00:31.25",
+          "duration": 24.25
+        }
+      ],
+      "clip_duration": 24.25,
+      "hook": "Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope.",
+      "cliffhanger": "\"...no one will hurt you again.\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.",
+      "score": 66.02,
+      "heuristic_score": 66.02,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.67,
+        "standalone": 0.9,
+        "arc": 0.278,
+        "pacing": 0.989
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 17, 1 segment(s), 24s\n[00:07.00-00:11.50] CAMERA: Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope.\n[00:09.30-00:11.30] JULIANA (Soft, Emotional): \"Some of them survived.\"\n[00:11.50-00:14.00] CAMERA: Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer.\n[00:11.50-00:14.00] SOUND: Rhythmic, heavy thuds of an iron hammer pounding into weathered wood.\n[00:11.50-00:14.00] ACTION: Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination.\n[00:14.00-00:16.20] CAMERA: Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer.\n[00:14.30-00:15.30] JULIANA (Grateful, Sincere): \"Thank you.\"\n[00:16.20-00:18.00] CAMERA: Close-up of Alexander turning toward her, his scarred face stoic and intense.\n[00:16.80-00:17.80] ALEXANDER (Gruff, Low): \"For what?\"\n[00:18.00-00:21.00] CAMERA: Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears.\n[00:18.20-00:20.50] JULIANA (Trembling, Heartfelt): \"For standing between me and those men.\"\n[00:21.00-00:23.50] CAMERA: Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction.\n[00:21.50-00:23.00] ALEXANDER (Unwavering, Firm): \"I would do it again.\"\n[00:23.50-00:25.80] CAMERA: Close-up of Juliana, her lips parting as her voice wavers with emotion.\n[00:24.00-00:25.70] JULIANA (Whispering, Awed): \"Even if there were ten of them?\"\n[00:26.00-00:27.70] ALEXANDER (Deep, Resolute): \"As long as I draw breath...\"\n[00:26.50-00:30.00] CAMERA: Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana.\n[00:28.00-00:31.25] ACTION: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.\n[00:28.80-00:31.00] ALEXANDER (Gentle, Vowing): \"...no one will hurt you again.\""
+    },
+    {
+      "id": "ep17-8edc76c6",
+      "rank": null,
+      "episode": 17,
+      "episode_label": "Episode 17",
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 39.0,
+          "end": 60.05,
+          "start_tc": "00:39.00",
+          "end_tc": "01:00.05",
+          "duration": 21.05
+        }
+      ],
+      "clip_duration": 21.05,
+      "hook": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.",
+      "cliffhanger": "\"Of them?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.",
+      "score": 61.41,
+      "heuristic_score": 61.41,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.6,
+        "standalone": 0.9,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 17, 1 segment(s), 21s\n[00:39.00-00:42.00] CAMERA: Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth.\n[00:40.00-00:44.50] ACTION: Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand.\n[00:42.00-00:45.00] CAMERA: Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.\n[00:42.80-00:44.70] JULIANA (Tender, Reproachful): \"You were bleeding last night.\"\n[00:45.00-00:48.50] CAMERA: Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.\n[00:46.00-00:47.30] ALEXANDER (Quiet, Fond): \"So were you.\"\n[00:48.50-00:51.50] CAMERA: Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips.\n[00:49.00-00:51.50] JULIANA (Softly Teasing): \"You make it very difficult to argue with you.\"\n[00:51.50-00:54.00] CAMERA: Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face.\n[00:53.50-00:56.00] ACTION: Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective.\n[00:54.00-00:58.50] CAMERA: Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow.\n[00:56.50-00:58.00] JULIANA (Vulnerable, Sincere): \"I was frightened.\"\n[00:58.50-01:00.05] CAMERA: Close-up of Alexander, his brow furrowing with sudden concern.\n[00:58.80-00:59.80] ALEXANDER (Questioning): \"Of them?\""
+    }
+  ]
+}

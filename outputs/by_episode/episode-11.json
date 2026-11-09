@@ -1,0 +1,60 @@
+{
+  "episode": 11,
+  "label": "Episode 11",
+  "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+  "continuity_notes": "Picks up immediately after the intimate moment between Juliana and Alexander in Episode 10, interrupted by the ominous arrival of an aristocratic carriage carrying Gerald.",
+  "duration_s": 112.75,
+  "candidates_considered": 8,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep11-537f9da7",
+      "rank": null,
+      "episode": 11,
+      "episode_label": "Episode 11",
+      "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 84.2,
+          "end": 112.75,
+          "start_tc": "01:24.20",
+          "end_tc": "01:52.75",
+          "duration": 28.55
+        }
+      ],
+      "clip_duration": 28.55,
+      "hook": "\"Don't!\"",
+      "cliffhanger": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its lon…",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 67.95,
+      "heuristic_score": 67.95,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.704,
+        "cliffhanger": 0.69,
+        "standalone": 0.64,
+        "arc": 0.57,
+        "pacing": 0.868
+      },
+      "signals": {
+        "arc_notes": [],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, CONSTABLE, GERALD, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "GERALD",
+          "CONSTABLE",
+          "ALEXANDER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 11, 1 segment(s), 29s\n[01:24.20-01:25.00] JULIANA (Whispering, Terrified): \"Don't!\"\n[01:25.00-01:26.50] CAMERA: Close-up of Juliana clutching her dress collar in acute panic.\n[01:26.00-01:27.50] ALEXANDER (Haunted, Resolute): \"One blow would end this.\"\n[01:26.50-01:29.80] CAMERA: Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes.\n[01:28.00-01:30.00] ALEXANDER (Pained, Selfless): \"But one blow would destroy her life.\"\n[01:29.80-01:32.00] CAMERA: Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace.\n[01:31.00-01:32.20] ACTION: The Constable grabs the coat by the collar and begins rummaging through its deep pockets.\n[01:32.10-01:33.20] JULIANA (Startled, Shouting): \"That is his coat!\"\n[01:33.20-01:36.80] CAMERA: Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain.\n[01:35.80-01:37.00] SOUND: Metallic clinking of the gold chain sliding against fabric.\n[01:36.80-01:39.20] CAMERA: Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief.\n[01:37.20-01:39.00] ACTION: Juliana draws a sharp, terrified breath as her face pales completely.\n[01:39.20-01:42.00] CAMERA: Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up.\n[01:42.00-01:46.80] CAMERA: Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter.\n[01:44.20-01:46.60] GERALD (Gloating, Victorious): \"There it is. Ha!\"\n[01:46.80-01:52.75] CAMERA: Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame."
+    }
+  ]
+}

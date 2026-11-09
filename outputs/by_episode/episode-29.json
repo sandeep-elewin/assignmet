@@ -1,0 +1,58 @@
+{
+  "episode": 29,
+  "label": "Episode 29",
+  "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+  "continuity_notes": "Follows directly from Episode 28 where Rupert ordered the guards to drag Juliana down to the wet cells while Catherine seized her mother's herbarium.",
+  "duration_s": 116.69,
+  "candidates_considered": 7,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep29-16b95af3",
+      "rank": 12,
+      "episode": 29,
+      "episode_label": "Episode 29",
+      "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 27.1,
+          "end": 74.55,
+          "start_tc": "00:27.10",
+          "end_tc": "01:14.55",
+          "duration": 47.45
+        }
+      ],
+      "clip_duration": 47.45,
+      "hook": "\"It is medicine!\"",
+      "cliffhanger": "\"Your scarred soldier?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.",
+      "score": 69.75,
+      "heuristic_score": 69.75,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.63,
+        "cliffhanger": 0.672,
+        "standalone": 0.9,
+        "arc": 0.569,
+        "pacing": 0.947
+      },
+      "signals": {
+        "arc_notes": [],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 29, 1 segment(s), 47s\n[00:27.10-00:28.70] JULIANA (Defiant, Furious): \"It is medicine!\"\n[00:28.90-00:31.90] CAMERA: Medium close-up of Catherine smiling condescendingly.\n[00:30.40-00:31.80] CATHERINE (Smooth, Patronizing): \"Of course.\"\n[00:31.90-00:37.40] CAMERA: Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations.\n[00:31.90-00:37.30] CATHERINE (Disdainful, Calculating): \"Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand.\"\n[00:37.40-00:40.00] CAMERA: Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent.\n[00:37.70-00:40.00] CATHERINE (Icy, Threatening): \"The magistrate will call it witchcraft.\"\n[00:40.00-00:41.90] CAMERA: Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation.\n[00:40.10-00:41.80] JULIANA (Furious, Shouted): \"You know that is a lie!\"\n[00:41.90-00:44.30] CAMERA: Medium shot of Catherine lifting her chin arrogantly against the stone backdrop.\n[00:42.00-00:44.20] CATHERINE (Calm, Sinister): \"I know exactly what I need him to believe.\"\n[00:44.30-00:46.90] CAMERA: Medium shot of Juliana thrashing frantically against the two guards.\n[00:44.40-00:46.50] JULIANA (Screaming, Desperate): \"You cannot just destroy it!\"\n[00:46.90-00:49.80] CAMERA: Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze.\n[00:47.30-00:49.10] CATHERINE (Whispered, Malicious): \"I can burn it.\"\n[00:49.80-00:53.60] CAMERA: Close-up of Juliana's stricken expression, her eyes widening in horror.\n[00:50.10-00:53.60] CATHERINE (Chilling, Relentless): \"And when they find your corpse at the end of the rope...\"\n[00:53.60-00:56.60] CAMERA: Side close-up of Catherine leaning slightly forward, her voice low and merciless.\n[00:53.80-00:56.50] CATHERINE (Cruel, Resolute): \"...no one will remember what was written inside.\"\n[00:56.60-00:59.20] CAMERA: Close-up of Juliana screaming back in raw outrage.\n[00:56.70-00:59.00] JULIANA (Enraged, Defiant): \"You are doing this because I saved the Duchess!\"\n[00:59.20-01:03.80] CAMERA: Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features.\n[00:59.30-01:03.40] CATHERINE (Scornful, Arrogant): \"I am doing this because women like you forget their place.\"\n[01:03.80-01:07.00] CAMERA: Quick pan from Juliana's apron up to Catherine's face.\n[01:04.50-01:06.50] CATHERINE (Cold, Venomous): \"You were cast out once.\"\n[01:07.00-01:09.50] CAMERA: Extreme close-up on Catherine's smiling lips and cold blue eyes.\n[01:07.20-01:09.10] CATHERINE (Menacing): \"You should have stayed forgotten.\"\n[01:09.50-01:11.80] CAMERA: Close-up of Juliana raising her chin, unwavering pride breaking through her tears.\n[01:09.80-01:11.40] JULIANA (Steely, Resolute): \"My husband will find me.\"\n[01:11.80-01:14.30] CAMERA: Medium shot of Catherine letting out a scornful laugh, tilting her head.\n[01:12.10-01:14.30] CATHERINE (Scoffing, Amused): \"Your scarred soldier?\"\n[01:14.30-01:14.55] CAMERA: Close-up of Catherine's face hardening into sharp mockery."
+    }
+  ]
+}

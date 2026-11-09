@@ -1,0 +1,35 @@
+PROMO ep36-1a38e774
+Episode 36 - Episode 36
+Duration: 30.8s   Segments: 1
+Score: 78.86 (heuristic 78.86)
+
+IN / OUT
+  segment 1: 01:57.50 -> 02:28.25  (30.75s)
+
+HOOK      01:57.50  "You told them the truth!"
+CLIFF     02:26.50  "What wedding?"
+
+WHY       opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 36, 1 segment(s), 31s
+[01:57.50-01:59.30] ALEXANDER (Furious): "You told them the truth!"
+[01:59.50-02:03.00] CAMERA: Close-up on his mother as she cries out, devastated by the memory of the kangaroo court.
+[01:59.80-02:02.50] ALEXANDER'S MOTHER (Agonized): "They called her a witch!"
+[02:03.00-02:07.50] CAMERA: Frontal medium shot of Alexander standing frozen, the weight of the realization crashing down on him.
+[02:03.80-02:06.80] ALEXANDER (Horrified): "Juliana... is in a cell?"
+[02:07.50-02:10.80] CAMERA: Close-up of his mother clutching her temple, reeling in remembered trauma.
+[02:07.80-02:10.50] ALEXANDER'S MOTHER (Weak, Trembling): "She was taken before a magistrate."
+[02:10.80-02:12.00] CAMERA: Tight shot of Alexander, his eyes wild with terror for his wife.
+[02:10.90-02:11.80] ALEXANDER (Barking): "And?!"
+[02:12.00-02:15.00] CAMERA: Close-up on his mother breaking down into inconsolable sobs.
+[02:12.20-02:14.40] ALEXANDER'S MOTHER (Weeping): "They condemned her."
+[02:14.50-02:15.20] ALEXANDER (Gasping): "No."
+[02:15.00-02:19.00] CAMERA: Close-up on his mother looking up through her tears, delivering the horrifying reality.
+[02:16.00-02:18.80] ALEXANDER'S MOTHER (Solemn, Shattered): "She is to be executed."
+[02:19.00-02:22.00] CAMERA: Wide shot of the cabin as Alexander stands stiff as iron, stunned by the looming death sentence.
+[02:20.20-02:21.50] ALEXANDER (Guttural, Demanding): "When?"
+[02:22.00-02:25.80] CAMERA: Close-up on his mother, her hand clutched tightly against her throat.
+[02:23.20-02:25.50] ALEXANDER'S MOTHER (Trembling): "After the wedding."
+[02:25.80-02:28.25] CAMERA: Close-up on Alexander, narrowing his eyes in lethal suspicion.
+[02:26.50-02:28.00] ALEXANDER (Cold, Menacing): "What wedding?"

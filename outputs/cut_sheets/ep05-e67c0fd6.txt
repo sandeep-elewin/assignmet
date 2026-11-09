@@ -1,0 +1,29 @@
+PROMO ep05-e67c0fd6
+Episode 5 - Episode 5
+Duration: 25.2s   Segments: 1
+Score: 53.19 (heuristic 53.19)
+
+IN / OUT
+  segment 1: 00:57.00 -> 01:22.25  (25.25s)
+
+HOOK      00:57.00  A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.
+CLIFF     01:20.50  "They destroyed it."
+
+WHY       opens on a clear dramatic question; ends without a real cliffhanger; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 5, 1 segment(s), 25s
+[00:57.00-00:58.20] SOUND: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.
+[00:57.80-01:03.00] CAMERA: Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.
+[00:59.00-01:02.50] CLARISSA (Gleeful, Mocking): "Even your mother's precious legacy has been cast into the dirt!"
+[01:02.40-01:04.60] GERALD (Smug, Cruel): "Perhaps that is where it belongs."
+[01:03.00-01:06.50] CAMERA: Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.
+[01:05.50-01:08.50] ACTION: Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.
+[01:06.50-01:09.00] CAMERA: Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.
+[01:09.00-01:12.50] CAMERA: Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.
+[01:10.50-01:14.50] ACTION: The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.
+[01:14.50-01:16.00] CAMERA: Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.
+[01:16.00-01:20.00] CAMERA: Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.
+[01:17.80-01:19.00] MYSTERIOUS BEARDED MAN (Low, Gentle): "Here you go."
+[01:20.00-01:22.25] CAMERA: Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.
+[01:20.50-01:22.00] JULIANA (Choked, Weeping): "They destroyed it."

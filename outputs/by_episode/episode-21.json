@@ -1,0 +1,64 @@
+{
+  "episode": 21,
+  "label": "Episode 21",
+  "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+  "continuity_notes": "Directly follows Episode 20's cliffhanger where Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise; in the village, Juliana puts aside her grief over her burned cottage to save young Toby, stumbling upon critical intelligence regarding the manor.",
+  "duration_s": 114.0,
+  "candidates_considered": 9,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "no real cliffhanger (0.21 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep21-6ff321a1",
+      "rank": null,
+      "episode": 21,
+      "episode_label": "Episode 21",
+      "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 3.5,
+          "end": 40.65,
+          "start_tc": "00:03.50",
+          "end_tc": "00:40.65",
+          "duration": 37.15
+        }
+      ],
+      "clip_duration": 37.15,
+      "hook": "A loud wooden slam as the heavy double barn doors violently fly open.",
+      "cliffhanger": "\"Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.\"",
+      "why_it_works": "opens on a clear dramatic question; ends without a real cliffhanger; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 57.53,
+      "heuristic_score": 57.53,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.6,
+        "cliffhanger": 0.214,
+        "standalone": 0.95,
+        "arc": 0.739,
+        "pacing": 0.557
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "no real cliffhanger (0.21 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 21, 1 segment(s), 37s\n[00:03.50-00:04.80] SOUND: A loud wooden slam as the heavy double barn doors violently fly open.\n[00:03.60-00:08.50] CAMERA: Wide shot framing the open doorway against the overcast daylight as Prudence, a young village girl in an apron, rushes inside, frantic and weeping.\n[00:04.20-00:08.00] PRUDENCE (Desperate, Panicked): \"Lady Juliana! Please! You have to help me, Toby is dying!\"\n[00:08.20-00:10.50] ACTION: Lady Juliana hurries over, placing her bandaged hands reassuringly on Prudence's trembling shoulders.\n[00:08.50-00:11.20] CAMERA: Medium close-up of Lady Juliana looking into Prudence's tearful face with compassionate urgency.\n[00:08.50-00:11.00] LADY JULIANA (Gentle, Urgent): \"Oh dear. Breathe. Tell me what has happened.\"\n[00:11.20-00:15.10] CAMERA: Close-up of Prudence weeping, clutching her hands to her chest in agony.\n[00:11.20-00:15.00] PRUDENCE (Sobbing, Breathless): \"My little brother Toby... his chest is burning! He cannot breathe!\"\n[00:15.00-00:18.20] LADY JULIANA (Inquiring, Strained): \"Tell me what the apothecary said. Did he not give you medicine?\"\n[00:15.10-00:18.20] CAMERA: Close-up of Lady Juliana, her brow furrowing with concern.\n[00:18.20-00:21.80] CAMERA: Close-up of Prudence, her face twisted in bitter anguish as she gestures back toward the rain-soaked outdoors.\n[00:18.20-00:21.70] PRUDENCE (Anguished, Resentful): \"He shut the door in my face because we have no silver!\"\n[00:21.80-00:25.00] CAMERA: Wide shot of Lady Juliana and Prudence facing each other inside the wooden barn, dust motes drifting in the pale light.\n[00:21.80-00:25.30] PRUDENCE (Bitter, Tearful): \"The manor doctor laughed! He said village boys are not worth his time!\"\n[00:25.00-00:30.90] CAMERA: Medium profile shot of Lady Juliana looking down at her bandaged hands, holding Prudence's hand with somber heartache.\n[00:25.10-00:27.40] LADY JULIANA (Sorrowful, Dejected): \"We have no clinic now.\"\n[00:27.50-00:30.80] LADY JULIANA (Despondent): \"Our cottage is ashes. I have nothing left but this coltsfoot.\"\n[00:31.00-00:33.00] ACTION: Prudence drops desperately to her knees onto the hay-strewn barn floor, clasping her hands in tearful supplication.\n[00:31.00-00:35.80] PRUDENCE (Pleading, Desperate): \"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\"\n[00:31.10-00:35.80] CAMERA: High-angle looking down at Prudence kneeling before Lady Juliana, pleading upward.\n[00:35.80-00:39.50] ACTION: Lady Juliana immediately reaches down and pulls Prudence firmly back to her feet, then turns to snatch her heavy leather-bound herbal ledger from the wooden workbench.\n[00:35.90-00:40.50] CAMERA: Medium shot framing the barn entrance as Lady Juliana lifts Prudence up, grabs her book, and leads the way out.\n[00:35.90-00:40.40] LADY JULIANA (Resolute, Authoritative): \"Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.\"\n[00:40.50-00:40.65] CAMERA: Tracking wide shot following Lady Juliana and Prudence running side by side along a muddy, puddled village road past thatched stone cottages under a gloomy, overcast sky.\n[00:40.50-00:40.65] ACTION: Lady Juliana clutches the thick book to her chest as she and Prudence sprint swiftly through the village."
+    }
+  ]
+}

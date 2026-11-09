@@ -1,0 +1,121 @@
+{
+  "episode": 45,
+  "label": "Episode 45",
+  "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+  "continuity_notes": "Picks up directly from Episode 44's climax where Alexander walked away from Catherine towards Juliana standing in chains at the church doorway.",
+  "duration_s": 121.75,
+  "candidates_considered": 12,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep45-4689706d",
+      "rank": 3,
+      "episode": 45,
+      "episode_label": "Episode 45",
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+      "stitched": true,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 22.9,
+          "end": 42.05,
+          "start_tc": "00:22.90",
+          "end_tc": "00:42.05",
+          "duration": 19.15
+        },
+        {
+          "segment": 2,
+          "start": 93.2,
+          "end": 113.25,
+          "start_tc": "01:33.20",
+          "end_tc": "01:53.25",
+          "duration": 20.05
+        }
+      ],
+      "clip_duration": 39.2,
+      "hook": "\"You're the Duke?\"",
+      "cliffhanger": "\"You are not Alexander Ashburton's lawful wife.\"",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; ends on a raised stake; reads clean to a first-time viewer.",
+      "score": 74.91,
+      "heuristic_score": 74.91,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.984,
+        "cliffhanger": 0.673,
+        "standalone": 0.77,
+        "arc": 0.353,
+        "pacing": 0.668
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA, PRIEST"
+        ],
+        "prior_knowledge_entities": [
+          "PRIEST",
+          "ALEXANDER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 45, 2 segment(s), 39s\n-- segment 1: 00:22.90 to 00:42.05 --\n[00:22.90-00:24.40] JULIANA (Shocked, Wondering): \"You're the Duke?\"\n[00:24.50-00:27.20] CAMERA: Close-up on Alexander looking intensely into her eyes.\n[00:24.60-00:27.40] ALEXANDER (Firm, Resonant): \"Alexander Ashburton. The rightful Duke of Ashburton.\"\n[00:27.20-00:29.80] CAMERA: Close-up on Juliana, tears of awe spilling over her cheeks.\n[00:27.60-00:29.60] JULIANA (Incredulous, Moved): \"All this time?\"\n[00:29.80-00:35.80] CAMERA: Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand.\n[00:30.20-00:33.00] ALEXANDER (Tender, Deep): \"You chose me when you believed I was nobody.\"\n[00:33.20-00:34.90] JULIANA (Sincere, Loving): \"I chose you because you were kind.\"\n[00:35.10-00:36.80] ALEXANDER (Low, Passionate): \"You chose me when I had nothing.\"\n[00:35.80-00:38.50] CAMERA: Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence.\n[00:37.00-00:38.70] JULIANA (Resolute, Warm): \"I chose you because you had honor.\"\n[00:38.50-00:42.00] CAMERA: Tight close-up on Alexander looking deep into Juliana's blue eyes.\n[00:38.80-00:41.80] ALEXANDER (Earnest, Devoted): \"And I chose you because you saw the man before the title.\"\n[00:42.00-00:42.05] CAMERA: Extreme close-up as Alexander and Juliana rest their foreheads and noses together in an intimate embrace.\n-- segment 2: 01:33.20 to 01:53.25 --\n[01:33.20-01:41.00] ACTION: The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward.\n[01:33.20-01:41.10] HIGH PRIEST (Commanding, Severe): \"This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.\"\n[01:41.20-01:45.80] CAMERA: Close-up on the High Priest unfolding the document, reading aloud to the congregation.\n[01:41.50-01:45.50] HIGH PRIEST (Stern, Official): \"These vows were never entered into the Royal Matrimonial Register.\"\n[01:45.80-01:48.80] CAMERA: Medium shot of Alexander shielding Juliana behind him as the Crown officer approaches with drawn sword.\n[01:46.20-01:48.80] HIGH PRIEST (Harsh, Resolute): \"Before the Crown, you are not Duchess of Ashburton.\"\n[01:48.80-01:53.20] CAMERA: Close-up of the High Priest scowling directly at Juliana with unyielding authority.\n[01:49.00-01:53.00] HIGH PRIEST (Unyielding, Condemning): \"You are not Alexander Ashburton's lawful wife.\"\n[01:53.20-01:53.25] CAMERA: Close-up two-shot of Juliana gasping in terror, clutching Alexander's hand tightly as Alexander glares at the Priest."
+    },
+    {
+      "id": "ep45-7dc603e1",
+      "rank": null,
+      "episode": 45,
+      "episode_label": "Episode 45",
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 67.0,
+          "end": 91.05,
+          "start_tc": "01:07.00",
+          "end_tc": "01:31.05",
+          "duration": 24.05
+        }
+      ],
+      "clip_duration": 24.05,
+      "hook": "Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview.",
+      "cliffhanger": "\"No one will bow yet!\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 63.63,
+      "heuristic_score": 63.63,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.624,
+        "standalone": 0.6,
+        "arc": 0.743,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, ASHCROFT, CATHERINE, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ASHCROFT",
+          "ALEXANDER",
+          "RUPERT",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 45, 1 segment(s), 24s\n[01:07.00-01:11.20] CAMERA: Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview.\n[01:08.80-01:10.50] CATHERINE (Trembling, Stunned): \"Wife?!\"\n[01:11.20-01:14.50] CAMERA: Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle.\n[01:11.20-01:14.50] ACTION: Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests.\n[01:11.50-01:14.00] ALEXANDER (Authoritative, Resounding): \"Before the Crown and before God...\"\n[01:14.50-01:20.50] CAMERA: Medium shot as Alexander stops in the center of the nave and raises Juliana's hand high above their heads.\n[01:14.60-01:20.00] ACTION: Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility.\n[01:14.80-01:20.40] ALEXANDER (Proclaiming, Powerful): \"Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\"\n[01:20.50-01:23.50] CAMERA: Close-up on Rupert and Mary standing in the pews, their eyes wide with horrified disbelief.\n[01:21.50-01:23.00] RUPERT (Gasping, Shellshocked): \"Juliana?!\"\n[01:23.50-01:26.50] CAMERA: Wide shot of Alexander and Juliana standing proudly together, exchanging a loving gaze amid the awestruck crowd.\n[01:26.50-01:30.50] CAMERA: Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist.\n[01:26.50-01:28.20] SOUND: Loud, echoing thud of cathedral doors swinging open violently.\n[01:27.50-01:31.00] ACTION: A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.\n[01:28.40-01:30.80] HIGH PRIEST (Booming, Stern): \"No one will bow yet!\"\n[01:30.80-01:31.05] CAMERA: Low-angle shot on Alexander and Juliana turning in alarm toward the rear of the cathedral."
+    }
+  ]
+}

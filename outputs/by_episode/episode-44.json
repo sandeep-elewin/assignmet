@@ -1,0 +1,64 @@
+{
+  "episode": 44,
+  "label": "Episode 44",
+  "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+  "continuity_notes": "Picks up immediately from Episode 43's cliffhanger at the church side exit; Lord Sterling's escape is blocked by the Police Constable, leading into the downfall of the conspirators.",
+  "duration_s": 70.5,
+  "candidates_considered": 8,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep44-ae868daf",
+      "rank": null,
+      "episode": 44,
+      "episode_label": "Episode 44",
+      "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 17.4,
+          "end": 63.65,
+          "start_tc": "00:17.40",
+          "end_tc": "01:03.65",
+          "duration": 46.25
+        }
+      ],
+      "clip_duration": 46.25,
+      "hook": "\"Do something!\"",
+      "cliffhanger": "\"Did you?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 60.52,
+      "heuristic_score": 60.52,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.63,
+        "cliffhanger": 0.6,
+        "standalone": 0.6,
+        "arc": 0.428,
+        "pacing": 0.998
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, BLOND NOBLEMAN, CATHERINE, GUARD"
+        ],
+        "prior_knowledge_entities": [
+          "GUARD",
+          "ALEXANDER",
+          "BLOND NOBLEMAN",
+          "RUPERT",
+          "CATHERINE"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 44, 1 segment(s), 46s\n[00:17.40-00:19.30] BLOND NOBLEMAN (Desperate, Screaming): \"Do something!\"\n[00:19.40-00:22.00] CAMERA: Medium close-up on Catherine beneath her bridal veil, looking downward in conflicted silence.\n[00:21.80-00:24.40] ACTION: Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.\n[00:22.00-00:24.40] CAMERA: Close-up on Catherine's gloved hand tightening into a fist.\n[00:24.40-00:27.80] CAMERA: Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically.\n[00:25.20-00:28.00] CATHERINE (Shaken, Tearful): \"Alexander... I thought you had died.\"\n[00:27.80-00:31.20] CAMERA: Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure.\n[00:28.40-00:31.00] CATHERINE (Choked, Weeping): \"Do you know what this did to me?\"\n[00:31.20-00:32.40] CAMERA: Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached.\n[00:31.20-00:32.40] CATHERINE (Pleading): \"I mourned you.\"\n[00:32.40-00:34.00] CAMERA: Profile close-up of Catherine as a tear slips down her cheek.\n[00:32.40-00:34.00] CATHERINE (Vulnerable, Trembling): \"I waited for you.\"\n[00:34.00-00:35.80] CAMERA: Medium shot of Catherine standing in the center of the aisle before the seated congregation.\n[00:34.20-00:38.80] CATHERINE (Heartbroken): \"For three years, I believed the man I loved was buried somewhere across the sea.\"\n[00:35.80-00:38.80] CAMERA: Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly.\n[00:38.80-00:41.20] CAMERA: Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek.\n[00:38.90-00:41.20] CATHERINE (Whispering, Longing): \"I never stopped loving you.\"\n[00:41.20-00:42.80] ACTION: Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air.\n[00:41.20-00:42.80] CAMERA: Close-up on Catherine's empty gloved hand trembling in the empty space between them.\n[00:42.80-00:46.40] CAMERA: Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection.\n[00:44.20-00:46.40] CATHERINE (Breathless, Hurt): \"You don't remember?\"\n[00:46.40-00:49.00] CAMERA: High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background.\n[00:46.60-00:48.80] CATHERINE (Desperate, Demanding): \"I was supposed to be your Duchess!\"\n[00:49.00-00:51.00] CAMERA: Medium two-shot of Catherine and Alexander confronting each other.\n[00:49.20-00:51.00] ALEXANDER (Cold, Implacable): \"You were never my Duchess.\"\n[00:51.00-00:53.00] CAMERA: Extreme close-up on Catherine's tearful face.\n[00:51.10-00:52.80] CATHERINE (Sobbing, Pleading): \"But I loved you!\"\n[00:53.00-00:55.60] CAMERA: Medium close-up on Alexander, his scarred jaw set firm.\n[00:53.00-00:55.50] ALEXANDER (Scornful, Biting): \"You loved the Duke you thought you would marry.\"\n[00:55.60-00:59.00] CAMERA: Close-up on Catherine, gasping in protest.\n[00:56.20-00:58.20] CATHERINE (Defiant, Pained): \"No!\"\n[00:59.00-01:02.40] CAMERA: Medium shot as Catherine clutches her chest, pouring her heart out.\n[00:59.80-01:02.40] CATHERINE (Passionate, Crying): \"I loved you before all this!\"\n[01:02.40-01:03.65] CAMERA: Close-up on Alexander tilting his head slightly, his gaze piercing through her.\n[01:02.50-01:03.40] ALEXANDER (Skeptical, Cutting): \"Did you?\""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+PROMO ep24-c7f2c479
+Episode 24 - Episode 24
+Duration: 45.2s   Segments: 1
+Score: 62.94 (heuristic 62.94)
+
+IN / OUT
+  segment 1: 00:22.50 -> 01:07.75  (45.25s)
+
+HOOK      00:22.50  "You thought? A new maid thinks she knows better than the physicians?"
+CLIFF     01:06.20  "My lady—"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 24, 1 segment(s), 45s
+[00:22.50-00:26.80] CAMERA: Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.
+[00:22.50-00:26.50] NOBLEWOMAN (Scoffing, Cruel): "You thought? A new maid thinks she knows better than the physicians?"
+[00:26.80-00:28.80] CAMERA: Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency.
+[00:27.00-00:28.60] LADY JULIANA (Emphatic, Defiant): "She is suffering."
+[00:28.80-00:30.80] CAMERA: Tight close-up of the noblewoman's face twisting into a malicious sneer.
+[00:29.00-00:30.80] NOBLEWOMAN (Vicious, Venomous): "Then let her suffer."
+[00:30.80-00:32.80] CAMERA: Close-up of Juliana recoiling slightly in shock at the blatant cruelty.
+[00:31.00-00:32.50] LADY JULIANA (Steely, Steadfast): "I cannot do that."
+[00:32.50-00:34.50] ACTION: The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.
+[00:32.80-00:33.80] SOUND: A sharp, stinging whip crack as the riding crop makes harsh contact.
+[00:33.80-00:36.50] ACTION: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.
+[00:33.80-00:36.80] CAMERA: Medium shot of Juliana hunched over in pain, clutching her abdomen.
+[00:35.00-00:36.80] NOBLEWOMAN (Cold, Threatening): "You are a maid."
+[00:36.80-00:38.80] CAMERA: Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply.
+[00:37.00-00:38.80] NOBLEWOMAN (Cold, Continuing): "Not a physician. Not a lady."
+[00:38.80-00:43.00] CAMERA: Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana.
+[00:39.00-00:42.80] NOBLEWOMAN (Disdainful, Final): "And certainly not a woman whose opinion matters."
+[00:43.00-00:45.50] CAMERA: Close-up of Juliana looking down, enduring the humiliation while stifling her breath.
+[00:43.20-00:44.80] LADY JULIANA (Subdued, Controlled): "Yes, my lady."
+[00:45.50-00:48.50] CAMERA: Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction.
+[00:45.50-00:48.00] NOBLEWOMAN (Smug, Condescending): "Good. Perhaps we can teach you your place."
+[00:48.50-00:51.50] ACTION: The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway.
+[00:48.50-00:51.50] CAMERA: Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps.
+[00:51.50-00:53.50] ACTION: Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth.
+[00:51.50-00:54.00] CAMERA: Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side.
+[00:53.60-00:55.20] NOBLEWOMAN (Harsh, Dismissive): "Clean it."
+[00:54.00-00:56.20] CAMERA: Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth.
+[00:56.20-00:57.80] CAMERA: Close-up of Juliana looking up at the towering, soot-blackened chimney.
+[00:56.20-00:57.60] LADY JULIANA (Quiet, Questioning): "All of it, my lady?"
+[00:57.80-01:03.80] CAMERA: Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish.
+[00:57.80-01:03.50] NOBLEWOMAN (Intimate, Venomous): "Every stone. Perhaps when your hands are black enough, you will finally remember what you are."
+[01:03.80-01:06.00] ACTION: Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace.
+[01:03.80-01:06.20] CAMERA: Medium shot of Juliana sinking to her knees, her face grim and composed.
+[01:06.00-01:07.50] ACTION: Prudence steps toward the noblewoman in distress, her hands clasped tightly.
+[01:06.20-01:07.75] CAMERA: Close-up of Prudence's anxious, trembling face.
+[01:06.20-01:07.50] PRUDENCE (Desperate, Pleading): "My lady—"
+[01:07.50-01:07.75] ACTION: The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.

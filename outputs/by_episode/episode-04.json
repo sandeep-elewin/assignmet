@@ -1,0 +1,110 @@
+{
+  "episode": 4,
+  "label": "Episode 4",
+  "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+  "continuity_notes": "Picks up directly from Episode 3's cliffhanger where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana.",
+  "duration_s": 151.4,
+  "candidates_considered": 9,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep04-876d4b4e",
+      "rank": null,
+      "episode": 4,
+      "episode_label": "Episode 4",
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 3.4,
+          "end": 33.95,
+          "start_tc": "00:03.40",
+          "end_tc": "00:33.95",
+          "duration": 30.55
+        }
+      ],
+      "clip_duration": 30.55,
+      "hook": "\"Look at him.\"",
+      "cliffhanger": "\"And what do you see?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.",
+      "score": 67.92,
+      "heuristic_score": 67.92,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.604,
+        "cliffhanger": 0.654,
+        "standalone": 0.95,
+        "arc": 0.278,
+        "pacing": 0.988
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 4, 1 segment(s), 31s\n[00:03.40-00:04.90] GERALD (Mocking, Arrogant): \"Look at him.\"\n[00:05.00-00:07.50] CAMERA: Tight close-up of Gerald's venomous, self-satisfied face.\n[00:05.00-00:07.50] GERALD (Scornful): \"A penniless nobody for a discarded bride.\"\n[00:07.60-00:10.50] CAMERA: Medium shot of Clarissa covering her mouth with her gloved hand, bursting into cruel laughter.\n[00:07.80-00:09.50] ACTION: Clarissa giggles spitefully, lowering her gloved hand to gloat.\n[00:09.00-00:10.50] CLARISSA (Gleeful, Condescending): \"How fitting.\"\n[00:10.50-00:12.00] CAMERA: Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers.\n[00:10.60-00:14.20] CLARISSA (Taunting): \"You have finally found a man as worthless as everyone thinks you are.\"\n[00:12.00-00:15.00] CAMERA: Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep.\n[00:15.00-00:17.50] CAMERA: Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength.\n[00:15.50-00:17.50] ACTION: Juliana closes her eyes briefly and releases a steadying breath.\n[00:17.50-00:21.80] CAMERA: Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana.\n[00:20.00-00:21.80] JULIANA (Vulnerable, Trembling): \"You don't even know me.\"\n[00:21.90-00:23.40] CAMERA: Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness.\n[00:23.40-00:25.80] CAMERA: Tight close-up of Juliana's anguished face.\n[00:23.50-00:25.80] JULIANA (Conflicted, Pained): \"You heard what they think I am.\"\n[00:25.80-00:27.90] CAMERA: Medium shot looking down as Juliana addresses the kneeling stranger directly.\n[00:25.90-00:27.70] JULIANA (Searching): \"Why would you offer me your name?\"\n[00:27.90-00:30.50] CAMERA: Low-angle close-up of the Mysterious Bearded Man.\n[00:28.00-00:30.20] MYSTERIOUS BEARDED MAN (Grave, Certain): \"Because I know what I see.\"\n[00:30.50-00:32.00] CAMERA: Medium close-up of Juliana reacting with a mix of suspicion and wonder.\n[00:32.00-00:33.80] CAMERA: Intimate tight shot framing Juliana's profile beside his dark silhouette.\n[00:32.10-00:33.70] JULIANA (Quiet, Hesitant): \"And what do you see?\"\n[00:33.80-00:33.95] CAMERA: Medium close-up of the Mysterious Bearded Man."
+    },
+    {
+      "id": "ep04-726367f4",
+      "rank": null,
+      "episode": 4,
+      "episode_label": "Episode 4",
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 53.6,
+          "end": 86.05,
+          "start_tc": "00:53.60",
+          "end_tc": "01:26.05",
+          "duration": 32.45
+        }
+      ],
+      "clip_duration": 32.45,
+      "hook": "\"If this is pity, take back your ring.\"",
+      "cliffhanger": "\"Are you certain?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 61.09,
+      "heuristic_score": 61.09,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.47,
+        "cliffhanger": 0.72,
+        "standalone": 0.69,
+        "arc": 0.353,
+        "pacing": 0.993
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CLARISSA, JULIANA, MYSTERIOUS BEARDED MAN"
+        ],
+        "prior_knowledge_entities": [
+          "CLARISSA",
+          "MYSTERIOUS BEARDED MAN",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 4, 1 segment(s), 32s\n[00:53.60-00:55.80] JULIANA (Defiant, Dignified): \"If this is pity, take back your ring.\"\n[00:55.80-00:59.00] CAMERA: Tight close-up on Juliana's face, a tear clinging to her cheek.\n[00:56.80-00:58.80] JULIANA (Fierce): \"I will not become anyone's charity.\"\n[00:59.00-01:02.80] CAMERA: Medium close-up of the Mysterious Bearded Man holding her gaze directly.\n[00:59.50-01:02.50] MYSTERIOUS BEARDED MAN (Earnest): \"It is not pity, Lady Juliana.\"\n[01:02.80-01:05.80] CAMERA: Intense tight close-up on his piercing blue-green eyes and facial scars.\n[01:03.50-01:05.50] MYSTERIOUS BEARDED MAN (Deep, Absolute): \"It is a vow.\"\n[01:05.80-01:07.50] CAMERA: Close-up of Juliana, completely disarmed by the gravity of his promise.\n[01:06.00-01:08.00] JULIANA: \"I don't know this man.\"\n[01:07.50-01:09.50] CAMERA: Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew.\n[01:08.00-01:09.60] JULIANA: \"I don't know what waits beyond these doors.\"\n[01:09.50-01:11.80] CAMERA: Side profile close-up of Juliana looking toward her estranged family, then turning back.\n[01:09.80-01:12.00] JULIANA: \"But he looked at me when everyone else turned away.\"\n[01:11.80-01:14.80] CAMERA: Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips.\n[01:12.80-01:14.50] JULIANA (Resolved): \"Then I accept.\"\n[01:14.80-01:16.20] CAMERA: Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them.\n[01:16.20-01:19.00] CAMERA: Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana.\n[01:16.20-01:19.00] ACTION: The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.\n[01:19.00-01:21.80] CAMERA: Close-up of Juliana's slender hand resting gently into his large, weathered palm.\n[01:19.20-01:21.50] ACTION: He folds his fingers over hers, holding her hand with protective firmness.\n[01:21.80-01:24.00] CAMERA: Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.\n[01:22.00-01:23.80] THE PRIEST (Hesitant, Anxious): \"My- My Lady...\"\n[01:24.00-01:26.00] CAMERA: Tight close-up of the Priest's alarmed, questioning eyes.\n[01:24.00-01:25.80] THE PRIEST (Tentative): \"Are you certain?\"\n[01:26.00-01:26.05] CAMERA: Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence."
+    }
+  ]
+}

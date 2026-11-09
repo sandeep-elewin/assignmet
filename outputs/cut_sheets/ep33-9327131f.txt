@@ -1,0 +1,33 @@
+PROMO ep33-9327131f
+Episode 33 - Episode 33
+Duration: 32.2s   Segments: 1
+Score: 61.05 (heuristic 61.05)
+
+IN / OUT
+  segment 1: 01:52.00 -> 02:24.25  (32.25s)
+
+HOOK      01:52.00  "I don't know!"
+CLIFF     02:20.50  "I never said she was a witch!"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 33, 1 segment(s), 32s
+[01:52.00-01:53.50] MAID (Hysterically Sobbing): "I don't know!"
+[01:53.80-01:59.50] CAMERA: Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.
+[01:54.00-01:56.50] LORD (Calculating, Relentless): "You saw a woman draw a circle of herbs."
+[01:56.80-01:59.50] LORD (Relentless): "You saw her use a forbidden book."
+[01:59.50-02:03.50] CAMERA: Close-up profile of the Lord leaning in right in front of the sobbing maid.
+[01:59.80-02:02.80] LORD (Condemning): "You heard words you could not understand."
+[02:03.50-02:06.80] CAMERA: Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.
+[02:04.50-02:06.50] LORD (Deadly, Resolute): "That is witchcraft."
+[02:06.80-02:11.80] CAMERA: Medium two-shot as the maid steps forward, pleading passionately against his chest.
+[02:06.80-02:11.50] MAID (Crying Out, Desperate): "No! She saved Toby! She made him breathe again!"
+[02:11.80-02:14.50] CAMERA: Close-up of the Lord calmly watching her futile resistance.
+[02:12.00-02:14.00] LORD (Cold, Final): "That will be your testimony."
+[02:14.50-02:17.80] CAMERA: Close-up of the maid's face frozen in horrified realization.
+[02:14.50-02:17.00] MAID (Gasping, Shocked): "My testimony?!"
+[02:17.80-02:20.50] CAMERA: Close-up of the Lord delivering the ultimatum without blinking.
+[02:18.00-02:20.00] LORD (Unyielding): "Before the magistrate."
+[02:20.50-02:24.25] CAMERA: Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.
+[02:20.50-02:24.00] MAID (Wailing, Tormented): "I never said she was a witch!"

@@ -1,0 +1,63 @@
+{
+  "episode": 26,
+  "label": "Episode 26",
+  "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+  "continuity_notes": "Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold.",
+  "duration_s": 120.88,
+  "candidates_considered": 8,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep26-9801a32c",
+      "rank": null,
+      "episode": 26,
+      "episode_label": "Episode 26",
+      "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 56.0,
+          "end": 79.65,
+          "start_tc": "00:56.00",
+          "end_tc": "01:19.65",
+          "duration": 23.65
+        }
+      ],
+      "clip_duration": 23.65,
+      "hook": "\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+      "cliffhanger": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 57.48,
+      "heuristic_score": 57.48,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.591,
+        "cliffhanger": 0.624,
+        "standalone": 0.64,
+        "arc": 0.353,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, DOWAGER, JULIANA, RUPERT"
+        ],
+        "prior_knowledge_entities": [
+          "DOWAGER",
+          "RUPERT",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 26, 1 segment(s), 24s\n[00:56.00-01:02.00] DOWAGER DUCHESS (Trembling, Heartbroken): \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"\n[01:02.50-01:07.00] CAMERA: Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.\n[01:02.60-01:06.70] JULIANA (Reassuring, Steadfast): \"Yes. But the charcoal is fighting the poison. You are safe now.\"\n[01:07.00-01:11.80] CAMERA: Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.\n[01:11.80-01:19.60] CAMERA: Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.\n[01:13.80-01:19.40] DOWAGER DUCHESS (Curious, Searching): \"Then tell me... why is a girl of such noble spirit working as a common maid?\"\n[01:19.60-01:19.65] CAMERA: Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+    }
+  ]
+}

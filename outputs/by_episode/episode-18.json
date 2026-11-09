@@ -1,0 +1,108 @@
+{
+  "episode": 18,
+  "label": "Episode 18",
+  "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+  "continuity_notes": "Picks up directly from Episode 17's intimate hearthside moment; their peaceful sanctuary is shattered when arsonists trap Juliana and Alexander inside their burning home.",
+  "duration_s": 192.0,
+  "candidates_considered": 14,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep18-8273ebf4",
+      "rank": 1,
+      "episode": 18,
+      "episode_label": "Episode 18",
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 145.8,
+          "end": 186.75,
+          "start_tc": "02:25.80",
+          "end_tc": "03:06.75",
+          "duration": 40.95
+        }
+      ],
+      "clip_duration": 40.95,
+      "hook": "\"Why would anyone do this?\"",
+      "cliffhanger": "\"What are you going to do?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 79.04,
+      "heuristic_score": 79.04,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.647,
+        "cliffhanger": 0.864,
+        "standalone": 0.9,
+        "arc": 0.658,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 18, 1 segment(s), 41s\n[02:25.80-02:28.50] JULIANA (Voice Breaking, Anguished): \"Why would anyone do this?\"\n[02:33.20-02:34.80] JULIANA (Whispering, Tearful): \"Alexander...\"\n[02:35.00-02:41.00] ACTION: Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably.\n[02:38.00-02:40.80] ALEXANDER (Cold, Ominous): \"Someone wanted us out.\"\n[02:43.00-02:45.50] JULIANA (Despairing, Weeping): \"We have nowhere to go.\"\n[02:45.50-02:51.00] CAMERA: Slow push-in on Alexander's face over Juliana's shoulder. His expression hardens into a mask of pure, lethal fury.\n[02:51.00-02:59.50] CAMERA: Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire.\n[02:51.80-02:57.20] ALEXANDER (Cold Fury, Resolute): \"They took our home. I will not let them take anything else now.\"\n[02:59.50-03:04.00] ACTION: Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his hardened features.\n[03:04.20-03:06.50] JULIANA (Trembling, Apprehensive): \"What are you going to do?\"\n[03:06.50-03:06.75] CAMERA: Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black."
+    },
+    {
+      "id": "ep18-0e077cbe",
+      "rank": null,
+      "episode": 18,
+      "episode_label": "Episode 18",
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 115.5,
+          "end": 148.75,
+          "start_tc": "01:55.50",
+          "end_tc": "02:28.75",
+          "duration": 33.25
+        }
+      ],
+      "clip_duration": 33.25,
+      "hook": "Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames.",
+      "cliffhanger": "\"Why would anyone do this?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 73.11,
+      "heuristic_score": 73.11,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.68,
+        "cliffhanger": 0.68,
+        "standalone": 0.9,
+        "arc": 0.656,
+        "pacing": 0.771
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 18, 1 segment(s), 33s\n[01:55.50-01:59.80] CAMERA: Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames.\n[01:59.80-02:04.00] CAMERA: Night exterior shot in the dark grass outside. Juliana sits over Alexander, brushing ashes from his face as he coughs and catches his breath.\n[02:04.00-02:08.50] CAMERA: Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness.\n[02:08.50-02:14.50] CAMERA: Close-up of Juliana kneeling in the mud, her face blackened with soot and tears streaming down her cheeks as she clutches the charred ledger.\n[02:14.50-02:20.00] CAMERA: Wide shot of the cottage completely consumed by towering flames against the dark night sky.\n[02:16.20-02:18.00] JULIANA (Sobbing, Heartbroken): \"Our home...\"\n[02:19.80-02:22.50] JULIANA (Crying, Shattered): \"Everything we had is gone.\"\n[02:20.50-02:24.00] ACTION: Alexander kneels beside her in the grass, resting a steady, protective hand on her back.\n[02:24.00-02:28.75] ACTION: Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest.\n[02:25.80-02:28.50] JULIANA (Voice Breaking, Anguished): \"Why would anyone do this?\""
+    }
+  ]
+}

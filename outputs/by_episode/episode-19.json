@@ -1,0 +1,61 @@
+{
+  "episode": 19,
+  "label": "Episode 19",
+  "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+  "continuity_notes": "Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn.",
+  "duration_s": 119.63,
+  "candidates_considered": 9,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep19-dab2e95f",
+      "rank": null,
+      "episode": 19,
+      "episode_label": "Episode 19",
+      "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 28.5,
+          "end": 81.25,
+          "start_tc": "00:28.50",
+          "end_tc": "01:21.25",
+          "duration": 52.75
+        }
+      ],
+      "clip_duration": 52.75,
+      "hook": "\"Thank you.\"",
+      "cliffhanger": "\"And everyone believes you are dead.\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 63.22,
+      "heuristic_score": 63.22,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.47,
+        "cliffhanger": 0.726,
+        "standalone": 0.77,
+        "arc": 0.778,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, ELDER VILLAGER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER",
+          "JULIANA",
+          "ELDER VILLAGER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 19, 1 segment(s), 53s\n[00:28.50-00:29.80] JULIANA (Whispering, Tearful): \"Thank you.\"\n[00:30.80-00:34.50] ACTION: Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager.\n[00:31.20-00:33.20] ALEXANDER (Deep, Solemn): \"We will not forget this kindness.\"\n[00:33.30-00:34.80] ELDER VILLAGER (Nodding, Earnest): \"Neither will the village.\"\n[00:34.80-00:38.20] CAMERA: Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.\n[00:35.50-00:37.40] JULIANA (Choked Up, Mournful): \"Goodbye, Blackwood.\"\n[00:38.00-00:41.50] ACTION: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.\n[00:41.50-00:44.20] CAMERA: Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest.\n[00:43.00-00:46.00] ACTION: A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.\n[00:44.30-00:45.80] INFORMANT (Subservient, Urgent): \"Your Grace.\"\n[00:46.00-00:49.20] CAMERA: Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.\n[00:47.10-00:49.20] ALEXANDER (Authoritative, Direct): \"Tell me what is happening in Ashburg.\"\n[00:49.50-00:54.80] INFORMANT (Grave, Cautious): \"Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff.\"\n[00:55.30-01:01.40] CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.\n[00:55.30-01:01.30] INFORMANT: \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"\n[01:01.40-01:04.80] CAMERA: Medium shot of the bald informant standing among the towering trees, reporting solemnly.\n[01:01.60-01:04.80] INFORMANT (Earnest): \"And Lady Catherine, she behaves as though she is already the future duchess.\"\n[01:04.80-01:10.60] CAMERA: Close-up of the informant, his voice dropping into urgent, discreet concern.\n[01:05.10-01:10.50] INFORMANT (Whispering, Alarmed): \"But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.\"\n[01:10.60-01:13.30] CAMERA: Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence.\n[01:10.90-01:13.20] INFORMANT: \"There are almost no loyal servants left around her.\"\n[01:13.30-01:16.20] CAMERA: Low-angle shot past Alexander toward the informant.\n[01:13.50-01:16.40] INFORMANT (Grave): \"The people who served your family for years have been dismissed, frightened away, or replaced.\"\n[01:16.20-01:18.80] ACTION: Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.\n[01:16.50-01:18.80] ALEXANDER (Cold, Pained Fury): \"My mother is a prisoner in her own house.\"\n[01:18.80-01:21.20] CAMERA: Close-up of the informant looking steadily at Alexander.\n[01:19.00-01:21.00] INFORMANT (Quiet, Solemn): \"And everyone believes you are dead.\"\n[01:21.20-01:21.25] CAMERA: Extreme close-up of Alexander's scarred eye and grimly set mouth."
+    }
+  ]
+}

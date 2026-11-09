@@ -1,0 +1,77 @@
+{
+  "episode": 46,
+  "label": "Episode 46",
+  "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+  "continuity_notes": "Picks up directly from Episode 45's cliffhanger where the High Priest stormed into the church with royal guards and challenged the legality of Alexander and Juliana's marriage.",
+  "duration_s": 143.88,
+  "candidates_considered": 12,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "no real cliffhanger (0.40 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep46-d19aaaa8",
+      "rank": null,
+      "episode": 46,
+      "episode_label": "Episode 46",
+      "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+      "stitched": true,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 81.1,
+          "end": 96.45,
+          "start_tc": "01:21.10",
+          "end_tc": "01:36.45",
+          "duration": 15.35
+        },
+        {
+          "segment": 2,
+          "start": 127.2,
+          "end": 143.88,
+          "start_tc": "02:07.20",
+          "end_tc": "02:23.88",
+          "duration": 16.68
+        }
+      ],
+      "clip_duration": 32.03,
+      "hook": "\"God married us, Father! You are just angry no one asked you first!\"",
+      "cliffhanger": "\"Ten days is plenty of time.\"",
+      "why_it_works": "opens on a clear dramatic question; ends without a real cliffhanger; mostly self-contained, needs one line of setup.",
+      "score": 52.59,
+      "heuristic_score": 52.59,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.634,
+        "cliffhanger": 0.399,
+        "standalone": 0.6,
+        "arc": 0.278,
+        "pacing": 0.843
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, CATHERINE, HIGH PRIEST, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "PRIEST",
+          "ALEXANDER",
+          "CATHERINE",
+          "JULIANA",
+          "HIGH PRIEST"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "no real cliffhanger (0.40 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 46, 2 segment(s), 32s\n-- segment 1: 01:21.10 to 01:36.45 --\n[01:21.10-01:25.50] JULIANA (Shouting, Triumphant): \"God married us, Father! You are just angry no one asked you first!\"\n[01:25.80-01:29.20] CAMERA: Medium close-up of Catherine leaning against a stone archway, whispering with venomous mockery.\n[01:26.10-01:29.00] CATHERINE (Malicious, Taunting): \"Careful, healer. The floor isn't finished with you.\"\n[01:29.20-01:32.50] CAMERA: Close-up of the High Priest pressing the document against his chest, his eyes darkening with anger.\n[01:29.30-01:32.40] HIGH PRIEST (O.S. / Low, Threatening): \"Careful, girl. You mistake my patience for weakness.\"\n[01:32.20-01:36.20] HIGH PRIEST (Commanding, Severe): \"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!\"\n[01:32.50-01:36.00] CAMERA: Low-angle shot of the High Priest stepping up the altar steps toward them.\n[01:36.00-01:36.45] CAMERA: Brief insert of Catherine smirking as she watches from the side.\n-- segment 2: 02:07.20 to 02:23.88 --\n[02:07.20-02:13.50] CAMERA: Wide shot from behind the guards as they surround Alexander and Juliana, halberds and swords pointed inches from Alexander's chest.\n[02:07.20-02:13.20] ALEXANDER (Thunderous, Imposing): \"Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!\"\n[02:13.50-02:18.80] CAMERA: Medium shot of the High Priest extending his hand toward the guards, commanding them to stand down.\n[02:14.00-02:16.00] ACTION: The guards slowly lower their weapon points away from the Duke.\n[02:14.20-02:18.50] HIGH PRIEST (Ominous, Warning): \"Ten days, Duke. Choose your witnesses well.\"\n[02:18.80-02:20.50] CAMERA: The High Priest turns sharply on his heel and strides past the guards toward the church exit.\n[02:19.00-02:22.00] SOUND: Shuffling boots and clattering armor as the royal guards turn and retreat down the ruined aisle.\n[02:20.50-02:23.88] CAMERA: Slow pan to Catherine standing in her bridal gown beside the sunlit aisle, watching the priest depart before turning to camera with a wicked, predatory smile.\n[02:21.20-02:23.80] CATHERINE (Whispering, Malicious): \"Ten days is plenty of time.\""
+    }
+  ]
+}

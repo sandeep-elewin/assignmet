@@ -1,0 +1,36 @@
+PROMO ep27-4dd30685
+Episode 27 - Episode 27
+Duration: 34.0s   Segments: 1
+Score: 66.45 (heuristic 66.45)
+
+IN / OUT
+  segment 1: 01:18.10 -> 01:52.05  (33.95s)
+
+HOOK      01:18.10  "Who permitted you to give medicine to the Duchess?"
+CLIFF     01:50.30  "An antidote to what?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 27, 1 segment(s), 34s
+[01:18.10-01:20.50] LADY CATHERINE (Incredulous, Accusing): "Who permitted you to give medicine to the Duchess?"
+[01:20.80-01:23.00] CAMERA: Close-up of Juliana holding her ground.
+[01:21.00-01:22.00] JULIANA (Quiet, Resolute): "No one."
+[01:23.00-01:26.50] CAMERA: Close-up of Lady Catherine turning fiercely triumphant.
+[01:23.60-01:26.40] LADY CATHERINE (Spiteful, Indignant): "Then you administered it without permission."
+[01:26.50-01:28.00] CAMERA: Close-up of Juliana, her voice rising passionately.
+[01:26.50-01:27.80] JULIANA (Passionate, Urgent): "Because she was dying!"
+[01:28.00-01:32.80] CAMERA: Medium shot of the Blond Nobleman pacing forward with calculating malice.
+[01:28.20-01:32.40] BLOND NOBLEMAN (Cold, Interrogating): "And you decided you knew better than every physician in this house?"
+[01:32.80-01:35.00] CAMERA: Close-up of Juliana retorting without hesitation.
+[01:33.30-01:34.90] JULIANA (Fierce): "The physicians were not saving her!"
+[01:35.00-01:37.80] CAMERA: Over-the-shoulder shot past the Blond Nobleman looking toward the frail Duchess watching helplessly from the bed.
+[01:35.30-01:37.70] BLOND NOBLEMAN (Measured, Menacing): "My aunt has been wasting away for months."
+[01:37.80-01:43.60] CAMERA: Medium shot of the Blond Nobleman turning slowly back toward Juliana, building his trap.
+[01:38.80-01:43.40] BLOND NOBLEMAN (Smooth, Threatening): "And now we find an unknown maid alone beside her bed..."
+[01:43.60-01:47.80] CAMERA: Close-up shot of his gloved black leather finger reaching down to tap against the glass dropper bottle in Juliana's open palm.
+[01:44.20-01:47.50] BLOND NOBLEMAN (Contemptuous): "...holding a substance no one authorized her to give."
+[01:47.80-01:50.20] CAMERA: Medium close-up of Juliana raising the small bottle high for them to see.
+[01:48.30-01:49.80] JULIANA (Unyielding): "It is an antidote."
+[01:50.20-01:52.05] CAMERA: Close-up of Lady Catherine sneering sharply.
+[01:50.30-01:51.80] LADY CATHERINE (Sharp, Provocative): "An antidote to what?"

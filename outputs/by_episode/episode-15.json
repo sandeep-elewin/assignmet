@@ -1,0 +1,112 @@
+{
+  "episode": 15,
+  "label": "Episode 15",
+  "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+  "continuity_notes": "Follows Episode 14 where Alexander solemnly vowed Juliana would never be hurt again; Juliana's hands remain heavily bandaged from retrieving the emerald ring.",
+  "duration_s": 86.0,
+  "candidates_considered": 6,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep15-fbb48094",
+      "rank": 15,
+      "episode": 15,
+      "episode_label": "Episode 15",
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 8.5,
+          "end": 31.45,
+          "start_tc": "00:08.50",
+          "end_tc": "00:31.45",
+          "duration": 22.95
+        }
+      ],
+      "clip_duration": 22.95,
+      "hook": "\"Stop! What are you doing?!\"",
+      "cliffhanger": "\"Months? You actually spend your days growing this filth?\"",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; reads clean to a first-time viewer.",
+      "score": 68.9,
+      "heuristic_score": 68.9,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.729,
+        "cliffhanger": 0.714,
+        "standalone": 0.95,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 15, 1 segment(s), 23s\n[00:08.50-00:11.70] JULIANA (Desperate, Alarmed): \"Stop! What are you doing?!\"\n[00:11.80-00:15.80] CAMERA: Medium close-up of the Thug with Cap holding the uprooted chamomile bouquet, sneering with cruel amusement.\n[00:13.00-00:15.70] THUG WITH CAP (Mocking, Smug): \"We're clearing this rubbish.\"\n[00:15.80-00:18.80] CAMERA: Close-up on Juliana, her face tight with anguish and fury as she clutches her bandaged hands against her chest.\n[00:16.40-00:18.70] JULIANA (Furious, Pleading): \"Those are medicinal plants!\"\n[00:18.80-00:22.50] CAMERA: Low-angle shot tracking down from the bald thug's grinning face to his worn leather boots on the muddy flagstones.\n[00:20.00-00:22.30] BALD THUG (Callous): \"They look like weeds to me.\"\n[00:20.50-00:22.50] ACTION: The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers.\n[00:22.50-00:26.80] CAMERA: High-angle two-shot as Juliana rushes forward and drops directly onto her knees in the cold mud before the thug.\n[00:22.80-00:26.50] ACTION: Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands.\n[00:23.20-00:26.30] JULIANA (Choked with Tears, Desperate): \"Please! Those plants took months to grow!\"\n[00:26.80-00:31.45] CAMERA: Medium two-shot of the Tall Thug with the club and the Thug with Cap bursting into raucous laughter under the full moon.\n[00:27.50-00:31.20] TALL THUG (Contemptuous, Derisive): \"Months? You actually spend your days growing this filth?\""
+    },
+    {
+      "id": "ep15-59206cc8",
+      "rank": null,
+      "episode": 15,
+      "episode_label": "Episode 15",
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 57.3,
+          "end": 86.0,
+          "start_tc": "00:57.30",
+          "end_tc": "01:26.00",
+          "duration": 28.7
+        }
+      ],
+      "clip_duration": 28.7,
+      "hook": "\"Look at her! Crying over weeds!\"",
+      "cliffhanger": "\"What? You want to fight us, veteran?\"",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 62.05,
+      "heuristic_score": 62.05,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.729,
+        "cliffhanger": 0.6,
+        "standalone": 0.6,
+        "arc": 0.278,
+        "pacing": 0.938
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, BALD THUG, JULIANA, TALL THUG"
+        ],
+        "prior_knowledge_entities": [
+          "BALD THUG",
+          "TALL THUG",
+          "THUG WITH CAP",
+          "ALEXANDER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 15, 1 segment(s), 29s\n[00:57.30-00:59.80] BALD THUG (Cruel, Laughing): \"Look at her! Crying over weeds!\"\n[01:00.00-01:02.00] ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.\n[01:00.00-01:01.00] JULIANA (Screaming): \"Stop!\"\n[01:02.00-01:03.20] CAMERA: Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness.\n[01:03.20-01:07.50] CAMERA: Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him.\n[01:03.50-01:07.50] ACTION: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.\n[01:07.50-01:13.50] CAMERA: Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief.\n[01:10.50-01:12.60] JULIANA (Whispered Breath, Stunned): \"Alexander...\"\n[01:13.50-01:15.50] CAMERA: Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist.\n[01:15.50-01:18.50] CAMERA: Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders.\n[01:16.00-01:18.50] ACTION: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.\n[01:18.50-01:22.80] CAMERA: Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club.\n[01:19.00-01:22.40] THUG WITH CAP (Challenging, Arrogant): \"What? You want to fight us, veteran?\"\n[01:22.80-01:26.00] CAMERA: Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge.\n[01:24.00-01:26.00] SOUND: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+    }
+  ]
+}

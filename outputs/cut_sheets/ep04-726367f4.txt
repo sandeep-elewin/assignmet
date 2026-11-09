@@ -1,0 +1,40 @@
+PROMO ep04-726367f4
+Episode 4 - Episode 4
+Duration: 32.4s   Segments: 1
+Score: 61.09 (heuristic 61.09)
+
+IN / OUT
+  segment 1: 00:53.60 -> 01:26.05  (32.45s)
+
+HOOK      00:53.60  "If this is pity, take back your ring."
+CLIFF     01:24.00  "Are you certain?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 4, 1 segment(s), 32s
+[00:53.60-00:55.80] JULIANA (Defiant, Dignified): "If this is pity, take back your ring."
+[00:55.80-00:59.00] CAMERA: Tight close-up on Juliana's face, a tear clinging to her cheek.
+[00:56.80-00:58.80] JULIANA (Fierce): "I will not become anyone's charity."
+[00:59.00-01:02.80] CAMERA: Medium close-up of the Mysterious Bearded Man holding her gaze directly.
+[00:59.50-01:02.50] MYSTERIOUS BEARDED MAN (Earnest): "It is not pity, Lady Juliana."
+[01:02.80-01:05.80] CAMERA: Intense tight close-up on his piercing blue-green eyes and facial scars.
+[01:03.50-01:05.50] MYSTERIOUS BEARDED MAN (Deep, Absolute): "It is a vow."
+[01:05.80-01:07.50] CAMERA: Close-up of Juliana, completely disarmed by the gravity of his promise.
+[01:06.00-01:08.00] JULIANA: "I don't know this man."
+[01:07.50-01:09.50] CAMERA: Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew.
+[01:08.00-01:09.60] JULIANA: "I don't know what waits beyond these doors."
+[01:09.50-01:11.80] CAMERA: Side profile close-up of Juliana looking toward her estranged family, then turning back.
+[01:09.80-01:12.00] JULIANA: "But he looked at me when everyone else turned away."
+[01:11.80-01:14.80] CAMERA: Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips.
+[01:12.80-01:14.50] JULIANA (Resolved): "Then I accept."
+[01:14.80-01:16.20] CAMERA: Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them.
+[01:16.20-01:19.00] CAMERA: Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana.
+[01:16.20-01:19.00] ACTION: The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.
+[01:19.00-01:21.80] CAMERA: Close-up of Juliana's slender hand resting gently into his large, weathered palm.
+[01:19.20-01:21.50] ACTION: He folds his fingers over hers, holding her hand with protective firmness.
+[01:21.80-01:24.00] CAMERA: Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.
+[01:22.00-01:23.80] THE PRIEST (Hesitant, Anxious): "My- My Lady..."
+[01:24.00-01:26.00] CAMERA: Tight close-up of the Priest's alarmed, questioning eyes.
+[01:24.00-01:25.80] THE PRIEST (Tentative): "Are you certain?"
+[01:26.00-01:26.05] CAMERA: Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence.

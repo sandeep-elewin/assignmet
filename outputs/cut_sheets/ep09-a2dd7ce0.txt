@@ -1,0 +1,50 @@
+PROMO ep09-a2dd7ce0
+Episode 9 - Episode 9
+Duration: 48.0s   Segments: 1
+Score: 72.29 (heuristic 72.29)
+
+IN / OUT
+  segment 1: 00:06.30 -> 00:54.25  (47.95s)
+
+HOOK      00:06.30  "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!"
+CLIFF     00:52.50  "Why isn't it working?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 9, 1 segment(s), 48s
+[00:06.30-00:11.10] PEASANT MOTHER (Frantic, Weeping): "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!"
+[00:11.20-00:13.50] CAMERA: Medium shot of Juliana rushing to the front of the table, extending her arms urgently.
+[00:11.40-00:13.30] JULIANA (Urgent, Compassionate): "Bring him here. Quickly."
+[00:12.00-00:14.20] ACTION: The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close.
+[00:13.80-00:15.20] CAMERA: Close-up of Juliana gently placing her fingers against the boy's burning forehead.
+[00:15.20-00:17.80] CAMERA: Medium close-up of Juliana examining the boy's breathing, looking up toward the frantic mother.
+[00:15.50-00:19.80] JULIANA (Reassuring, Focused): "He seems very unwell, but he is resting steadily. How long has he been like this?"
+[00:17.80-00:20.00] CAMERA: Medium two-shot of Alexander watching anxiously over the child's shoulder as Juliana tends to him.
+[00:20.00-00:24.00] CAMERA: Medium close-up of the peasant mother clutching her shawl, tears running down her cheeks.
+[00:20.50-00:23.90] PEASANT MOTHER (Trembling, Anxious): "Since yesterday morning. He has barely eaten since sunset."
+[00:24.00-00:27.50] CAMERA: Close-up of Juliana resting two fingers against the boy's wrist, measuring his shallow pulse.
+[00:27.20-00:28.80] ACTION: Juliana lifts the weathered herbal book and rapidly browses the handwritten pages.
+[00:28.80-00:31.00] CAMERA: Insert close-up of the open page illustrated with botanical drawings labeled 'Feverfew'.
+[00:29.00-00:30.80] JULIANA (Muttering, Intent): "Feverfew... Not alone."
+[00:31.00-00:34.00] CAMERA: Profile close-up of Juliana studying the grimoire's remedies intently while the mother weeps in the soft background.
+[00:31.80-00:33.80] JULIANA (Determined): "Chamomile... and willow bark."
+[00:34.00-00:36.00] CAMERA: Close-up of Alexander leaning over the table, gazing at her with intense concern.
+[00:34.90-00:35.80] ALEXANDER (Grave): "You're certain?"
+[00:36.00-00:38.00] CAMERA: Close-up of Juliana looking up into his eyes with resolute conviction.
+[00:36.30-00:37.40] JULIANA (Resolute): "I have to be."
+[00:38.00-00:39.80] ACTION: Juliana quickly grabs bundles of dried herbs from the table and turns to Alexander.
+[00:38.20-00:39.80] JULIANA (Urgent): "Alexander, I need hot water."
+[00:39.90-00:40.80] ALEXANDER (Prompt): "I'm on it."
+[00:40.80-00:42.50] ACTION: Alexander hurries to the hearth and lifts a boiling iron kettle from the hearth chain, while the mother buries her face in her hands.
+[00:41.00-00:42.50] PEASANT MOTHER (Sobbing): "Please save him."
+[00:42.20-00:43.50] ACTION: Alexander returns and pours steaming hot water into the stone mortar as Juliana prepares the remedy.
+[00:43.00-00:46.00] CAMERA: Medium close-up of Juliana clasping the mother's trembling hand across the wooden table.
+[00:43.80-00:45.60] JULIANA (Gentle, Steadfast): "He is not beyond saving."
+[00:46.00-00:48.00] CAMERA: Close-up of Juliana carefully administering the herbal brew with a small wooden spoon into the sick boy's mouth.
+[00:47.00-00:48.20] ACTION: The child swallows weakly and lets out a soft cough.
+[00:48.00-00:50.50] CAMERA: Close-up of the mother clutching her chest in anxious suspense.
+[00:50.50-00:52.50] CAMERA: Medium close-up of Juliana sitting quietly beside the boy, holding two fingers over his wrist to monitor his pulse.
+[00:52.50-00:54.00] CAMERA: Over-the-shoulder shot from behind the mother leaning across the table in panic.
+[00:52.50-00:54.00] PEASANT MOTHER (Despairing): "Why isn't it working?"
+[00:54.00-00:54.25] CAMERA: Close-up of Juliana raising a calm finger, urging patience.

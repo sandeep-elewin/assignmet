@@ -1,0 +1,40 @@
+PROMO ep21-6ff321a1
+Episode 21 - Episode 21
+Duration: 37.1s   Segments: 1
+Score: 57.53 (heuristic 57.53)
+
+IN / OUT
+  segment 1: 00:03.50 -> 00:40.65  (37.15s)
+
+HOOK      00:03.50  A loud wooden slam as the heavy double barn doors violently fly open.
+CLIFF     00:35.90  "Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now."
+
+WHY       opens on a clear dramatic question; ends without a real cliffhanger; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 21, 1 segment(s), 37s
+[00:03.50-00:04.80] SOUND: A loud wooden slam as the heavy double barn doors violently fly open.
+[00:03.60-00:08.50] CAMERA: Wide shot framing the open doorway against the overcast daylight as Prudence, a young village girl in an apron, rushes inside, frantic and weeping.
+[00:04.20-00:08.00] PRUDENCE (Desperate, Panicked): "Lady Juliana! Please! You have to help me, Toby is dying!"
+[00:08.20-00:10.50] ACTION: Lady Juliana hurries over, placing her bandaged hands reassuringly on Prudence's trembling shoulders.
+[00:08.50-00:11.20] CAMERA: Medium close-up of Lady Juliana looking into Prudence's tearful face with compassionate urgency.
+[00:08.50-00:11.00] LADY JULIANA (Gentle, Urgent): "Oh dear. Breathe. Tell me what has happened."
+[00:11.20-00:15.10] CAMERA: Close-up of Prudence weeping, clutching her hands to her chest in agony.
+[00:11.20-00:15.00] PRUDENCE (Sobbing, Breathless): "My little brother Toby... his chest is burning! He cannot breathe!"
+[00:15.00-00:18.20] LADY JULIANA (Inquiring, Strained): "Tell me what the apothecary said. Did he not give you medicine?"
+[00:15.10-00:18.20] CAMERA: Close-up of Lady Juliana, her brow furrowing with concern.
+[00:18.20-00:21.80] CAMERA: Close-up of Prudence, her face twisted in bitter anguish as she gestures back toward the rain-soaked outdoors.
+[00:18.20-00:21.70] PRUDENCE (Anguished, Resentful): "He shut the door in my face because we have no silver!"
+[00:21.80-00:25.00] CAMERA: Wide shot of Lady Juliana and Prudence facing each other inside the wooden barn, dust motes drifting in the pale light.
+[00:21.80-00:25.30] PRUDENCE (Bitter, Tearful): "The manor doctor laughed! He said village boys are not worth his time!"
+[00:25.00-00:30.90] CAMERA: Medium profile shot of Lady Juliana looking down at her bandaged hands, holding Prudence's hand with somber heartache.
+[00:25.10-00:27.40] LADY JULIANA (Sorrowful, Dejected): "We have no clinic now."
+[00:27.50-00:30.80] LADY JULIANA (Despondent): "Our cottage is ashes. I have nothing left but this coltsfoot."
+[00:31.00-00:33.00] ACTION: Prudence drops desperately to her knees onto the hay-strewn barn floor, clasping her hands in tearful supplication.
+[00:31.00-00:35.80] PRUDENCE (Pleading, Desperate): "He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!"
+[00:31.10-00:35.80] CAMERA: High-angle looking down at Prudence kneeling before Lady Juliana, pleading upward.
+[00:35.80-00:39.50] ACTION: Lady Juliana immediately reaches down and pulls Prudence firmly back to her feet, then turns to snatch her heavy leather-bound herbal ledger from the wooden workbench.
+[00:35.90-00:40.50] CAMERA: Medium shot framing the barn entrance as Lady Juliana lifts Prudence up, grabs her book, and leads the way out.
+[00:35.90-00:40.40] LADY JULIANA (Resolute, Authoritative): "Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now."
+[00:40.50-00:40.65] CAMERA: Tracking wide shot following Lady Juliana and Prudence running side by side along a muddy, puddled village road past thatched stone cottages under a gloomy, overcast sky.
+[00:40.50-00:40.65] ACTION: Lady Juliana clutches the thick book to her chest as she and Prudence sprint swiftly through the village.

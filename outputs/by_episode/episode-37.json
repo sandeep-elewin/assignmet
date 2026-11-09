@@ -1,0 +1,109 @@
+{
+  "episode": 37,
+  "label": "Episode 37",
+  "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+  "continuity_notes": "Following Alexander's vow to return in two days to disrupt the wedding, Rupert and Catherine prepare to cement their coup by inviting high society to celebrate their nuptials and witness Juliana's execution.",
+  "duration_s": 156.47,
+  "candidates_considered": 14,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep37-133e4793",
+      "rank": null,
+      "episode": 37,
+      "episode_label": "Episode 37",
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 92.0,
+          "end": 120.05,
+          "start_tc": "01:32.00",
+          "end_tc": "02:00.05",
+          "duration": 28.05
+        }
+      ],
+      "clip_duration": 28.05,
+      "hook": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesi…",
+      "cliffhanger": "\"Do you think she'll actually be executed?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 64.09,
+      "heuristic_score": 64.09,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.649,
+        "standalone": 0.69,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CLARISSA, JULIANA, NOBLEMAN"
+        ],
+        "prior_knowledge_entities": [
+          "CLARISSA",
+          "NOBLEMAN",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 37, 1 segment(s), 28s\n[01:32.00-01:35.50] CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.\n[01:33.50-01:35.50] ACTION: Juliana curls her fingers back, pulling away from the foul sustenance in defiance.\n[01:35.50-01:40.50] CAMERA: Tight close-up of Juliana's dirty, tear-stained face. Her eyes squeeze shut as tears stream down her cheeks from overwhelming physical agony and hunger.\n[01:36.00-01:39.50] JULIANA (Weak, Whispering through Tears): \"They think hunger will make me surrender.\"\n[01:40.50-01:43.50] CAMERA: Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.\n[01:40.80-01:43.20] JULIANA (Fierce Resolve): \"They think fear will make me beg.\"\n[01:43.50-01:48.50] CAMERA: Full shot of Juliana using her bare hands against the slimy stone floor to drag herself upright to her knees, chains rattling loudly.\n[01:44.00-01:47.00] SOUND: The harsh scrape and clatter of heavy iron chains dragging across wet stone.\n[01:45.50-01:47.80] JULIANA (Straining, Defiant Gasps): \"I will not!\"\n[01:48.50-01:53.50] CAMERA: Low-angle shot looking up at Juliana as she thrusts her chin high toward the iron ceiling grate, bathed in cold shafts of light.\n[01:49.00-01:52.50] JULIANA (Passionate Defiance): \"They can take my name. They can take my home.\"\n[01:53.50-01:56.50] CAMERA: Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.\n[01:53.60-01:56.20] JULIANA (Indomitable Spirit): \"They cannot take who I am!\"\n[01:56.50-02:00.00] CAMERA: Medium two-shot in the dimly lit parlor, illuminated by the warm glow of the fireplace. Clarissa now wears a deep blue velvet gown, reclining in an armchair beside the nobleman.\n[01:57.20-01:59.80] NOBLEMAN (Quietly Skeptical): \"Do you think she'll actually be executed?\"\n[02:00.00-02:00.05] CAMERA: Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty."
+    },
+    {
+      "id": "ep37-c0c1bd3f",
+      "rank": null,
+      "episode": 37,
+      "episode_label": "Episode 37",
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 50.0,
+          "end": 74.45,
+          "start_tc": "00:50.00",
+          "end_tc": "01:14.45",
+          "duration": 24.45
+        }
+      ],
+      "clip_duration": 24.45,
+      "hook": "\"Lady Catherine Ashbridge.\"",
+      "cliffhanger": "\"To whom?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 58.75,
+      "heuristic_score": 58.75,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.475,
+        "cliffhanger": 0.672,
+        "standalone": 0.69,
+        "arc": 0.49,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, CLARISSA, NOBLEMAN"
+        ],
+        "prior_knowledge_entities": [
+          "NOBLEMAN",
+          "CLARISSA",
+          "CATHERINE"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 37, 1 segment(s), 24s\n[00:50.00-00:52.80] LADY CLARISSA (Mockingly Reverent): \"Lady Catherine Ashbridge.\"\n[00:53.00-00:56.00] CAMERA: Medium shot as Clarissa unfolds the second page attached to the invitation, her expression shifting to intrigue.\n[00:54.00-00:56.20] LADY CLARISSA (Intrigued): \"And after the ceremony...\"\n[00:56.20-00:57.20] NOBLEMAN (Curious): \"What?\"\n[00:56.80-00:58.50] ACTION: Clarissa hands the letter upward to him. He takes it and looks down at the bold heading.\n[00:58.50-01:02.00] CAMERA: Close-up of the nobleman reading, his eyes widening in shock before breaking into a grin.\n[00:58.80-01:01.80] NOBLEMAN (Reading in Awe): \"The sentencing of the condemned.\"\n[01:02.00-01:05.50] CAMERA: Close-up of Clarissa turning back to the fire, laughing softly with dark delight.\n[01:02.80-01:05.50] LADY CLARISSA (Gloating, Mocking): \"They want the families to witness it.\"\n[01:05.50-01:09.00] CAMERA: Medium shot of the nobleman holding the invitation, chuckling at the audacity.\n[01:06.50-01:08.80] NOBLEMAN (Fascinated): \"A public execution after a wedding.\"\n[01:09.00-01:12.50] CAMERA: Medium profile shot of Clarissa gazing back at him over her shoulder.\n[01:09.50-01:12.20] LADY CLARISSA (Chilling, Sharp): \"Not just an execution. A warning.\"\n[01:12.50-01:14.45] CAMERA: Close-up of the nobleman's stern face, leaning down.\n[01:13.00-01:14.20] NOBLEMAN (Curious): \"To whom?\""
+    }
+  ]
+}

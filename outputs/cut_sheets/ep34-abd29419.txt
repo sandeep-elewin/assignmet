@@ -1,0 +1,46 @@
+PROMO ep34-abd29419
+Episode 34 - Episode 34
+Duration: 50.2s   Segments: 1
+Score: 67.36 (heuristic 67.36)
+
+IN / OUT
+  segment 1: 00:49.10 -> 01:39.35  (50.25s)
+
+HOOK      00:49.10  "Tell the truth."
+CLIFF     01:38.30  "And?"
+
+WHY       opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 34, 1 segment(s), 50s
+[00:49.10-00:50.50] LADY JULIANA (Softly, Urgent): "Tell the truth."
+[00:51.50-00:54.80] CAMERA: Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.
+[00:53.00-00:54.20] PRUDENCE (Sobbing, Heartbroken): "Yes."
+[00:54.80-00:57.60] CAMERA: Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.
+[00:57.60-01:00.80] CAMERA: Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.
+[00:58.20-01:00.10] JUDGE (Measured, Stern): "What did you see?"
+[01:00.80-01:04.60] CAMERA: Medium close-up of Prudence clutching both hands to her chest in anguish.
+[01:01.30-01:04.40] PRUDENCE (Choked with Tears): "She used herbs... and her mother's book."
+[01:04.60-01:06.80] CAMERA: Medium shot of the Judge leaning back slightly, pointing his hand accusingly.
+[01:04.80-01:06.70] JUDGE (Pressing, Sharp): "Did she draw strange markings?"
+[01:06.80-01:11.80] CAMERA: Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.
+[01:08.20-01:11.70] PRUDENCE (Faltering, Desperate): "She... placed herbs around my brother's bed."
+[01:11.80-01:15.80] CAMERA: Medium shot of the Judge pointing an outstretched index finger with piercing intensity.
+[01:12.10-01:15.50] JUDGE (Accusatory, Forceful): "And did she speak words you could not understand?"
+[01:15.80-01:21.00] CAMERA: Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.
+[01:18.80-01:20.50] PRUDENCE (Weeping, Shaken): "Yes."
+[01:21.00-01:25.20] CAMERA: Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge.
+[01:21.30-01:24.90] LORD (Triumphant, Smug): "Your Honor... the witness has confirmed the ritual."
+[01:25.00-01:27.20] ACTION: Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.
+[01:25.20-01:27.40] CAMERA: Low-angle medium shot of Lady Juliana gripping the railing, leaning forward.
+[01:25.20-01:27.20] LADY JULIANA (Passionate, Indignant): "It was not a ritual!"
+[01:27.20-01:30.20] ACTION: The Judge repeatedly hammers his gavel down onto the desk, roaring over her.
+[01:27.40-01:30.50] CAMERA: Medium shot of the Judge striking the wooden block twice in rapid succession.
+[01:27.80-01:29.20] SOUND: [Violent, resonant double bang of the wooden gavel]
+[01:27.90-01:30.00] JUDGE (Bellowing): "You will speak when addressed!"
+[01:30.50-01:33.80] CAMERA: Medium shot of the Lord extending his palm toward the gallery with theatrical composure.
+[01:31.00-01:33.20] LORD (Calm, Poisonous): "We have further witnesses."
+[01:33.80-01:38.20] CAMERA: Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands.
+[01:34.20-01:38.00] TOWNSMAN (Nervous, Fearful): "My wife took one of Lady Juliana's mixtures..."
+[01:38.20-01:39.35] CAMERA: Close-up of the Judge glaring down expectantly.
+[01:38.30-01:39.10] JUDGE (Sharp): "And?"

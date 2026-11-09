@@ -1,0 +1,25 @@
+PROMO ep18-0e077cbe
+Episode 18 - Episode 18
+Duration: 33.2s   Segments: 1
+Score: 73.11 (heuristic 73.11)
+
+IN / OUT
+  segment 1: 01:55.50 -> 02:28.75  (33.25s)
+
+HOOK      01:55.50  Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames.
+CLIFF     02:25.80  "Why would anyone do this?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 18, 1 segment(s), 33s
+[01:55.50-01:59.80] CAMERA: Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames.
+[01:59.80-02:04.00] CAMERA: Night exterior shot in the dark grass outside. Juliana sits over Alexander, brushing ashes from his face as he coughs and catches his breath.
+[02:04.00-02:08.50] CAMERA: Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness.
+[02:08.50-02:14.50] CAMERA: Close-up of Juliana kneeling in the mud, her face blackened with soot and tears streaming down her cheeks as she clutches the charred ledger.
+[02:14.50-02:20.00] CAMERA: Wide shot of the cottage completely consumed by towering flames against the dark night sky.
+[02:16.20-02:18.00] JULIANA (Sobbing, Heartbroken): "Our home..."
+[02:19.80-02:22.50] JULIANA (Crying, Shattered): "Everything we had is gone."
+[02:20.50-02:24.00] ACTION: Alexander kneels beside her in the grass, resting a steady, protective hand on her back.
+[02:24.00-02:28.75] ACTION: Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest.
+[02:25.80-02:28.50] JULIANA (Voice Breaking, Anguished): "Why would anyone do this?"

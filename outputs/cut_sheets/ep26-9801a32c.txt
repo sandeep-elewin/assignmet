@@ -1,0 +1,22 @@
+PROMO ep26-9801a32c
+Episode 26 - Episode 26
+Duration: 23.7s   Segments: 1
+Score: 57.48 (heuristic 57.48)
+
+IN / OUT
+  segment 1: 00:56.00 -> 01:19.65  (23.65s)
+
+HOOK      00:56.00  "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+CLIFF     01:13.80  "Then tell me... why is a girl of such noble spirit working as a common maid?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 26, 1 segment(s), 24s
+[00:56.00-01:02.00] DOWAGER DUCHESS (Trembling, Heartbroken): "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+[01:02.50-01:07.00] CAMERA: Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.
+[01:02.60-01:06.70] JULIANA (Reassuring, Steadfast): "Yes. But the charcoal is fighting the poison. You are safe now."
+[01:07.00-01:11.80] CAMERA: Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.
+[01:11.80-01:19.60] CAMERA: Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.
+[01:13.80-01:19.40] DOWAGER DUCHESS (Curious, Searching): "Then tell me... why is a girl of such noble spirit working as a common maid?"
+[01:19.60-01:19.65] CAMERA: Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.

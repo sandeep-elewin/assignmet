@@ -1,0 +1,109 @@
+{
+  "episode": 25,
+  "label": "Episode 25",
+  "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+  "continuity_notes": "Picks up immediately following Juliana's ordeal at Ashburg Manor, where she escaped punishment after hiding the antidote and now encounters Alexander awaiting her on the woodland trail.",
+  "duration_s": 168.0,
+  "candidates_considered": 11,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep25-e2938d7d",
+      "rank": null,
+      "episode": 25,
+      "episode_label": "Episode 25",
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 24.0,
+          "end": 51.45,
+          "start_tc": "00:24.00",
+          "end_tc": "00:51.45",
+          "duration": 27.45
+        }
+      ],
+      "clip_duration": 27.45,
+      "hook": "\"Who did this?\"",
+      "cliffhanger": "\"Juliana... why were you inside Ashburg Manor?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer.",
+      "score": 68.56,
+      "heuristic_score": 68.56,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.622,
+        "cliffhanger": 0.744,
+        "standalone": 0.85,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, CATHERINE, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 25, 1 segment(s), 27s\n[00:24.00-00:25.50] ALEXANDER (Seething, Dangerous): \"Who did this?\"\n[00:25.80-00:29.80] CAMERA: Medium close-up of Juliana averting her eyes, her head bowed in quiet resignation.\n[00:27.50-00:29.30] JULIANA (Subdued, Weary): \"It does not matter.\"\n[00:29.80-00:32.80] CAMERA: Tight shot of Alexander, his eyes burning with intense anger.\n[00:32.80-00:34.50] ACTION: Alexander steps directly into her space, firmly taking her hand in his.\n[00:32.80-00:33.80] ALEXANDER (Demanding, Stern): \"Who?\"\n[00:34.50-00:38.50] CAMERA: Close-up of Juliana looking up into his eyes, whispering the truth.\n[00:36.00-00:37.80] JULIANA (Quiet, Apprehensive): \"Lady Catherine.\"\n[00:38.50-00:41.20] CAMERA: Close-up of Alexander, his gaze piercing and hard.\n[00:39.20-00:41.00] ALEXANDER (Low, Interrogating): \"Where did you meet her?\"\n[00:41.20-00:44.40] CAMERA: Close-up of Juliana recounting the incident.\n[00:41.20-00:44.20] JULIANA (Hedged): \"I was in the wrong chamber. I was punished as a maid.\"\n[00:44.40-00:46.80] CAMERA: Close-up of Alexander, pressing her without hesitation.\n[00:44.60-00:46.40] ALEXANDER (Incredulous, Demanding): \"What were you doing there?\"\n[00:46.80-00:51.45] CAMERA: Medium two-shot of Alexander leaning down toward her against the dim forest backdrop.\n[00:47.00-00:51.20] ALEXANDER (Fierce, Urgent): \"Juliana... why were you inside Ashburg Manor?\""
+    },
+    {
+      "id": "ep25-a162134b",
+      "rank": null,
+      "episode": 25,
+      "episode_label": "Episode 25",
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 47.0,
+          "end": 79.15,
+          "start_tc": "00:47.00",
+          "end_tc": "01:19.15",
+          "duration": 32.15
+        }
+      ],
+      "clip_duration": 32.15,
+      "hook": "\"Juliana... why were you inside Ashburg Manor?\"",
+      "cliffhanger": "\"What did you find?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.",
+      "score": 67.73,
+      "heuristic_score": 67.73,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.607,
+        "cliffhanger": 0.6,
+        "standalone": 0.85,
+        "arc": 0.567,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA, PRUDENCE"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER",
+          "PRUDENCE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 25, 1 segment(s), 32s\n[00:47.00-00:51.20] ALEXANDER (Fierce, Urgent): \"Juliana... why were you inside Ashburg Manor?\"\n[00:51.50-00:54.20] CAMERA: Close-up of Juliana holding his gaze resolutely.\n[00:52.20-00:54.20] JULIANA (Earnest): \"I went there to help someone.\"\n[00:54.40-00:55.20] ALEXANDER (Blunt): \"Who?\"\n[00:54.50-00:57.50] CAMERA: Medium close-up profile of both of them locked in stillness.\n[00:55.60-00:57.20] JULIANA (Solemn): \"The Dowager Duchess.\"\n[00:57.50-01:03.50] CAMERA: Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.\n[01:00.80-01:02.50] ALEXANDER (Stunned, Disbelieving): \"The Dowager?\"\n[01:03.50-01:08.50] CAMERA: Medium profile tracking shot as Juliana begins walking slowly along the trail, Alexander following closely by her side.\n[01:06.20-01:08.50] JULIANA (Urgent): \"Prudence told me she was dying.\"\n[01:08.50-01:13.80] CAMERA: Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.\n[01:08.80-01:13.80] JULIANA (Fervent): \"She was barely breathing when I found her. The doctor said she was simply growing old.\"\n[01:13.80-01:16.80] CAMERA: Two-shot as Juliana stops and looks up into Alexander's grim expression.\n[01:14.20-01:15.80] JULIANA (Chilling, Definite): \"But it wasn't age.\"\n[01:16.80-01:19.15] CAMERA: Medium shot of Alexander staring down at her, waiting for the dark truth.\n[01:17.40-01:18.90] ALEXANDER (Grim, Low): \"What did you find?\""
+    }
+  ]
+}

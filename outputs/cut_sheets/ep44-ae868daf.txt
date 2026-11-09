@@ -1,0 +1,50 @@
+PROMO ep44-ae868daf
+Episode 44 - Episode 44
+Duration: 46.2s   Segments: 1
+Score: 60.52 (heuristic 60.52)
+
+IN / OUT
+  segment 1: 00:17.40 -> 01:03.65  (46.25s)
+
+HOOK      00:17.40  "Do something!"
+CLIFF     01:02.50  "Did you?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 44, 1 segment(s), 46s
+[00:17.40-00:19.30] BLOND NOBLEMAN (Desperate, Screaming): "Do something!"
+[00:19.40-00:22.00] CAMERA: Medium close-up on Catherine beneath her bridal veil, looking downward in conflicted silence.
+[00:21.80-00:24.40] ACTION: Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown.
+[00:22.00-00:24.40] CAMERA: Close-up on Catherine's gloved hand tightening into a fist.
+[00:24.40-00:27.80] CAMERA: Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically.
+[00:25.20-00:28.00] CATHERINE (Shaken, Tearful): "Alexander... I thought you had died."
+[00:27.80-00:31.20] CAMERA: Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure.
+[00:28.40-00:31.00] CATHERINE (Choked, Weeping): "Do you know what this did to me?"
+[00:31.20-00:32.40] CAMERA: Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached.
+[00:31.20-00:32.40] CATHERINE (Pleading): "I mourned you."
+[00:32.40-00:34.00] CAMERA: Profile close-up of Catherine as a tear slips down her cheek.
+[00:32.40-00:34.00] CATHERINE (Vulnerable, Trembling): "I waited for you."
+[00:34.00-00:35.80] CAMERA: Medium shot of Catherine standing in the center of the aisle before the seated congregation.
+[00:34.20-00:38.80] CATHERINE (Heartbroken): "For three years, I believed the man I loved was buried somewhere across the sea."
+[00:35.80-00:38.80] CAMERA: Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly.
+[00:38.80-00:41.20] CAMERA: Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek.
+[00:38.90-00:41.20] CATHERINE (Whispering, Longing): "I never stopped loving you."
+[00:41.20-00:42.80] ACTION: Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air.
+[00:41.20-00:42.80] CAMERA: Close-up on Catherine's empty gloved hand trembling in the empty space between them.
+[00:42.80-00:46.40] CAMERA: Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection.
+[00:44.20-00:46.40] CATHERINE (Breathless, Hurt): "You don't remember?"
+[00:46.40-00:49.00] CAMERA: High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background.
+[00:46.60-00:48.80] CATHERINE (Desperate, Demanding): "I was supposed to be your Duchess!"
+[00:49.00-00:51.00] CAMERA: Medium two-shot of Catherine and Alexander confronting each other.
+[00:49.20-00:51.00] ALEXANDER (Cold, Implacable): "You were never my Duchess."
+[00:51.00-00:53.00] CAMERA: Extreme close-up on Catherine's tearful face.
+[00:51.10-00:52.80] CATHERINE (Sobbing, Pleading): "But I loved you!"
+[00:53.00-00:55.60] CAMERA: Medium close-up on Alexander, his scarred jaw set firm.
+[00:53.00-00:55.50] ALEXANDER (Scornful, Biting): "You loved the Duke you thought you would marry."
+[00:55.60-00:59.00] CAMERA: Close-up on Catherine, gasping in protest.
+[00:56.20-00:58.20] CATHERINE (Defiant, Pained): "No!"
+[00:59.00-01:02.40] CAMERA: Medium shot as Catherine clutches her chest, pouring her heart out.
+[00:59.80-01:02.40] CATHERINE (Passionate, Crying): "I loved you before all this!"
+[01:02.40-01:03.65] CAMERA: Close-up on Alexander tilting his head slightly, his gaze piercing through her.
+[01:02.50-01:03.40] ALEXANDER (Skeptical, Cutting): "Did you?"

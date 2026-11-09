@@ -1,0 +1,30 @@
+PROMO ep15-59206cc8
+Episode 15 - Episode 15
+Duration: 28.7s   Segments: 1
+Score: 62.05 (heuristic 62.05)
+
+IN / OUT
+  segment 1: 00:57.30 -> 01:26.00  (28.7s)
+
+HOOK      00:57.30  "Look at her! Crying over weeds!"
+CLIFF     01:19.00  "What? You want to fight us, veteran?"
+
+WHY       opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 15, 1 segment(s), 29s
+[00:57.30-00:59.80] BALD THUG (Cruel, Laughing): "Look at her! Crying over weeds!"
+[01:00.00-01:02.00] ACTION: The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana.
+[01:00.00-01:01.00] JULIANA (Screaming): "Stop!"
+[01:02.00-01:03.20] CAMERA: Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness.
+[01:03.20-01:07.50] CAMERA: Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him.
+[01:03.50-01:07.50] ACTION: Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage.
+[01:07.50-01:13.50] CAMERA: Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief.
+[01:10.50-01:12.60] JULIANA (Whispered Breath, Stunned): "Alexander..."
+[01:13.50-01:15.50] CAMERA: Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist.
+[01:15.50-01:18.50] CAMERA: Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders.
+[01:16.00-01:18.50] ACTION: Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent.
+[01:18.50-01:22.80] CAMERA: Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club.
+[01:19.00-01:22.40] THUG WITH CAP (Challenging, Arrogant): "What? You want to fight us, veteran?"
+[01:22.80-01:26.00] CAMERA: Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge.
+[01:24.00-01:26.00] SOUND: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.

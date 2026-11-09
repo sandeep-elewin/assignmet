@@ -1,0 +1,39 @@
+PROMO ep50-5b9d18f4
+Episode 50 - Episode 50
+Duration: 49.0s   Segments: 1
+Score: 61.72 (heuristic 61.72)
+
+IN / OUT
+  segment 1: 00:31.00 -> 01:20.00  (49.0s)
+
+HOOK      00:31.00  "Absolution is free. Discretion has a price."
+CLIFF     01:18.50  Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black.
+
+WHY       opening is the weak point; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 50, 1 segment(s), 49s
+[00:31.00-00:35.00] FATHER THOMAS (Steady, Cold): "Absolution is free. Discretion has a price."
+[00:35.80-00:39.80] CAMERA: Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.
+[00:36.50-00:39.40] CATHERINE (Soft, Calculating): "Unsupervised. In your hands alone."
+[00:39.80-00:43.00] CAMERA: Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck.
+[00:40.40-00:42.50] FATHER THOMAS (Grave): "For as long as it holds."
+[00:43.00-00:48.50] CAMERA: Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger.
+[00:43.20-00:48.00] CATHERINE (Softly, Teasing): "Done. You told yourself this ends when the hearing does."
+[00:48.50-00:54.50] CAMERA: Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger.
+[00:49.80-00:54.00] FATHER THOMAS (Chuckle, Resigned): "I've told myself that since the dawn in your bedchamber, and here we are again."
+[00:54.50-00:59.80] CAMERA: Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles.
+[00:54.80-00:56.50] CATHERINE (Murmuring): "In another room no one uses?"
+[00:56.80-00:59.20] FATHER THOMAS (Whispering): "Perhaps I like rooms no one uses."
+[00:59.80-01:05.50] CAMERA: Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer.
+[01:00.30-01:04.80] CATHERINE (Low, Carnal): "Or perhaps discretion isn't the only thing you've developed a taste for."
+[01:05.50-01:10.50] CAMERA: Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders.
+[01:05.80-01:10.50] ACTION: Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement.
+[01:10.50-01:13.50] CAMERA: Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern.
+[01:10.80-01:13.50] ACTION: Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall.
+[01:13.50-01:16.50] CAMERA: Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside.
+[01:14.00-01:16.50] ACTION: Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed.
+[01:16.50-01:18.50] CAMERA: Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror.
+[01:16.80-01:18.50] ACTION: Agnes's jaw drops open in shock as she stifles a cry.
+[01:17.20-01:18.60] SOUND: Sharp, terrified gasp catching in Agnes's throat.
+[01:18.50-01:20.00] CAMERA: Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black.

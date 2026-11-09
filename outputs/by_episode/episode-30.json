@@ -1,0 +1,115 @@
+{
+  "episode": 30,
+  "label": "Episode 30",
+  "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+  "continuity_notes": "Follows directly from Episode 29 where Juliana was locked away in the castle's subterranean wet cells, vowing never to let them take Alexander from her.",
+  "duration_s": 151.21,
+  "candidates_considered": 13,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep30-21e26952",
+      "rank": null,
+      "episode": 30,
+      "episode_label": "Episode 30",
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 33.6,
+          "end": 59.05,
+          "start_tc": "00:33.60",
+          "end_tc": "00:59.05",
+          "duration": 25.45
+        }
+      ],
+      "clip_duration": 25.45,
+      "hook": "\"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\"",
+      "cliffhanger": "\"You have a solution?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 61.74,
+      "heuristic_score": 61.74,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.666,
+        "cliffhanger": 0.708,
+        "standalone": 0.6,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, ELDER NOBLEMAN, IN GOLD GOWN, RUPERT"
+        ],
+        "prior_knowledge_entities": [
+          "IN GOLD GOWN",
+          "ELDER NOBLEMAN",
+          "RUPERT",
+          "CATHERINE"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 30, 1 segment(s), 25s\n[00:33.60-00:39.80] ELDER NOBLEMAN (Fierce, Venomous): \"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\"\n[00:39.80-00:43.80] CAMERA: Low-angle close-up of Rupert gasping softly, intimidated by the cane pressed firmly beneath his cravat.\n[00:41.80-00:43.50] RUPERT (Faltering, Submissive): \"What are you suggesting?\"\n[00:43.80-00:47.60] CAMERA: Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors.\n[00:44.80-00:47.30] ELDER NOBLEMAN (Calculated, Ominous): \"We stop hiding the prisoner.\"\n[00:47.60-00:51.00] CAMERA: Tracking shot from behind the Elder Nobleman as he pushes open the heavy double doors into the dark wood-paneled library.\n[00:48.00-00:50.50] SOUND: The heavy creak of massive mahogany doors gliding open on brass hinges.\n[00:51.00-00:54.60] CAMERA: Front medium shot of the Elder Nobleman pausing inside the library doorway, Rupert following behind him.\n[00:51.20-00:54.00] ELDER NOBLEMAN (Deadpan, Sinister): \"We give them a reason to condemn her.\"\n[00:54.60-00:58.80] CAMERA: Wide shot of Catherine standing regally before the roaring stone hearth, dressed in an ornate burgundy and gold brocade gown, slowly unfurling a red lace fan.\n[00:57.00-00:58.80] CATHERINE (Inquiring, Sharp): \"You have a solution?\"\n[00:58.80-00:59.05] CAMERA: Side profile close-up of the Elder Nobleman speaking with icy confidence."
+    },
+    {
+      "id": "ep30-afcecae2",
+      "rank": null,
+      "episode": 30,
+      "episode_label": "Episode 30",
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 89.0,
+          "end": 121.75,
+          "start_tc": "01:29.00",
+          "end_tc": "02:01.75",
+          "duration": 32.75
+        }
+      ],
+      "clip_duration": 32.75,
+      "hook": "\"Witchcraft is a capital charge.\"",
+      "cliffhanger": "\"And Juliana?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 56.15,
+      "heuristic_score": 56.15,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.52,
+        "cliffhanger": 0.6,
+        "standalone": 0.6,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, DOWAGER, ELDER NOBLEMAN, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ELDER NOBLEMAN",
+          "DOWAGER",
+          "RUPERT",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 30, 1 segment(s), 33s\n[01:29.00-01:31.30] RUPERT (Stunned): \"Witchcraft is a capital charge.\"\n[01:31.80-01:34.50] CAMERA: Straight-on close-up of the Elder Nobleman staring back without a flicker of remorse.\n[01:32.00-01:33.40] ELDER NOBLEMAN (Unflinching): \"Precisely.\"\n[01:34.50-01:41.90] CAMERA: Medium three-shot framing Rupert, the Elder Nobleman between them, and Catherine listening closely.\n[01:34.60-01:41.80] ELDER NOBLEMAN (Authoritative, Command): \"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\"\n[01:41.90-01:44.40] CAMERA: Close-up of Catherine smiling with malicious satisfaction, fluttering her fan.\n[01:42.20-01:43.90] CATHERINE (Scheming): \"Her botanical ledger...\"\n[01:44.40-01:46.60] CAMERA: Close-up of the Elder Nobleman nodding slowly.\n[01:44.80-01:46.00] ELDER NOBLEMAN (Confirming): \"Exactly.\"\n[01:46.60-01:49.00] CAMERA: Close-up of Catherine leaning slightly forward.\n[01:47.30-01:48.80] CATHERINE (Inquiring): \"And the Dowager?\"\n[01:49.00-01:56.80] CAMERA: Medium shot of the Elder Nobleman gesturing dismissively with one gloved hand.\n[01:49.50-01:56.50] ELDER NOBLEMAN (Dismissive): \"She is weak, confused. No magistrate will trust a dying woman's accusations against a respected household.\"\n[01:56.80-02:01.75] CAMERA: Medium close-up of Rupert exhaling deeply, processing the horrifying certainty of their conspiracy.\n[02:00.00-02:01.50] RUPERT (Hesitant): \"And Juliana?\""
+    }
+  ]
+}

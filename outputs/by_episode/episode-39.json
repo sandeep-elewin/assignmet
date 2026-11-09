@@ -1,0 +1,64 @@
+{
+  "episode": 39,
+  "label": "Episode 39",
+  "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+  "continuity_notes": "Picks up as the wedding bells toll for Rupert and Catherine's ceremony. While Juliana prepares for execution in the dungeon below, Alexander's coordinated strike to liberate the cathedral and reclaim his birthright begins.",
+  "duration_s": 98.41,
+  "candidates_considered": 5,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "no real cliffhanger (0.23 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep39-88b80b3c",
+      "rank": null,
+      "episode": 39,
+      "episode_label": "Episode 39",
+      "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 63.0,
+          "end": 98.41,
+          "start_tc": "01:03.00",
+          "end_tc": "01:38.41",
+          "duration": 35.41
+        }
+      ],
+      "clip_duration": 35.41,
+      "hook": "\"They buried Alexander Ashwin three years ago.\"",
+      "cliffhanger": "\"And I am bringing my wife home.\"",
+      "why_it_works": "opens on a clear dramatic question; ends without a real cliffhanger; reads clean to a first-time viewer.",
+      "score": 59.02,
+      "heuristic_score": 59.02,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.586,
+        "cliffhanger": 0.228,
+        "standalone": 0.95,
+        "arc": 0.642,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "no real cliffhanger (0.23 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 39, 1 segment(s), 35s\n[01:03.00-01:05.50] ALEXANDER (Dark, Unforgiving): \"They buried Alexander Ashwin three years ago.\"\n[01:05.60-01:06.90] ALEXANDER (Fierce, Commanding): \"Today, he comes home.\"\n[01:06.60-01:08.50] CAMERA: Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench.\n[01:08.50-01:11.80] CAMERA: Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light.\n[01:08.50-01:11.80] ACTION: Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.\n[01:11.80-01:14.80] CAMERA: Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.\n[01:14.80-01:17.80] CAMERA: Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow.\n[01:15.80-01:17.20] LOYALIST (Reverent, Submissive): \"Your Grace.\"\n[01:17.80-01:22.50] CAMERA: Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel.\n[01:20.50-01:22.20] ALEXANDER (Authoritative, Command): \"Secure the chapel.\"\n[01:22.50-01:25.20] CAMERA: Medium close-up of the soldier rising and snapping a crisp military salute.\n[01:23.80-01:25.20] LOYALIST (Resolute): \"Yes, Your Grace.\"\n[01:25.20-01:35.00] CAMERA: Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him.\n[01:25.50-01:27.20] ALEXANDER (Powerful, Roaring Defiance): \"No more hiding.\"\n[01:27.50-01:30.20] ALEXANDER (Fierce, Unyielding): \"I am taking back my house.\"\n[01:30.20-01:35.00] ACTION: Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward.\n[01:35.00-01:38.41] CAMERA: Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction.\n[01:35.00-01:38.00] ALEXANDER (Passionate, Unstoppable Vow): \"And I am bringing my wife home.\"\n[01:37.80-01:38.41] ACTION: Alexander's eyes burn with furious determination as the screen cuts sharply to black."
+    }
+  ]
+}

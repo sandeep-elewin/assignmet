@@ -1,0 +1,39 @@
+PROMO ep27-013efdc9
+Episode 27 - Episode 27
+Duration: 36.2s   Segments: 1
+Score: 72.49 (heuristic 72.49)
+
+IN / OUT
+  segment 1: 00:44.50 -> 01:20.75  (36.25s)
+
+HOOK      00:44.50  "What is your husband's name?"
+CLIFF     01:18.10  "Who permitted you to give medicine to the Duchess?"
+
+WHY       opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 27, 1 segment(s), 36s
+[00:44.50-00:46.40] DOWAGER DUCHESS (Hushed, Desperate): "What is your husband's name?"
+[00:46.40-00:48.30] SOUND: Loud, violent pounding echoes on the wooden double doors.
+[00:46.50-00:48.80] CAMERA: Juliana gasps, snapping her head toward the entrance in alarm.
+[00:48.80-00:51.50] ACTION: The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.
+[00:48.80-00:51.50] CAMERA: Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway.
+[00:51.50-00:55.60] CAMERA: Medium shot of Lady Catherine in her lavish cream gown and tiara, scowling with arrogant disdain.
+[00:52.20-00:55.60] LADY CATHERINE (Sharp, Accusatory): "What is that maid doing in Her Grace's private chamber?"
+[00:55.60-00:58.60] CAMERA: Medium shot of Juliana standing stiffly beside the bed, concealing her hands.
+[00:56.80-00:58.40] JULIANA (Calm, Defiant): "She needed help."
+[00:58.60-01:02.00] CAMERA: Close-up of Lady Catherine narrowing her eyes with venomous suspicion.
+[01:00.00-01:01.80] LADY CATHERINE (Piercing, Suspicious): "What are you hiding?"
+[01:02.00-01:04.00] CAMERA: Close-up of Juliana, her chin raised.
+[01:02.20-01:03.50] JULIANA (Firm): "Nothing."
+[01:04.00-01:06.50] CAMERA: Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana.
+[01:04.80-01:06.40] LADY CATHERINE (Demanding, Harsh): "Show me your hand."
+[01:06.50-01:10.50] CAMERA: Medium shot of the Blond Nobleman stepping forward beside Lady Catherine, clad in a dark tailored coat with black leather gloves.
+[01:06.60-01:10.10] BLOND NOBLEMAN (Cold, Authoritative): "Girl. Show me what you are holding."
+[01:10.50-01:13.80] CAMERA: Two-shot of Juliana facing the Blond Nobleman as she slowly extends her palm, revealing the small amber glass dropper bottle.
+[01:12.60-01:13.70] BLOND NOBLEMAN (Skeptical): "What is this?"
+[01:13.80-01:14.80] JULIANA (Steady): "Medicine."
+[01:14.80-01:17.80] CAMERA: Close-up of Lady Catherine tapping her gloved finger to her lip, letting out a mocking scoff.
+[01:15.20-01:17.80] LADY CATHERINE (Mocking, Condescending): "Medicine? You are a new maid."
+[01:17.80-01:20.75] CAMERA: Medium shot of the Blond Nobleman staring down at the vial, as Catherine sneers from his side.
+[01:18.10-01:20.50] LADY CATHERINE (Incredulous, Accusing): "Who permitted you to give medicine to the Duchess?"

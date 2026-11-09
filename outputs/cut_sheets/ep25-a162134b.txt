@@ -1,0 +1,31 @@
+PROMO ep25-a162134b
+Episode 25 - Episode 25
+Duration: 32.2s   Segments: 1
+Score: 67.73 (heuristic 67.73)
+
+IN / OUT
+  segment 1: 00:47.00 -> 01:19.15  (32.15s)
+
+HOOK      00:47.00  "Juliana... why were you inside Ashburg Manor?"
+CLIFF     01:17.40  "What did you find?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 25, 1 segment(s), 32s
+[00:47.00-00:51.20] ALEXANDER (Fierce, Urgent): "Juliana... why were you inside Ashburg Manor?"
+[00:51.50-00:54.20] CAMERA: Close-up of Juliana holding his gaze resolutely.
+[00:52.20-00:54.20] JULIANA (Earnest): "I went there to help someone."
+[00:54.40-00:55.20] ALEXANDER (Blunt): "Who?"
+[00:54.50-00:57.50] CAMERA: Medium close-up profile of both of them locked in stillness.
+[00:55.60-00:57.20] JULIANA (Solemn): "The Dowager Duchess."
+[00:57.50-01:03.50] CAMERA: Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.
+[01:00.80-01:02.50] ALEXANDER (Stunned, Disbelieving): "The Dowager?"
+[01:03.50-01:08.50] CAMERA: Medium profile tracking shot as Juliana begins walking slowly along the trail, Alexander following closely by her side.
+[01:06.20-01:08.50] JULIANA (Urgent): "Prudence told me she was dying."
+[01:08.50-01:13.80] CAMERA: Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.
+[01:08.80-01:13.80] JULIANA (Fervent): "She was barely breathing when I found her. The doctor said she was simply growing old."
+[01:13.80-01:16.80] CAMERA: Two-shot as Juliana stops and looks up into Alexander's grim expression.
+[01:14.20-01:15.80] JULIANA (Chilling, Definite): "But it wasn't age."
+[01:16.80-01:19.15] CAMERA: Medium shot of Alexander staring down at her, waiting for the dark truth.
+[01:17.40-01:18.90] ALEXANDER (Grim, Low): "What did you find?"

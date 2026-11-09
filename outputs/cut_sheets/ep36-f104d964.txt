@@ -1,0 +1,38 @@
+PROMO ep36-f104d964
+Episode 36 - Episode 36
+Duration: 37.9s   Segments: 1
+Score: 73.74 (heuristic 73.74)
+
+IN / OUT
+  segment 1: 01:00.90 -> 01:38.75  (37.85s)
+
+HOOK      01:00.90  "I trusted them."
+CLIFF     01:36.80  "Then where is she?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 36, 1 segment(s), 38s
+[01:00.90-01:03.80] ALEXANDER'S MOTHER (Sobbing): "I trusted them."
+[01:04.20-01:07.50] CAMERA: Wide shot as Alexander stands tall beside the weeping mother seated at the table.
+[01:05.10-01:07.30] ALEXANDER (Gentle yet Firm): "You trusted family."
+[01:07.50-01:11.00] CAMERA: Profile close-up of Alexander stepping closer to the door, staring out into the falling snow.
+[01:07.80-01:10.50] ALEXANDER (Resentful): "They used that trust against you."
+[01:11.00-01:14.80] CAMERA: Alexander steps back toward the table, leaning in urgently toward his mother.
+[01:12.10-01:14.70] ALEXANDER (Urgent, Anxious): "Mother... Juliana..."
+[01:14.80-01:18.20] CAMERA: Medium close-up on Alexander leaning both hands on the table, desperate for answers.
+[01:14.90-01:18.10] ALEXANDER (Intense): "She went into Ashbourne Manor to save you. She never came back."
+[01:18.20-01:21.80] CAMERA: Tight close-up on Alexander's strained, furrowed brow.
+[01:18.80-01:21.70] ALEXANDER (Tremulous): "I thought perhaps she stayed with you."
+[01:21.80-01:24.00] CAMERA: Close-up of his mother looking up at him, agony and hesitation washing over her face.
+[01:22.00-01:23.80] ALEXANDER'S MOTHER (Hesitant, Trembling): "Alexander..."
+[01:24.00-01:26.50] CAMERA: Quick push-in close-up on Alexander, his eyes snapping open in sudden panic.
+[01:24.40-01:25.50] ALEXANDER (Alarmed): "What?"
+[01:26.50-01:30.00] CAMERA: Close-up on his mother, tears shining in the amber lamplight.
+[01:27.20-01:29.80] ALEXANDER'S MOTHER (Choked): "She did come to me."
+[01:30.00-01:33.20] CAMERA: Medium two-shot as Alexander bends over the table, crowding his mother with fierce desperation.
+[01:31.00-01:33.10] ALEXANDER (Demanding): "Is she still at Ashbourne?"
+[01:33.20-01:36.50] CAMERA: Close-up on Alexander's mother shutting her eyes and weeping, shaking her head in deep anguish.
+[01:33.50-01:35.80] ALEXANDER'S MOTHER (Sobbing): "No..."
+[01:36.50-01:38.75] CAMERA: Medium shot as Alexander towers over her, his breathing turning ragged.
+[01:36.80-01:38.50] ALEXANDER (Desperate): "Then where is she?"

@@ -1,0 +1,113 @@
+{
+  "episode": 1,
+  "label": "Episode 1",
+  "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+  "continuity_notes": "First episode of the series. Establishes Juliana's humiliation and abandonment by her betrothed, Gerald, and her noble family in favor of her sister, Clarissa.",
+  "duration_s": 138.0,
+  "candidates_considered": 8,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep01-2929357e",
+      "rank": 6,
+      "episode": 1,
+      "episode_label": "Episode 1",
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 75.0,
+          "end": 119.25,
+          "start_tc": "01:15.00",
+          "end_tc": "01:59.25",
+          "duration": 44.25
+        }
+      ],
+      "clip_duration": 44.25,
+      "hook": "\"Long enough to know he was never going to marry you.\"",
+      "cliffhanger": "\"So that is what I was worth to you?\"",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 72.49,
+      "heuristic_score": 72.49,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.873,
+        "cliffhanger": 0.696,
+        "standalone": 0.69,
+        "arc": 0.353,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of IN GOLD GOWN, JULIANA, MATRIARCH"
+        ],
+        "prior_knowledge_entities": [
+          "IN GOLD GOWN",
+          "MATRIARCH",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 1, 1 segment(s), 44s\n[01:15.00-01:18.50] LADY IN GOLD GOWN (Cruel, Poised): \"Long enough to know he was never going to marry you.\"\n[01:19.00-01:21.00] ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.\n[01:19.00-01:21.40] CAMERA: Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.\n[01:20.10-01:21.20] LADY JULIANA (Desperate): \"Father...\"\n[01:21.40-01:23.70] CAMERA: Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.\n[01:21.40-01:23.60] LADY JULIANA (Begging): \"Tell them this is a mistake.\"\n[01:23.70-01:26.00] CAMERA: Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.\n[01:26.00-01:29.50] CAMERA: Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.\n[01:26.00-01:28.90] LADY JULIANA (Choking, Broken): \"Father... please look at me.\"\n[01:29.50-01:30.80] ACTION: The father tightens his jaw and stony expression, refusing to offer a single word or look.\n[01:29.50-01:30.80] CAMERA: Profile close-up of the father staring blankly forward.\n[01:30.80-01:35.80] CAMERA: Low-angle shot looking up at the Matriarch commanding the space with regal severity.\n[01:30.90-01:31.90] MATRIARCH (Stern, Resolute): \"Enough!\"\n[01:32.10-01:35.50] MATRIARCH (Disgusted): \"You have embarrassed this family long enough.\"\n[01:35.80-01:38.60] CAMERA: Close-up on Juliana as she rises, stung by the utter betrayal.\n[01:36.20-01:38.20] LADY JULIANA (Incredulous): \"Embarrassed you?\"\n[01:38.60-01:42.50] CAMERA: Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold.\n[01:38.80-01:41.50] MATRIARCH (Haughty): \"Clarissa knows how to carry herself.\"\n[01:41.60-01:45.00] MATRIARCH (Proud): \"She has beauty, connections, and a future worth protecting.\"\n[01:42.50-01:45.30] CAMERA: Medium profile two-shot of the Matriarch confronting Juliana face to face.\n[01:45.30-01:47.40] CAMERA: Close-up on Juliana, demanding answers in spite of her humiliation.\n[01:45.40-01:47.30] LADY JULIANA (Raw, Painful): \"And I am what?\"\n[01:47.40-01:50.00] CAMERA: Medium tracking shot showing the Lady in Gold Gown stepping past Juliana toward the center.\n[01:47.50-01:50.80] LADY IN GOLD GOWN (Viciously Calm): \"You are the daughter people tolerate because they have to.\"\n[01:50.00-01:53.00] CAMERA: Close-up on Juliana absorbing the venomous words, her breathing shallow.\n[01:51.10-01:53.00] LADY IN GOLD GOWN (Gloating): \"I am the daughter they choose.\"\n[01:53.00-01:55.20] CAMERA: Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles.\n[01:53.30-01:55.70] MATRIARCH (Firm): \"Clarissa is the jewel of this family.\"\n[01:55.20-01:57.00] CAMERA: Close two-shot of the Matriarch and Juliana standing side by side in profile.\n[01:57.00-01:59.25] CAMERA: Medium shot framing Juliana looking directly at Gerald, who towers over her coldly.\n[01:57.00-01:59.00] LADY JULIANA (Trembling, Dignified): \"So that is what I was worth to you?\""
+    },
+    {
+      "id": "ep01-8985f979",
+      "rank": null,
+      "episode": 1,
+      "episode_label": "Episode 1",
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 107.5,
+          "end": 138.0,
+          "start_tc": "01:47.50",
+          "end_tc": "02:18.00",
+          "duration": 30.5
+        }
+      ],
+      "clip_duration": 30.5,
+      "hook": "\"You are the daughter people tolerate because they have to.\"",
+      "cliffhanger": "Cut to black.",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 70.54,
+      "heuristic_score": 70.54,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.825,
+        "cliffhanger": 0.775,
+        "standalone": 0.6,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of FORMER GROOM, IN GOLD GOWN, JULIANA, MATRIARCH"
+        ],
+        "prior_knowledge_entities": [
+          "MATRIARCH",
+          "FORMER GROOM",
+          "IN GOLD GOWN",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 1, 1 segment(s), 30s\n[01:47.50-01:50.80] LADY IN GOLD GOWN (Viciously Calm): \"You are the daughter people tolerate because they have to.\"\n[01:50.00-01:53.00] CAMERA: Close-up on Juliana absorbing the venomous words, her breathing shallow.\n[01:51.10-01:53.00] LADY IN GOLD GOWN (Gloating): \"I am the daughter they choose.\"\n[01:53.00-01:55.20] CAMERA: Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles.\n[01:53.30-01:55.70] MATRIARCH (Firm): \"Clarissa is the jewel of this family.\"\n[01:55.20-01:57.00] CAMERA: Close two-shot of the Matriarch and Juliana standing side by side in profile.\n[01:57.00-01:59.50] CAMERA: Medium shot framing Juliana looking directly at Gerald, who towers over her coldly.\n[01:57.00-01:59.00] LADY JULIANA (Trembling, Dignified): \"So that is what I was worth to you?\"\n[01:59.50-02:02.50] CAMERA: Close-up on Gerald's sharp jawline as he looks down at her without an ounce of remorse.\n[01:59.80-02:02.30] THE FORMER GROOM (Scornful, Hard): \"You have nothing to offer me anymore.\"\n[02:02.50-02:04.20] CAMERA: Extreme close-up on Juliana's eye as a single tear rolls down her cheek.\n[02:04.20-02:08.50] CAMERA: Full shot tracking Gerald as he turns his back on Juliana and walks back toward Clarissa and the altar.\n[02:04.20-02:07.50] THE FORMER GROOM (Arrogant, Dismissive): \"I cannot marry a woman of such plainness and low value...\"\n[02:08.50-02:11.30] CAMERA: Close-up on Clarissa's radiant, conceited smile basking in Gerald's words.\n[02:08.50-02:11.20] THE FORMER GROOM (Reverent toward Clarissa): \"...when Clarissa is the true jewel of the county.\"\n[02:11.30-02:13.80] ACTION: Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.\n[02:11.30-02:13.80] CAMERA: Tight insert on Juliana's white-knuckled hand clutching the gown fabric.\n[02:13.80-02:17.00] CAMERA: Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance.\n[02:13.80-02:17.00] ACTION: Juliana breathes through the agony, refusing to break down further in front of the congregation.\n[02:15.00-02:17.50] SOUND: Solemn low-pitched string drone swells to an ominous cliffhanger peak.\n[02:17.00-02:18.00] CAMERA: Cut to black."
+    }
+  ]
+}

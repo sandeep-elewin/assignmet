@@ -1,0 +1,27 @@
+PROMO ep30-21e26952
+Episode 30 - Episode 30
+Duration: 25.4s   Segments: 1
+Score: 61.74 (heuristic 61.74)
+
+IN / OUT
+  segment 1: 00:33.60 -> 00:59.05  (25.45s)
+
+HOOK      00:33.60  "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!"
+CLIFF     00:57.00  "You have a solution?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 30, 1 segment(s), 25s
+[00:33.60-00:39.80] ELDER NOBLEMAN (Fierce, Venomous): "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!"
+[00:39.80-00:43.80] CAMERA: Low-angle close-up of Rupert gasping softly, intimidated by the cane pressed firmly beneath his cravat.
+[00:41.80-00:43.50] RUPERT (Faltering, Submissive): "What are you suggesting?"
+[00:43.80-00:47.60] CAMERA: Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors.
+[00:44.80-00:47.30] ELDER NOBLEMAN (Calculated, Ominous): "We stop hiding the prisoner."
+[00:47.60-00:51.00] CAMERA: Tracking shot from behind the Elder Nobleman as he pushes open the heavy double doors into the dark wood-paneled library.
+[00:48.00-00:50.50] SOUND: The heavy creak of massive mahogany doors gliding open on brass hinges.
+[00:51.00-00:54.60] CAMERA: Front medium shot of the Elder Nobleman pausing inside the library doorway, Rupert following behind him.
+[00:51.20-00:54.00] ELDER NOBLEMAN (Deadpan, Sinister): "We give them a reason to condemn her."
+[00:54.60-00:58.80] CAMERA: Wide shot of Catherine standing regally before the roaring stone hearth, dressed in an ornate burgundy and gold brocade gown, slowly unfurling a red lace fan.
+[00:57.00-00:58.80] CATHERINE (Inquiring, Sharp): "You have a solution?"
+[00:58.80-00:59.05] CAMERA: Side profile close-up of the Elder Nobleman speaking with icy confidence.

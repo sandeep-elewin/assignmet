@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Promo Finder — Solution</title>
+<style>
+  @page { size: A4; margin: 13mm 14mm 12mm; }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    margin: 0; color: #16181d; background: #fff;
+    font: 9.15pt/1.37 -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  h1 { font-size: 17.5pt; margin: 0 0 2px; letter-spacing: -0.35px; }
+  .by { color: #1d2230; font-size: 10pt; font-weight: 600; margin: 2px 0 2px; }
+  .sub { color: #5b6270; font-size: 9pt; margin: 0 0 9px; }
+  h2 {
+    font-size: 9.7pt; text-transform: uppercase; letter-spacing: .7px;
+    margin: 12px 0 5px; padding-bottom: 2px; border-bottom: 1.2px solid #16181d;
+  }
+  p { margin: 0 0 5px; }
+  ul, ol { margin: 0 0 5px; padding-left: 15px; }
+  li { margin-bottom: 2.2px; }
+  code, .mono { font-family: "SF Mono", Menlo, monospace; font-size: 8.3pt; }
+  .cmd {
+    background: #f3f4f7; border-left: 3px solid #16181d; padding: 5px 8px;
+    margin: 6px 0 8px; font-family: "SF Mono", Menlo, monospace; font-size: 8.2pt;
+  }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0 6px; }
+  th, td { text-align: left; vertical-align: top; padding: 3px 6px 3px 0; border-bottom: .6px solid #d9dce3; }
+  th { font-size: 8.2pt; text-transform: uppercase; letter-spacing: .5px; color: #5b6270; }
+  .kpi { display: flex; gap: 7px; margin: 7px 0 8px; }
+  .kpi div { flex: 1; border: 1px solid #d9dce3; border-radius: 5px; padding: 5px 7px; }
+  .kpi b { display: block; font-size: 14pt; letter-spacing: -.4px; }
+  .kpi span { font-size: 7.6pt; color: #5b6270; text-transform: uppercase; letter-spacing: .4px; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; }
+  .note { background: #f7f7f4; border: 1px solid #e3e4e8; border-radius: 5px; padding: 6px 8px; }
+  .fail { color: #a3341f; }
+  .ok { color: #1c6b3c; }
+  footer { margin-top: 9px; border-top: .8px solid #d9dce3; padding-top: 5px; color: #5b6270; font-size: 7.9pt; }
+  .small { font-size: 8.4pt; }
+</style>
+</head>
+<body>
+
+<h1>Finding 20–60 second promos in a microdrama screenplay</h1>
+<p class="by">Sandeep Kumar Jha · 9 November 2026</p>
+<p class="sub">Kuku AI Generalist assignment · Problem 1 · 50 episodes, 102.7 minutes, 3,727 timestamped beats · Python 3, stdlib only</p>
+
+<div class="cmd">python3 -m promofinder --input ".." --out outputs --top 15 &nbsp;→&nbsp; open outputs/report.html</div>
+
+<h2>1. Framing and assumptions</h2>
+<p>The brief is precise about what a promo is, so I made its three tests the <em>gate</em>, not a score: a clip ships only if a hook lands inside the first three seconds, the cut leaves an unresolved moment, and a newcomer can follow it. Ranking is a separate, later question. Mixing the two is how a tool ends up confidently posting a bad clip.</p>
+<ul>
+  <li><b>Input is the screenplay pack only.</b> No video or audio, so every judgement is made on text and timecodes. I did not listen to any cut.</li>
+  <li><b>A promo may be one continuous stretch or two segments joined inside the same episode.</b> I did not join across episodes: the 50 files share characters but not a continuous timeline I can trust, and a cross-episode jump is a much harder standalone-sense problem.</li>
+  <li><b>The output is what an editor needs to make the cut,</b> not a rendered file: episode, in/out per segment, the hook line, the cliff line, and a one-line rationale. Subtitle and music choices are out of scope.</li>
+  <li><b>The show's own emotion parentheticals are free supervision.</b> Every line is tagged <code>(Devastated)</code>, <code>(Cold, Menacing)</code>; that turned out to be the single strongest hook feature, so the lexicon is built around it.</li>
+</ul>
+
+<h2>2. How it works</h2>
+<p>Parse every camera, action, sound and dialogue block into absolute-time beats; propose candidates; score them; rank. Boundaries are arithmetic, so rules do them exactly: 12 anchors per episode × 3 out-points, plus the episode's own ending, = <b>459 candidates (9.2/episode)</b>, all snapped to beat boundaries.</p>
+<table>
+  <tr><th>Feature</th><th>How it is measured</th><th>Weight</th></tr>
+  <tr><td>Hook</td><td>best beat in the first 3s: emotion intensity, short high-voltage line, reveal / slap / hard cut</td><td>0.30</td></tr>
+  <tr><td>Cliff</td><td>the <em>last spoken line</em>: question, trailing ellipsis, threat, reveal, plus a cut-to-black tag</td><td>0.30</td></tr>
+  <tr><td>Standalone</td><td>series-wide character debt: names the viewer has not met (e.g. "the Dowager"), alias-merged across all 50 files</td><td>0.22</td></tr>
+  <tr><td>Arc</td><td>emotional peak position and lift from opening to peak</td><td>0.12</td></tr>
+  <tr><td>Pacing</td><td>speech-to-runtime ratio and cuts per 10s</td><td>0.06</td></tr>
+</table>
+<p class="small">Score = 100 × weighted sum × duration fit (full credit 28–45s, small decay outside). A clip must also clear <b>0.45 hook / 0.45 cliff / 0.50 standalone</b>. Episodes that clear nothing are reported as "no postable promo" with the reason, not forced into the list. Two editorial passes run before the gate: <b>tail tightening</b> (cut at the last strong line if everything after it deflates) and <b>stitching</b> (join a strong opener to a strong closer, but only if the montage ends on a spoken line, adds ≥0.15 to hook+cliff, and loses ≤1.0 point elsewhere). Final ranking takes one pick per episode first, then a second pass, rejecting overlaps above 40%.</p>
+
+<h2>3. Code, model, human — what did which job</h2>
+<table>
+  <tr><th style="width:20%">Code</th><th style="width:31%">Model</th><th style="width:23%">Human (me)</th><th style="width:26%">Why</th></tr>
+  <tr>
+    <td>Parsing, timecodes, boundary snapping, length limits, gate arithmetic, dedupe, ranking, JSON/HTML. All deterministic; same pack → same list.</td>
+    <td>An optional judge over the top 2 clips per episode: hook / cliff / standalone / spoiler risk / postable, plus a reason and one fix. Blended 55% model, 45% rules. Never trusted on timestamps.</td>
+    <td>Chose the problem and the three-test framing; set the weights by looking at the score distribution; read all 15 top transcripts; overrode the tool's #1 pick; decided when to stop tuning.</td>
+    <td>Boundaries are arithmetic and should not cost a token. "Would a stranger understand this?" is judgement and should not be a regex. Tuning is neither.</td>
+  </tr>
+</table>
+<p class="small">The model is swappable by environment variable only — OpenAI-compatible (<code>PROMO_LLM_BASE_URL</code>, so Groq, OpenRouter, vLLM, Ollama all work) or Anthropic. No key ⇒ the heuristic pass runs and says so. Verdicts are cached by content hash.</p>
+
+<h2>4. Quality — what the run actually produced</h2>
+<div class="kpi">
+  <div><b>39/50</b><span>episodes with a postable cut</span></div>
+  <div><b>9/15</b><span>top picks ship as-is</span></div>
+  <div><b>15/15</b><span>ship after one trim</span></div>
+  <div><b>0</b><span>unusable picks</span></div>
+  <div><b>6.1s</b><span>wall clock, 50 episodes</span></div>
+</div>
+<p>I graded every top-15 pick by hand against the brief (<code>audit/quality_review.md</code>). Order: the tool ranks ep18 #1, but <b>I would post ep36 first</b> — its hook is spoken at 01:57.50 and lands in 1.8s, where ep18's hook is an image plus a question that needs the burning cottage to register first. That override is the human-in-the-loop working as intended.</p>
+<table>
+  <tr><th>#</th><th>Ep</th><th>In–out (s)</th><th>Hook</th><th>Cliff</th><th>Verdict</th></tr>
+  <tr><td>1</td><td>18</td><td>145.8–186.8</td><td>"Why would anyone do this?"</td><td>"What are you going to do?"</td><td class="ok">Post (top 3)</td></tr>
+  <tr><td>2</td><td>36</td><td>117.5–148.3</td><td>"You told them the truth!"</td><td>"What wedding?"</td><td class="ok"><b>Post — first</b></td></tr>
+  <tr><td>3</td><td>45</td><td>22.9–42.1 + 93.2–113.3</td><td>"You're the Duke?"</td><td>"You are not… lawful wife."</td><td class="ok">Post (stitched)</td></tr>
+  <tr><td>4</td><td>22</td><td>96.0–131.0</td><td>"Do not stare. Keep walking."</td><td>"Who has been treating you?"</td><td class="ok">Post</td></tr>
+  <tr><td>5</td><td>35</td><td>111.0–145.3</td><td>"How did you escape?"</td><td>"Who?"</td><td class="ok">Post</td></tr>
+  <tr><td>6</td><td>1</td><td>75.0–119.3</td><td>"…he was never going to marry you."</td><td>"…what I was worth to you?"</td><td>Post + title card</td></tr>
+</table>
+<p><b>Three defects the audit found, all fixed and now covered by tests:</b></p>
+<ol>
+  <li><span class="fail">Reported cliff ≠ actual ending.</span> The scorer took the highest-scoring line in the last 4s. On ep32 that was "A disgraced woman?", while the clip ran on to "…You cannot destroy me." — a resolved, triumphant ending. The card was describing a cut that was never made. The cliff is now the last spoken beat. Ep32 and ep3 dropped out (correctly); ep18's better narrative cut surfaced at #1.</li>
+  <li><span class="fail">Clips opened mid-sentence.</span> The screenplays split lines across blocks ("…no one will remember…"). An ep29 pick started on the back half. The in-point now walks back to the sentence's first beat (max 10s).</li>
+  <li><span class="fail">Stitching won for the wrong reason.</span> A flat score margin let ep1's montage win by jumping 35s and ending on "Cut to black", while ep45's genuinely good montage lost. Stitching now requires both bookends to improve, a spoken final line, and a bounded loss elsewhere.</li>
+</ol>
+<p><b>Known bad cases I did not paper over.</b> Three picks open on a fragment that answers an unheard question (#11 "No.", #12 "It is medicine!", #14 "I didn't!") — a reply-aware hook penalty would fix it but costs recall on punchy one-liners, so it is a human trim. Two picks have a procedural middle (#8 measuring a pulse, #9 reciting a journal) yet score pacing 1.00, because pacing only sees speech ratio and cut rate, not new information. ep50's best hook — "Absolution is free. Discretion has a price." — was <em>refused</em> at 0.42 because the line is delivered flat and has no emotion tag: the tags are doing a lot of the work. Of the 11 refusals, I judge 3 (ep21, ep39, ep49) to be false negatives and 6 clearly right; the rest fail on a visual hook the text cannot see.</p>
+
+<h2>5. Scale, cost, and the next hour of work</h2>
+<div class="two">
+  <div>
+    <p><b>At volume.</b> Heuristic pass: ~0.12s per episode on one core, embarrassingly parallel. Model pass: 2 clips per episode, ~1,150 input / ~120 output tokens per call — about <b>$0.02 per 50-episode season</b> on gpt-4o-mini, $0.14 on Haiku, $0.50 on Sonnet at list prices; caching makes re-runs free. 500 episodes is ~1 minute of rules and 20 cents of models.</p>
+    <p><b>Human review is the real cost.</b> Fifteen full transcripts took ~35 minutes. At 500 episodes, review only the top 40 and a random 10 for precision; everything else is a backlog. The tool is built to make that queue small and honest.</p>
+  </div>
+  <div class="note">
+    <p><b>If I had a second day:</b></p>
+    <ul>
+      <li>A "reply-aware" hook penalty for one-word answers, and a <code>cliff_kind: visual</code> flag so wordless endings are phrased as an image, not blocking.</li>
+      <li>An information-delta feature for pacing (new facts per 10s), so procedural scenes stop scoring 1.00.</li>
+      <li>A series-trailer mode: 3–5 moments across episodes. The stitcher already builds the graph; the missing piece is a cross-episode standalone check.</li>
+      <li>Test the 15 cuts against retention on a real account — no text heuristic replaces that signal.</li>
+    </ul>
+  </div>
+</div>
+
+<h2>6. The posting plan I would actually run</h2>
+<ol>
+  <li><b>ep36 (31s), first.</b> Spoken accusation at 0.0s, four escalations, cliff on "What wedding?" — the cleanest test of a pure-dialogue cold open.</li>
+  <li><b>ep22 (35s), second.</b> No names needed: sneaking, a dying woman, "Who has been treating you?" — the test of a premise-free visual open.</li>
+  <li><b>ep45 (39s, stitched), third.</b> Reveal then reversal; add a 4-frame white flash at the join so the jump reads as a cut — the test of two-moment promos.</li>
+  <li><b>ep18 (41s), fourth.</b> The tool's #1, held back on purpose: image-led hook, best ending.</li>
+</ol>
+
+<footer>
+Prototype: <span class="mono">promo-finder/</span> (stdlib only; the two commands above). Report: <span class="mono">outputs/report.html</span>, self-contained and offline. Raw run: <span class="mono">audit/run.log</span> · transcript sheet: <span class="mono">audit/top15_transcripts.txt</span> · hand review: <span class="mono">audit/quality_review.md</span> · 35 tests: <span class="mono">python3 -m unittest discover -s tests</span>.
+</footer>
+
+</body>
+</html>

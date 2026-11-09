@@ -1,0 +1,31 @@
+PROMO ep45-7dc603e1
+Episode 45 - Episode 45
+Duration: 24.0s   Segments: 1
+Score: 63.63 (heuristic 63.63)
+
+IN / OUT
+  segment 1: 01:07.00 -> 01:31.05  (24.05s)
+
+HOOK      01:07.00  Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview.
+CLIFF     01:28.40  "No one will bow yet!"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 45, 1 segment(s), 24s
+[01:07.00-01:11.20] CAMERA: Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview.
+[01:08.80-01:10.50] CATHERINE (Trembling, Stunned): "Wife?!"
+[01:11.20-01:14.50] CAMERA: Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle.
+[01:11.20-01:14.50] ACTION: Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests.
+[01:11.50-01:14.00] ALEXANDER (Authoritative, Resounding): "Before the Crown and before God..."
+[01:14.50-01:20.50] CAMERA: Medium shot as Alexander stops in the center of the nave and raises Juliana's hand high above their heads.
+[01:14.60-01:20.00] ACTION: Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility.
+[01:14.80-01:20.40] ALEXANDER (Proclaiming, Powerful): "Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!"
+[01:20.50-01:23.50] CAMERA: Close-up on Rupert and Mary standing in the pews, their eyes wide with horrified disbelief.
+[01:21.50-01:23.00] RUPERT (Gasping, Shellshocked): "Juliana?!"
+[01:23.50-01:26.50] CAMERA: Wide shot of Alexander and Juliana standing proudly together, exchanging a loving gaze amid the awestruck crowd.
+[01:26.50-01:30.50] CAMERA: Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist.
+[01:26.50-01:28.20] SOUND: Loud, echoing thud of cathedral doors swinging open violently.
+[01:27.50-01:31.00] ACTION: A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer.
+[01:28.40-01:30.80] HIGH PRIEST (Booming, Stern): "No one will bow yet!"
+[01:30.80-01:31.05] CAMERA: Low-angle shot on Alexander and Juliana turning in alarm toward the rear of the cathedral.

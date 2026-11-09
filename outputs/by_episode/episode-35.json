@@ -1,0 +1,109 @@
+{
+  "episode": 35,
+  "label": "Episode 35",
+  "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+  "continuity_notes": "While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.",
+  "duration_s": 157.5,
+  "candidates_considered": 14,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep35-54f471c5",
+      "rank": 5,
+      "episode": 35,
+      "episode_label": "Episode 35",
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 111.0,
+          "end": 145.25,
+          "start_tc": "01:51.00",
+          "end_tc": "02:25.25",
+          "duration": 34.25
+        }
+      ],
+      "clip_duration": 34.25,
+      "hook": "\"How did you escape?\"",
+      "cliffhanger": "\"Who?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 73.31,
+      "heuristic_score": 73.31,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.572,
+        "cliffhanger": 0.78,
+        "standalone": 0.9,
+        "arc": 0.749,
+        "pacing": 0.658
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, ALEXANDER'S MOTHER"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER'S MOTHER",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 35, 1 segment(s), 34s\n[01:51.00-01:53.00] ALEXANDER'S MOTHER (Pleading, Astonished): \"How did you escape?\"\n[01:53.50-01:58.00] CAMERA: Close-up on Alexander, his eyes dark with the harrowing memory.\n[01:54.00-01:58.00] ALEXANDER (Somber, Low): \"I crawled away from the battlefield, half dead, alone.\"\n[01:58.20-02:02.00] ALEXANDER (Continuing): \"I survived because the men who came looking for me believed I was already dead.\"\n[02:02.00-02:05.50] CAMERA: Close-up on his mother as her expression shifts to profound bewilderment and outrage.\n[02:02.00-02:05.50] ALEXANDER'S MOTHER (Aghast, Stunned): \"Then why did they never tell us?\"\n[02:05.50-02:09.50] CAMERA: Close-up on Alexander's intense, piercing gaze.\n[02:06.00-02:09.50] ALEXANDER (Ominous, Deliberate): \"Because someone wanted you to believe I was dead.\"\n[02:09.50-02:10.50] ALEXANDER'S MOTHER (Breathless): \"Who?\"\n[02:10.50-02:14.00] ACTION: Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.\n[02:11.00-02:14.00] ALEXANDER (Brooding): \"I spent three years trying to find out.\"\n[02:14.00-02:16.80] ACTION: Alexander abruptly pushes away from the window, storming back toward the table with burning rage.\n[02:14.00-02:17.00] ALEXANDER (Fierce, Resolute): \"The ambush was not an accident.\"\n[02:17.00-02:24.00] ACTION: He leans heavily over the wooden table, looming close as his fury boils over.\n[02:17.00-02:20.50] ALEXANDER (Vehement, Enraged): \"Someone ordered my men to die.\"\n[02:21.00-02:24.00] ALEXANDER (Darkly Intimating): \"Someone wanted me erased.\"\n[02:24.00-02:25.00] ALEXANDER'S MOTHER (Gasping, Terrified): \"Who?\"\n[02:25.00-02:25.25] CAMERA: Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill."
+    },
+    {
+      "id": "ep35-df34c8b5",
+      "rank": null,
+      "episode": 35,
+      "episode_label": "Episode 35",
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 52.5,
+          "end": 91.75,
+          "start_tc": "00:52.50",
+          "end_tc": "01:31.75",
+          "duration": 39.25
+        }
+      ],
+      "clip_duration": 39.25,
+      "hook": "\"I buried you.\"",
+      "cliffhanger": "\"A traitor?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer.",
+      "score": 71.06,
+      "heuristic_score": 71.06,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.661,
+        "cliffhanger": 0.736,
+        "standalone": 0.9,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, ALEXANDER'S MOTHER"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER'S MOTHER",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 35, 1 segment(s), 39s\n[00:52.50-00:55.00] ALEXANDER'S MOTHER (Tearful, Heartbroken): \"I buried you.\"\n[00:56.50-00:58.00] ALEXANDER (Soft, Somber): \"I know.\"\n[00:59.50-01:06.00] ALEXANDER'S MOTHER (Anguished, Accusing): \"They told me you died. They told me your entire regiment was destroyed.\"\n[01:06.50-01:11.00] CAMERA: Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories.\n[01:08.50-01:10.80] ALEXANDER (Dark, Resigned): \"Most of them were.\"\n[01:11.50-01:14.00] ALEXANDER'S MOTHER (Searching, Desperate): \"Then how did you survive?\"\n[01:14.20-01:18.00] CAMERA: Side profile of Alexander as his eyes look into the distance, haunted by the past.\n[01:15.00-01:17.50] ALEXANDER (Grim, Quiet): \"I wasn't supposed to.\"\n[01:18.00-01:22.50] ACTION: Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.\n[01:19.00-01:23.00] ALEXANDER (Solemn): \"Three years ago, I was sent to the Iberian front.\"\n[01:23.00-01:27.00] CAMERA: Close-up of Alexander's weathered face looking down pensively as he recounts the mission.\n[01:23.00-01:29.00] ALEXANDER (Steady, Focused): \"It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies.\"\n[01:27.00-01:29.80] ACTION: Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.\n[01:29.80-01:31.75] CAMERA: Close-up on his mother, gasping with wide, horrified eyes.\n[01:29.80-01:31.50] ALEXANDER'S MOTHER (Shocked): \"A traitor?\""
+    }
+  ]
+}

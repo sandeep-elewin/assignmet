@@ -1,0 +1,63 @@
+{
+  "episode": 32,
+  "label": "Episode 32",
+  "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+  "continuity_notes": "Picks up immediately from Episode 31's cliffhanger where Catherine used a glowing branding iron to scorch Juliana's mother's herbal book.",
+  "duration_s": 154.38,
+  "candidates_considered": 12,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep32-1010337f",
+      "rank": null,
+      "episode": 32,
+      "episode_label": "Episode 32",
+      "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 43.4,
+          "end": 79.65,
+          "start_tc": "00:43.40",
+          "end_tc": "01:19.65",
+          "duration": 36.25
+        }
+      ],
+      "clip_duration": 36.25,
+      "hook": "\"You still think you are better?!\"",
+      "cliffhanger": "\"Your soldier?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 64.04,
+      "heuristic_score": 64.04,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.63,
+        "cliffhanger": 0.753,
+        "standalone": 0.64,
+        "arc": 0.353,
+        "pacing": 0.703
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, CLARISSA, GERALD, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "CLARISSA",
+          "GERALD",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 32, 1 segment(s), 36s\n[00:43.40-00:45.40] CATHERINE (Furious, Shouting): \"You still think you are better?!\"\n[00:43.50-00:45.50] CAMERA: Extreme close-up of Catherine, baring her teeth in outrage.\n[00:45.50-00:47.80] CAMERA: Medium shot of Juliana, her chained hands clasped together in her lap.\n[00:45.60-00:47.40] JULIANA (Serene, Grounded): \"I know what I am.\"\n[00:47.80-00:49.00] CAMERA: Medium shot of Catherine scoffing with forced, derisive laughter.\n[00:47.80-00:49.00] CATHERINE (Sneering, Mocking): \"A disgraced woman?\"\n[00:49.00-00:52.50] CAMERA: Close-up of Juliana speaking with undeniable strength.\n[00:49.20-00:52.40] JULIANA (Unwavering): \"A woman who survived. You cannot destroy me.\"\n[00:52.50-00:54.40] CAMERA: Close-up of Catherine brandishing the glowing tong in Juliana's face, spittle flying from her lips.\n[00:52.80-00:54.20] CATHERINE (Screaming, Enraged): \"You are lying!\"\n[00:54.40-00:58.00] CAMERA: Close-up of Juliana looking straight up, voice steady and clear.\n[00:54.60-00:58.00] JULIANA (Measured, Emphatic): \"Gerald leaving me was the best thing he ever did for me.\"\n[00:58.00-01:00.80] CAMERA: Full shot of the dungeon cell. Catherine stands rigidly tall while Juliana sits shackled on the ground.\n[00:58.20-01:01.00] JULIANA (Contemplative, Scathing): \"He wanted a woman who looked beautiful beside his wealth.\"\n[01:00.80-01:04.50] CAMERA: Extreme close-up of Juliana's expressive blue eyes and tear-stained cheek.\n[01:01.10-01:06.80] JULIANA (Passionate, Clear): \"He wanted a wife whose family could raise his name. He measured a woman's worth by what she could give him.\"\n[01:04.50-01:07.00] CAMERA: Low-angle shot of Juliana leaning slightly forward against her chains.\n[01:07.00-01:09.00] CAMERA: Close-up of Catherine staring down, her eyes widening as Juliana's words pierce her facade.\n[01:07.20-01:08.90] JULIANA (Unapologetic, Victorious): \"Let him have Clarissa.\"\n[01:09.00-01:11.20] CAMERA: Close-up of Juliana smiling with genuine liberation.\n[01:09.60-01:11.20] JULIANA (Proud): \"He lost me.\"\n[01:11.20-01:13.30] CAMERA: Extreme close-up of Catherine's face contorting in sheer fury.\n[01:11.30-01:13.20] CATHERINE (Shrieking, Vicious): \"You were rejected!\"\n[01:13.30-01:15.50] CAMERA: Close-up of Juliana's calm, resolute face.\n[01:13.40-01:17.60] JULIANA (Grounded, Powerful): \"I was freed. And I found a man who never asked me what I was worth.\"\n[01:15.50-01:17.50] CAMERA: Wide shot of the cell, steam rising faintly in the cold subterranean air.\n[01:17.50-01:19.65] CAMERA: Close-up of Catherine sneering with dripping condescension.\n[01:17.80-01:19.40] CATHERINE (Disdainful): \"Your soldier?\""
+    }
+  ]
+}

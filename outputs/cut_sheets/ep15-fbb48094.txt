@@ -1,0 +1,28 @@
+PROMO ep15-fbb48094
+Episode 15 - Episode 15
+Duration: 22.9s   Segments: 1
+Score: 68.9 (heuristic 68.9)
+
+IN / OUT
+  segment 1: 00:08.50 -> 00:31.45  (22.95s)
+
+HOOK      00:08.50  "Stop! What are you doing?!"
+CLIFF     00:27.50  "Months? You actually spend your days growing this filth?"
+
+WHY       opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 15, 1 segment(s), 23s
+[00:08.50-00:11.70] JULIANA (Desperate, Alarmed): "Stop! What are you doing?!"
+[00:11.80-00:15.80] CAMERA: Medium close-up of the Thug with Cap holding the uprooted chamomile bouquet, sneering with cruel amusement.
+[00:13.00-00:15.70] THUG WITH CAP (Mocking, Smug): "We're clearing this rubbish."
+[00:15.80-00:18.80] CAMERA: Close-up on Juliana, her face tight with anguish and fury as she clutches her bandaged hands against her chest.
+[00:16.40-00:18.70] JULIANA (Furious, Pleading): "Those are medicinal plants!"
+[00:18.80-00:22.50] CAMERA: Low-angle shot tracking down from the bald thug's grinning face to his worn leather boots on the muddy flagstones.
+[00:20.00-00:22.30] BALD THUG (Callous): "They look like weeds to me."
+[00:20.50-00:22.50] ACTION: The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers.
+[00:22.50-00:26.80] CAMERA: High-angle two-shot as Juliana rushes forward and drops directly onto her knees in the cold mud before the thug.
+[00:22.80-00:26.50] ACTION: Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands.
+[00:23.20-00:26.30] JULIANA (Choked with Tears, Desperate): "Please! Those plants took months to grow!"
+[00:26.80-00:31.45] CAMERA: Medium two-shot of the Tall Thug with the club and the Thug with Cap bursting into raucous laughter under the full moon.
+[00:27.50-00:31.20] TALL THUG (Contemptuous, Derisive): "Months? You actually spend your days growing this filth?"

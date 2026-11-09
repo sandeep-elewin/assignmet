@@ -1,0 +1,48 @@
+PROMO ep09-76efe839
+Episode 9 - Episode 9
+Duration: 39.2s   Segments: 1
+Score: 63.33 (heuristic 63.33)
+
+IN / OUT
+  segment 1: 00:52.50 -> 01:31.65  (39.15s)
+
+HOOK      00:52.50  "Why isn't it working?"
+CLIFF     01:30.60  "What rumor?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 9, 1 segment(s), 39s
+[00:52.50-00:54.00] CAMERA: Over-the-shoulder shot from behind the mother leaning across the table in panic.
+[00:52.50-00:54.00] PEASANT MOTHER (Despairing): "Why isn't it working?"
+[00:54.00-00:56.00] CAMERA: Close-up of Juliana raising a calm finger, urging patience.
+[00:54.30-00:55.20] JULIANA (Quiet, Focused): "Wait."
+[00:56.00-00:58.50] CAMERA: Close-up of the sleeping boy as beads of sweat form on his forehead, his breathing deepening.
+[00:58.50-01:02.00] CAMERA: Close-up of the mother gently caressing her son's cheek, sobbing with relief.
+[00:58.80-01:01.80] PEASANT MOTHER (Overcome with Emotion): "His fever... it's breaking."
+[01:02.00-01:04.00] CAMERA: Close-up of Juliana exhaling a deep breath of relief, smiling gently.
+[01:04.00-01:05.60] CAMERA: Close-up of the mother looking up at Juliana with overwhelming gratitude.
+[01:04.20-01:05.50] PEASANT MOTHER (Tearful, Grateful): "You saved him."
+[01:05.60-01:08.50] CAMERA: Medium close-up of Juliana grasping the mother's hand with warm modesty.
+[01:05.80-01:08.20] JULIANA (Soft, Gracious): "The herbs did their work. Let him rest."
+[01:08.00-01:10.50] ACTION: Juliana places a comforting hand over the mother's hands.
+[01:10.50-01:13.00] ACTION: The mother gathers her sleeping son in her arms and steps back toward the rainy doorway.
+[01:11.00-01:14.80] CAMERA: Medium shot from inside the cottage framing the mother standing at the open door looking back.
+[01:11.20-01:14.80] PEASANT MOTHER (Reverent, Vowing): "I will tell the village what you did. They will never forget you."
+[01:14.50-01:15.50] ACTION: The mother exits into the rainy twilight as Alexander pushes the door shut.
+[01:14.80-01:17.50] CAMERA: Close-up of Alexander turning from the door, his expression deeply troubled.
+[01:15.10-01:17.50] ALEXANDER (Stern, Warning): "You cannot let the whole village start talking about you."
+[01:17.50-01:19.50] CAMERA: Medium close-up of Juliana placing the mortar back onto the table, unflinching.
+[01:17.60-01:19.40] JULIANA (Defiant, Principled): "A child's life matters more than gossip."
+[01:19.50-01:21.70] CAMERA: Close-up of Alexander, his jaw clenched with protective anxiety.
+[01:19.60-01:21.60] ALEXANDER (Dark, Cautionary): "Gossip has a way of becoming dangerous."
+[01:21.70-01:23.80] CAMERA: Medium two-shot profile of Juliana stepping directly in front of Alexander, looking steadfastly up into his eyes.
+[01:22.00-01:23.80] JULIANA (Committed, Unshakable): "Then we will face it together."
+[01:23.80-01:26.50] CAMERA: Wide shot of an opulent gothic manor study. The Blond Nobleman sits in a velvet armchair beside a roaring fireplace, reading an open leather-bound book.
+[01:24.00-01:26.50] ACTION: The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doors into the study.
+[01:26.50-01:28.00] CAMERA: Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair.
+[01:26.60-01:27.40] BLOND NOBLEMAN (Aloof, Without Looking Up): "What is it?"
+[01:28.00-01:30.20] CAMERA: Medium close-up of The Former Groom, damp dark hair plastered to his forehead.
+[01:28.00-01:30.30] THE FORMER GROOM (Hesitant, Deferential): "There is a rumor going around, my Lord."
+[01:30.20-01:31.65] CAMERA: Close-up of the Blond Nobleman lowering his book, gazing across with mild annoyance.
+[01:30.60-01:31.40] BLOND NOBLEMAN (Coldly Curious): "What rumor?"

@@ -1,0 +1,111 @@
+{
+  "episode": 36,
+  "label": "Episode 36",
+  "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+  "continuity_notes": "Picking up immediately from the revelation in Episode 35 that the men ruling Ashwood orchestrated Alexander's ambush, Alexander learns of Juliana's imprisonment and looming execution.",
+  "duration_s": 200.75,
+  "candidates_considered": 11,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep36-1a38e774",
+      "rank": 2,
+      "episode": 36,
+      "episode_label": "Episode 36",
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 117.5,
+          "end": 148.25,
+          "start_tc": "01:57.50",
+          "end_tc": "02:28.25",
+          "duration": 30.75
+        }
+      ],
+      "clip_duration": 30.75,
+      "hook": "\"You told them the truth!\"",
+      "cliffhanger": "\"What wedding?\"",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; reads clean to a first-time viewer.",
+      "score": 78.86,
+      "heuristic_score": 78.86,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.968,
+        "cliffhanger": 0.726,
+        "standalone": 0.85,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, ALEXANDER'S MOTHER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER'S MOTHER",
+          "JULIANA",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 36, 1 segment(s), 31s\n[01:57.50-01:59.30] ALEXANDER (Furious): \"You told them the truth!\"\n[01:59.50-02:03.00] CAMERA: Close-up on his mother as she cries out, devastated by the memory of the kangaroo court.\n[01:59.80-02:02.50] ALEXANDER'S MOTHER (Agonized): \"They called her a witch!\"\n[02:03.00-02:07.50] CAMERA: Frontal medium shot of Alexander standing frozen, the weight of the realization crashing down on him.\n[02:03.80-02:06.80] ALEXANDER (Horrified): \"Juliana... is in a cell?\"\n[02:07.50-02:10.80] CAMERA: Close-up of his mother clutching her temple, reeling in remembered trauma.\n[02:07.80-02:10.50] ALEXANDER'S MOTHER (Weak, Trembling): \"She was taken before a magistrate.\"\n[02:10.80-02:12.00] CAMERA: Tight shot of Alexander, his eyes wild with terror for his wife.\n[02:10.90-02:11.80] ALEXANDER (Barking): \"And?!\"\n[02:12.00-02:15.00] CAMERA: Close-up on his mother breaking down into inconsolable sobs.\n[02:12.20-02:14.40] ALEXANDER'S MOTHER (Weeping): \"They condemned her.\"\n[02:14.50-02:15.20] ALEXANDER (Gasping): \"No.\"\n[02:15.00-02:19.00] CAMERA: Close-up on his mother looking up through her tears, delivering the horrifying reality.\n[02:16.00-02:18.80] ALEXANDER'S MOTHER (Solemn, Shattered): \"She is to be executed.\"\n[02:19.00-02:22.00] CAMERA: Wide shot of the cabin as Alexander stands stiff as iron, stunned by the looming death sentence.\n[02:20.20-02:21.50] ALEXANDER (Guttural, Demanding): \"When?\"\n[02:22.00-02:25.80] CAMERA: Close-up on his mother, her hand clutched tightly against her throat.\n[02:23.20-02:25.50] ALEXANDER'S MOTHER (Trembling): \"After the wedding.\"\n[02:25.80-02:28.25] CAMERA: Close-up on Alexander, narrowing his eyes in lethal suspicion.\n[02:26.50-02:28.00] ALEXANDER (Cold, Menacing): \"What wedding?\""
+    },
+    {
+      "id": "ep36-f104d964",
+      "rank": null,
+      "episode": 36,
+      "episode_label": "Episode 36",
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 60.9,
+          "end": 98.75,
+          "start_tc": "01:00.90",
+          "end_tc": "01:38.75",
+          "duration": 37.85
+        }
+      ],
+      "clip_duration": 37.85,
+      "hook": "\"I trusted them.\"",
+      "cliffhanger": "\"Then where is she?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 73.74,
+      "heuristic_score": 73.74,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.57,
+        "cliffhanger": 0.771,
+        "standalone": 0.85,
+        "arc": 0.733,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, ALEXANDER'S MOTHER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER",
+          "ALEXANDER'S MOTHER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 36, 1 segment(s), 38s\n[01:00.90-01:03.80] ALEXANDER'S MOTHER (Sobbing): \"I trusted them.\"\n[01:04.20-01:07.50] CAMERA: Wide shot as Alexander stands tall beside the weeping mother seated at the table.\n[01:05.10-01:07.30] ALEXANDER (Gentle yet Firm): \"You trusted family.\"\n[01:07.50-01:11.00] CAMERA: Profile close-up of Alexander stepping closer to the door, staring out into the falling snow.\n[01:07.80-01:10.50] ALEXANDER (Resentful): \"They used that trust against you.\"\n[01:11.00-01:14.80] CAMERA: Alexander steps back toward the table, leaning in urgently toward his mother.\n[01:12.10-01:14.70] ALEXANDER (Urgent, Anxious): \"Mother... Juliana...\"\n[01:14.80-01:18.20] CAMERA: Medium close-up on Alexander leaning both hands on the table, desperate for answers.\n[01:14.90-01:18.10] ALEXANDER (Intense): \"She went into Ashbourne Manor to save you. She never came back.\"\n[01:18.20-01:21.80] CAMERA: Tight close-up on Alexander's strained, furrowed brow.\n[01:18.80-01:21.70] ALEXANDER (Tremulous): \"I thought perhaps she stayed with you.\"\n[01:21.80-01:24.00] CAMERA: Close-up of his mother looking up at him, agony and hesitation washing over her face.\n[01:22.00-01:23.80] ALEXANDER'S MOTHER (Hesitant, Trembling): \"Alexander...\"\n[01:24.00-01:26.50] CAMERA: Quick push-in close-up on Alexander, his eyes snapping open in sudden panic.\n[01:24.40-01:25.50] ALEXANDER (Alarmed): \"What?\"\n[01:26.50-01:30.00] CAMERA: Close-up on his mother, tears shining in the amber lamplight.\n[01:27.20-01:29.80] ALEXANDER'S MOTHER (Choked): \"She did come to me.\"\n[01:30.00-01:33.20] CAMERA: Medium two-shot as Alexander bends over the table, crowding his mother with fierce desperation.\n[01:31.00-01:33.10] ALEXANDER (Demanding): \"Is she still at Ashbourne?\"\n[01:33.20-01:36.50] CAMERA: Close-up on Alexander's mother shutting her eyes and weeping, shaking her head in deep anguish.\n[01:33.50-01:35.80] ALEXANDER'S MOTHER (Sobbing): \"No...\"\n[01:36.50-01:38.75] CAMERA: Medium shot as Alexander towers over her, his breathing turning ragged.\n[01:36.80-01:38.50] ALEXANDER (Desperate): \"Then where is she?\""
+    }
+  ]
+}

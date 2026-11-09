@@ -1,0 +1,26 @@
+PROMO ep18-8273ebf4
+Episode 18 - Episode 18
+Duration: 40.9s   Segments: 1
+Score: 79.04 (heuristic 79.04)
+
+IN / OUT
+  segment 1: 02:25.80 -> 03:06.75  (40.95s)
+
+HOOK      02:25.80  "Why would anyone do this?"
+CLIFF     03:04.20  "What are you going to do?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 18, 1 segment(s), 41s
+[02:25.80-02:28.50] JULIANA (Voice Breaking, Anguished): "Why would anyone do this?"
+[02:33.20-02:34.80] JULIANA (Whispering, Tearful): "Alexander..."
+[02:35.00-02:41.00] ACTION: Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably.
+[02:38.00-02:40.80] ALEXANDER (Cold, Ominous): "Someone wanted us out."
+[02:43.00-02:45.50] JULIANA (Despairing, Weeping): "We have nowhere to go."
+[02:45.50-02:51.00] CAMERA: Slow push-in on Alexander's face over Juliana's shoulder. His expression hardens into a mask of pure, lethal fury.
+[02:51.00-02:59.50] CAMERA: Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire.
+[02:51.80-02:57.20] ALEXANDER (Cold Fury, Resolute): "They took our home. I will not let them take anything else now."
+[02:59.50-03:04.00] ACTION: Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his hardened features.
+[03:04.20-03:06.50] JULIANA (Trembling, Apprehensive): "What are you going to do?"
+[03:06.50-03:06.75] CAMERA: Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black.

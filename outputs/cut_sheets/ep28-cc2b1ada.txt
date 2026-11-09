@@ -1,0 +1,35 @@
+PROMO ep28-cc2b1ada
+Episode 28 - Episode 28
+Duration: 27.1s   Segments: 1
+Score: 66.29 (heuristic 66.29)
+
+IN / OUT
+  segment 1: 00:48.20 -> 01:15.35  (27.15s)
+
+HOOK      00:48.20  "Let me help her!"
+CLIFF     01:12.20  "Where did a gutter rat like you find a silver locket?"
+
+WHY       opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 28, 1 segment(s), 27s
+[00:48.20-00:49.70] JULIANA (Panicked, Screaming): "Let me help her!"
+[00:49.50-00:52.10] JULIANA (Desperate): "She's still weak, you cannot leave her like this!"
+[00:52.20-00:56.80] CAMERA: Medium close-up of Rupert smoothing down his black leather gloves, a chilling smile forming on his lips.
+[00:52.80-00:53.60] BLOND NOBLEMAN (Smooth, Feigning Concern): "You see?"
+[00:54.00-00:56.60] BLOND NOBLEMAN (Sinister): "The poison has clearly damaged her mind."
+[00:56.80-01:01.30] CAMERA: Over-the-shoulder shot of Rupert leaning menacingly over the gasping Duchess in bed.
+[00:57.00-00:58.70] DOWAGER DUCHESS (Hoarse, Straining): "I am not delusional!"
+[00:58.60-01:00.00] BLOND NOBLEMAN (Condescending, Whispering): "Of course you are not."
+[01:00.10-01:01.20] BLOND NOBLEMAN (Dismissive): "You are merely confused."
+[01:01.30-01:06.80] CAMERA: Medium profile tracking shot of Catherine walking deliberately toward Juliana, speaking with airy cynicism.
+[01:01.60-01:04.80] CATHERINE (Amused, Mocking): "How convenient that the only person who can prove the poison exists..."
+[01:04.90-01:06.80] CATHERINE (Smug): "...is the maid who claims to have discovered it."
+[01:06.80-01:10.50] CAMERA: Low-angle medium shot of Rupert turning sharply toward the guard, his eyes icy and authoritative.
+[01:07.20-01:10.20] BLOND NOBLEMAN (Commanding, Resolute): "Take her away before she poisons the rest of this house."
+[01:10.50-01:12.00] CAMERA: Tight close-up of Catherine's gloved hands grabbing the delicate chain around Juliana's neck.
+[01:10.80-01:12.00] ACTION: Catherine ruthlessly yanks the silver locket off Juliana's neck.
+[01:11.20-01:12.00] JULIANA (Crying Out): "No!"
+[01:12.00-01:15.30] CAMERA: Medium close-up of Catherine holding up the oval silver and amethyst pendant, inspecting it with disdain.
+[01:12.20-01:15.10] CATHERINE (Insolent, Sneering): "Where did a gutter rat like you find a silver locket?"
+[01:15.30-01:15.35] CAMERA: Close-up of Juliana crying out in agony, writhing in the guard's iron grip.

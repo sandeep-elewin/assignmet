@@ -1,0 +1,112 @@
+{
+  "episode": 9,
+  "label": "Episode 9",
+  "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+  "continuity_notes": "Picks up immediately after Episode 8, continuing the peaceful evening inside the cottage before an urgent knock shatters the calm.",
+  "duration_s": 115.5,
+  "candidates_considered": 9,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep09-a2dd7ce0",
+      "rank": 8,
+      "episode": 9,
+      "episode_label": "Episode 9",
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 6.3,
+          "end": 54.25,
+          "start_tc": "00:06.30",
+          "end_tc": "00:54.25",
+          "duration": 47.95
+        }
+      ],
+      "clip_duration": 47.95,
+      "hook": "\"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\"",
+      "cliffhanger": "\"Why isn't it working?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 72.29,
+      "heuristic_score": 72.29,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.55,
+        "cliffhanger": 0.771,
+        "standalone": 0.9,
+        "arc": 0.742,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 9, 1 segment(s), 48s\n[00:06.30-00:11.10] PEASANT MOTHER (Frantic, Weeping): \"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\"\n[00:11.20-00:13.50] CAMERA: Medium shot of Juliana rushing to the front of the table, extending her arms urgently.\n[00:11.40-00:13.30] JULIANA (Urgent, Compassionate): \"Bring him here. Quickly.\"\n[00:12.00-00:14.20] ACTION: The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close.\n[00:13.80-00:15.20] CAMERA: Close-up of Juliana gently placing her fingers against the boy's burning forehead.\n[00:15.20-00:17.80] CAMERA: Medium close-up of Juliana examining the boy's breathing, looking up toward the frantic mother.\n[00:15.50-00:19.80] JULIANA (Reassuring, Focused): \"He seems very unwell, but he is resting steadily. How long has he been like this?\"\n[00:17.80-00:20.00] CAMERA: Medium two-shot of Alexander watching anxiously over the child's shoulder as Juliana tends to him.\n[00:20.00-00:24.00] CAMERA: Medium close-up of the peasant mother clutching her shawl, tears running down her cheeks.\n[00:20.50-00:23.90] PEASANT MOTHER (Trembling, Anxious): \"Since yesterday morning. He has barely eaten since sunset.\"\n[00:24.00-00:27.50] CAMERA: Close-up of Juliana resting two fingers against the boy's wrist, measuring his shallow pulse.\n[00:27.20-00:28.80] ACTION: Juliana lifts the weathered herbal book and rapidly browses the handwritten pages.\n[00:28.80-00:31.00] CAMERA: Insert close-up of the open page illustrated with botanical drawings labeled 'Feverfew'.\n[00:29.00-00:30.80] JULIANA (Muttering, Intent): \"Feverfew... Not alone.\"\n[00:31.00-00:34.00] CAMERA: Profile close-up of Juliana studying the grimoire's remedies intently while the mother weeps in the soft background.\n[00:31.80-00:33.80] JULIANA (Determined): \"Chamomile... and willow bark.\"\n[00:34.00-00:36.00] CAMERA: Close-up of Alexander leaning over the table, gazing at her with intense concern.\n[00:34.90-00:35.80] ALEXANDER (Grave): \"You're certain?\"\n[00:36.00-00:38.00] CAMERA: Close-up of Juliana looking up into his eyes with resolute conviction.\n[00:36.30-00:37.40] JULIANA (Resolute): \"I have to be.\"\n[00:38.00-00:39.80] ACTION: Juliana quickly grabs bundles of dried herbs from the table and turns to Alexander.\n[00:38.20-00:39.80] JULIANA (Urgent): \"Alexander, I need hot water.\"\n[00:39.90-00:40.80] ALEXANDER (Prompt): \"I'm on it.\"\n[00:40.80-00:42.50] ACTION: Alexander hurries to the hearth and lifts a boiling iron kettle from the hearth chain, while the mother buries her face in her hands.\n[00:41.00-00:42.50] PEASANT MOTHER (Sobbing): \"Please save him.\"\n[00:42.20-00:43.50] ACTION: Alexander returns and pours steaming hot water into the stone mortar as Juliana prepares the remedy.\n[00:43.00-00:46.00] CAMERA: Medium close-up of Juliana clasping the mother's trembling hand across the wooden table.\n[00:43.80-00:45.60] JULIANA (Gentle, Steadfast): \"He is not beyond saving.\"\n[00:46.00-00:48.00] CAMERA: Close-up of Juliana carefully administering the herbal brew with a small wooden spoon into the sick boy's mouth.\n[00:47.00-00:48.20] ACTION: The child swallows weakly and lets out a soft cough.\n[00:48.00-00:50.50] CAMERA: Close-up of the mother clutching her chest in anxious suspense.\n[00:50.50-00:52.50] CAMERA: Medium close-up of Juliana sitting quietly beside the boy, holding two fingers over his wrist to monitor his pulse.\n[00:52.50-00:54.00] CAMERA: Over-the-shoulder shot from behind the mother leaning across the table in panic.\n[00:52.50-00:54.00] PEASANT MOTHER (Despairing): \"Why isn't it working?\"\n[00:54.00-00:54.25] CAMERA: Close-up of Juliana raising a calm finger, urging patience."
+    },
+    {
+      "id": "ep09-76efe839",
+      "rank": null,
+      "episode": 9,
+      "episode_label": "Episode 9",
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 52.5,
+          "end": 91.65,
+          "start_tc": "00:52.50",
+          "end_tc": "01:31.65",
+          "duration": 39.15
+        }
+      ],
+      "clip_duration": 39.15,
+      "hook": "\"Why isn't it working?\"",
+      "cliffhanger": "\"What rumor?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 63.33,
+      "heuristic_score": 63.33,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.622,
+        "cliffhanger": 0.714,
+        "standalone": 0.6,
+        "arc": 0.353,
+        "pacing": 0.969
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, BLOND NOBLEMAN, FORMER GROOM, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "FORMER GROOM",
+          "ALEXANDER",
+          "BLOND NOBLEMAN",
+          "PEASANT MOTHER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 9, 1 segment(s), 39s\n[00:52.50-00:54.00] CAMERA: Over-the-shoulder shot from behind the mother leaning across the table in panic.\n[00:52.50-00:54.00] PEASANT MOTHER (Despairing): \"Why isn't it working?\"\n[00:54.00-00:56.00] CAMERA: Close-up of Juliana raising a calm finger, urging patience.\n[00:54.30-00:55.20] JULIANA (Quiet, Focused): \"Wait.\"\n[00:56.00-00:58.50] CAMERA: Close-up of the sleeping boy as beads of sweat form on his forehead, his breathing deepening.\n[00:58.50-01:02.00] CAMERA: Close-up of the mother gently caressing her son's cheek, sobbing with relief.\n[00:58.80-01:01.80] PEASANT MOTHER (Overcome with Emotion): \"His fever... it's breaking.\"\n[01:02.00-01:04.00] CAMERA: Close-up of Juliana exhaling a deep breath of relief, smiling gently.\n[01:04.00-01:05.60] CAMERA: Close-up of the mother looking up at Juliana with overwhelming gratitude.\n[01:04.20-01:05.50] PEASANT MOTHER (Tearful, Grateful): \"You saved him.\"\n[01:05.60-01:08.50] CAMERA: Medium close-up of Juliana grasping the mother's hand with warm modesty.\n[01:05.80-01:08.20] JULIANA (Soft, Gracious): \"The herbs did their work. Let him rest.\"\n[01:08.00-01:10.50] ACTION: Juliana places a comforting hand over the mother's hands.\n[01:10.50-01:13.00] ACTION: The mother gathers her sleeping son in her arms and steps back toward the rainy doorway.\n[01:11.00-01:14.80] CAMERA: Medium shot from inside the cottage framing the mother standing at the open door looking back.\n[01:11.20-01:14.80] PEASANT MOTHER (Reverent, Vowing): \"I will tell the village what you did. They will never forget you.\"\n[01:14.50-01:15.50] ACTION: The mother exits into the rainy twilight as Alexander pushes the door shut.\n[01:14.80-01:17.50] CAMERA: Close-up of Alexander turning from the door, his expression deeply troubled.\n[01:15.10-01:17.50] ALEXANDER (Stern, Warning): \"You cannot let the whole village start talking about you.\"\n[01:17.50-01:19.50] CAMERA: Medium close-up of Juliana placing the mortar back onto the table, unflinching.\n[01:17.60-01:19.40] JULIANA (Defiant, Principled): \"A child's life matters more than gossip.\"\n[01:19.50-01:21.70] CAMERA: Close-up of Alexander, his jaw clenched with protective anxiety.\n[01:19.60-01:21.60] ALEXANDER (Dark, Cautionary): \"Gossip has a way of becoming dangerous.\"\n[01:21.70-01:23.80] CAMERA: Medium two-shot profile of Juliana stepping directly in front of Alexander, looking steadfastly up into his eyes.\n[01:22.00-01:23.80] JULIANA (Committed, Unshakable): \"Then we will face it together.\"\n[01:23.80-01:26.50] CAMERA: Wide shot of an opulent gothic manor study. The Blond Nobleman sits in a velvet armchair beside a roaring fireplace, reading an open leather-bound book.\n[01:24.00-01:26.50] ACTION: The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doors into the study.\n[01:26.50-01:28.00] CAMERA: Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair.\n[01:26.60-01:27.40] BLOND NOBLEMAN (Aloof, Without Looking Up): \"What is it?\"\n[01:28.00-01:30.20] CAMERA: Medium close-up of The Former Groom, damp dark hair plastered to his forehead.\n[01:28.00-01:30.30] THE FORMER GROOM (Hesitant, Deferential): \"There is a rumor going around, my Lord.\"\n[01:30.20-01:31.65] CAMERA: Close-up of the Blond Nobleman lowering his book, gazing across with mild annoyance.\n[01:30.60-01:31.40] BLOND NOBLEMAN (Coldly Curious): \"What rumor?\""
+    }
+  ]
+}

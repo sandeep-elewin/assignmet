@@ -1,0 +1,67 @@
+{
+  "episode": 5,
+  "label": "Episode 5",
+  "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+  "continuity_notes": "Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows.",
+  "duration_s": 110.5,
+  "candidates_considered": 8,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "no real cliffhanger (0.27 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep05-e67c0fd6",
+      "rank": null,
+      "episode": 5,
+      "episode_label": "Episode 5",
+      "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 57.0,
+          "end": 82.25,
+          "start_tc": "00:57.00",
+          "end_tc": "01:22.25",
+          "duration": 25.25
+        }
+      ],
+      "clip_duration": 25.25,
+      "hook": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.",
+      "cliffhanger": "\"They destroyed it.\"",
+      "why_it_works": "opens on a clear dramatic question; ends without a real cliffhanger; mostly self-contained, needs one line of setup.",
+      "score": 53.19,
+      "heuristic_score": 53.19,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.68,
+        "cliffhanger": 0.266,
+        "standalone": 0.6,
+        "arc": 0.64,
+        "pacing": 0.97
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CLARISSA, GERALD, JULIANA, MYSTERIOUS BEARDED MAN"
+        ],
+        "prior_knowledge_entities": [
+          "CLARISSA",
+          "MYSTERIOUS BEARDED MAN",
+          "GERALD",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "no real cliffhanger (0.27 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 5, 1 segment(s), 25s\n[00:57.00-00:58.20] SOUND: A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.\n[00:57.80-01:03.00] CAMERA: Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.\n[00:59.00-01:02.50] CLARISSA (Gleeful, Mocking): \"Even your mother's precious legacy has been cast into the dirt!\"\n[01:02.40-01:04.60] GERALD (Smug, Cruel): \"Perhaps that is where it belongs.\"\n[01:03.00-01:06.50] CAMERA: Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.\n[01:05.50-01:08.50] ACTION: Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.\n[01:06.50-01:09.00] CAMERA: Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.\n[01:09.00-01:12.50] CAMERA: Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.\n[01:10.50-01:14.50] ACTION: The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.\n[01:14.50-01:16.00] CAMERA: Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.\n[01:16.00-01:20.00] CAMERA: Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.\n[01:17.80-01:19.00] MYSTERIOUS BEARDED MAN (Low, Gentle): \"Here you go.\"\n[01:20.00-01:22.25] CAMERA: Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.\n[01:20.50-01:22.00] JULIANA (Choked, Weeping): \"They destroyed it.\""
+    }
+  ]
+}

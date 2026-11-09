@@ -1,0 +1,59 @@
+{
+  "episode": 20,
+  "label": "Episode 20",
+  "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+  "continuity_notes": "Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.",
+  "duration_s": 114.75,
+  "candidates_considered": 5,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep20-0aae9188",
+      "rank": null,
+      "episode": 20,
+      "episode_label": "Episode 20",
+      "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 2.9,
+          "end": 39.35,
+          "start_tc": "00:02.90",
+          "end_tc": "00:39.35",
+          "duration": 36.45
+        }
+      ],
+      "clip_duration": 36.45,
+      "hook": "\"Two lumps of sugar, Rupert?\"",
+      "cliffhanger": "\"How much longer can the frail thing survive?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 65.24,
+      "heuristic_score": 65.24,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.572,
+        "cliffhanger": 0.5,
+        "standalone": 0.95,
+        "arc": 0.738,
+        "pacing": 0.552
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 20, 1 segment(s), 36s\n[00:02.90-00:04.40] CATHERINE (Smug, Prim): \"Two lumps of sugar, Rupert?\"\n[00:04.60-00:07.80] CATHERINE (Taunting, Silkily): \"Or has your sudden climb to power sweetened your taste already?\"\n[00:06.90-00:09.50] CAMERA: Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk.\n[00:08.20-00:10.80] RUPERT (Flirtatious, Sly): \"Only if it sweetens your disposition, Catherine.\"\n[00:09.60-00:15.20] CAMERA: Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.\n[00:10.90-00:12.70] RUPERT (Boastful, Confident): \"The estate is practically ours.\"\n[00:12.80-00:15.10] RUPERT (Smug): \"The succession papers are being finalized as we speak.\"\n[00:15.20-00:20.00] CAMERA: Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive.\n[00:15.40-00:18.70] CATHERINE (Cold, Haughty): \"'Practically' is a word for beggars. I do not marry a practical Duke.\"\n[00:18.80-00:20.10] CATHERINE (Stern, Ambitious): \"I marry the Lord of Ashbury.\"\n[00:20.00-00:25.50] CAMERA: Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.\n[00:20.10-00:21.20] RUPERT (Reassuring, Firm): \"And so you shall.\"\n[00:21.30-00:24.20] RUPERT (Dark, Conspiratorial): \"Once my cousin Alexander's death is formally sealed by the Crown...\"\n[00:24.30-00:25.40] RUPERT (Decisive): \"...the title is mine.\"\n[00:25.50-00:30.20] CAMERA: Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.\n[00:25.50-00:28.20] CATHERINE (Wary, Inquiring): \"And what of the Dowager? The old woman still breathes.\"\n[00:28.30-00:30.20] CATHERINE (Disdainful): \"Her shadow still hangs over this house.\"\n[00:30.20-00:34.00] CAMERA: Tight close-up of Rupert's face as a sinister grin spreads across his features.\n[00:30.20-00:32.80] RUPERT (Quiet, Sinister): \"Her health fails more each day. The physicians are baffled.\"\n[00:32.90-00:34.40] RUPERT (Gloating): \"They call it a wasting of the lungs.\"\n[00:34.10-00:39.20] CAMERA: Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.\n[00:34.20-00:36.80] CATHERINE (Mock-Sympathetic, Cruel): \"How tragic. The slow, quiet decline.\"\n[00:36.90-00:39.10] CATHERINE (Scheming): \"How much longer can the frail thing survive?\"\n[00:39.30-00:39.35] CAMERA: Medium profile of Rupert looking out the window, hands clasped behind him."
+    }
+  ]
+}

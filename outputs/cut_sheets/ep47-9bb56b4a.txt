@@ -1,0 +1,32 @@
+PROMO ep47-9bb56b4a
+Episode 47 - Episode 47
+Duration: 36.6s   Segments: 1
+Score: 65.74 (heuristic 65.74)
+
+IN / OUT
+  segment 1: 00:23.40 -> 01:00.05  (36.65s)
+
+HOOK      00:23.40  "What if Father Thomas sways the High Council?"
+CLIFF     00:56.80  "You dare show your face in Ashbourne courtyard?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 47, 1 segment(s), 37s
+[00:23.40-00:26.80] JULIANA (Anxious, Trembling): "What if Father Thomas sways the High Council?"
+[00:26.50-00:30.50] CAMERA: Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander.
+[00:27.00-00:30.30] JULIANA (Vulnerable, Fearful): "What if they strip your title? Because of me?"
+[00:30.50-00:35.00] ACTION: Juliana looks down at her hands, turning over her scarred palms shaped by years of herbal work.
+[00:31.00-00:35.20] JULIANA (Despairing): "I am only a healer. The lords will never accept me."
+[00:35.50-00:37.50] CAMERA: Profile shot as Alexander reaches out and firmly clasps Juliana's trembling hands in his own.
+[00:35.80-00:37.80] ALEXANDER (Gentle, Resolute): "Look at me, Juliana."
+[00:37.50-00:42.50] CAMERA: Close-up of Alexander raising his scarred hand to tenderly cradle Juliana's cheek.
+[00:38.20-00:42.50] ALEXANDER (Fierce, Loving): "You saved my mother's life. You stood by me when I had nothing."
+[00:42.50-00:45.80] CAMERA: Tight close-up on Alexander's gaze locking onto Juliana's tearful eyes.
+[00:43.00-00:45.50] ALEXANDER (Deep, Unwavering): "You are my wife."
+[00:45.50-00:48.00] ACTION: Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.
+[00:45.80-00:54.80] ALEXANDER (Authoritative, Steadfast): "You were my wife before that priest ever opened his mouth. And we will stand before the King and God again within ten days. Nothing breaks that."
+[00:55.50-00:56.80] CAMERA: Wide establishing shot of the rain-drenched cobblestone courtyard surrounded by imposing Gothic arches.
+[00:56.80-01:00.00] CAMERA: Medium shot of Lady Ashbourne leaning heavily on her walking cane, glaring down at Catherine who kneels in the mud.
+[00:56.80-00:59.80] LADY ASHBOURNE (Sharp, Contemptuous): "You dare show your face in Ashbourne courtyard?"
+[01:00.00-01:00.05] CAMERA: High-angle shot looking down at Catherine in her disheveled burgundy gown, clutching her skirts and weeping profusely.

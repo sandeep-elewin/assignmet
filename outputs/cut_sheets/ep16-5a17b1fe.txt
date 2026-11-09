@@ -1,0 +1,41 @@
+PROMO ep16-5a17b1fe
+Episode 16 - Episode 16
+Duration: 31.6s   Segments: 1
+Score: 60.03 (heuristic 60.03)
+
+IN / OUT
+  segment 1: 00:06.40 -> 00:38.05  (31.65s)
+
+HOOK      00:06.40  "I said, move!"
+CLIFF     00:36.20  "Are you hurt?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 16, 1 segment(s), 32s
+[00:06.40-00:09.50] CAMERA: Low-angle medium shot of the Thug with Cap gripping his weapon with both hands and roaring into the night air.
+[00:06.40-00:08.80] THUG WITH CAP (Furious, Shouting): "I said, move!"
+[00:09.50-00:11.20] CAMERA: Medium close-up of Alexander remaining completely motionless, his jaw clenched in stoic calm.
+[00:11.20-00:13.10] CAMERA: Close-up of Juliana kneeling in the mud against the ruined planter, clutching her bandaged hands to her chest in trembling fear.
+[00:11.20-00:12.70] JULIANA (Frightened, Whispering): "Alexander..."
+[00:13.10-00:14.30] ALEXANDER (Calm, Protective): "Stay behind me."
+[00:14.30-00:16.00] CAMERA: Medium action shot as the Thug with Cap lunges forward with his weapon raised high.
+[00:14.40-00:15.50] THUG WITH CAP (Roaring): "Aaargh!"
+[00:14.40-00:16.80] ACTION: The thug swings the club down with full force, but Alexander catches the weapon mid-air in his bare hand with chilling ease.
+[00:15.80-00:16.50] SOUND: Heavy blunt impact of a solid hand gripping wood.
+[00:16.80-00:19.50] CAMERA: Close-up of the Thug with Cap staring in wide-eyed terror as Alexander grips the bar and wrenches it away effortlessly.
+[00:19.20-00:21.80] ACTION: Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.
+[00:19.80-00:21.20] SOUND: Heavy thud of a body crashing into soil and wood.
+[00:21.80-00:23.00] CAMERA: Close-up of Juliana watching in breathless astonishment.
+[00:23.00-00:25.80] CAMERA: Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize him by the neck, hurling him across the garden path.
+[00:23.00-00:23.80] BALD THUG (Yelling): "Aaargh!"
+[00:24.20-00:25.50] SOUND: Loud wooden scrape and crunch as the Bald Thug slides across the planks into the fence.
+[00:25.80-00:28.50] CAMERA: Medium shot of the Third Thug backing away nervously, raising a blunt rod with trembling arms before lunging.
+[00:25.80-00:27.10] THIRD THUG (Desperate, Shouting): "Stay back!"
+[00:26.50-00:28.50] ACTION: Alexander deflects the strike with his forearm, drives a swift counter-blow into the thug's torso, and spins him violently to the ground.
+[00:27.00-00:28.20] SOUND: Solid bone-and-fist impact followed by a groaning thud.
+[00:28.50-00:31.00] CAMERA: Wide cinematic shot under the full moon. Alexander towers over the three writhing thugs groaning in the mud as Juliana looks up from her knees.
+[00:31.00-00:34.50] CAMERA: Low-angle close-up of Juliana looking up at Alexander, tears glistening on her mud-splattered cheeks in profound relief.
+[00:32.00-00:33.80] JULIANA (Breathless, Overwhelmed): "Alexander..."
+[00:34.50-00:38.05] CAMERA: Medium shot over Juliana's shoulder as Alexander turns his gaze toward her, his stern demeanor softening with concern.
+[00:36.20-00:37.80] ALEXANDER (Gentle, Concerned): "Are you hurt?"

@@ -1,0 +1,30 @@
+PROMO ep41-04c12619
+Episode 41 - Episode 41
+Duration: 30.2s   Segments: 1
+Score: 61.94 (heuristic 61.94)
+
+IN / OUT
+  segment 1: 00:30.50 -> 01:00.75  (30.25s)
+
+HOOK      00:30.50  "Look at her."
+CLIFF     00:58.00  "You needed an entire chapel to feel powerful over one chained woman?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 41, 1 segment(s), 30s
+[00:30.50-00:31.60] NOBLEWOMAN (Gleeful, Whispering): "Look at her."
+[00:31.70-00:33.80] NOBLEMAN (Mocking, Chuckling): "She actually came back to the chapel."
+[00:34.00-00:36.80] CAMERA: Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride.
+[00:34.80-00:36.80] NOBLEWOMAN (Scornful, Smug): "Not as a bride this time."
+[00:36.80-00:39.80] CAMERA: Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement.
+[00:39.80-00:43.80] CAMERA: Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers.
+[00:41.00-00:44.20] CATHERINE (Derisive, Projecting): "Lady Juliana Ashcroft. Look around."
+[00:43.80-00:48.50] CAMERA: High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral.
+[00:45.00-00:48.00] CATHERINE (Mocking, Resonant): "This is the world you thought you belonged to."
+[00:48.50-00:52.80] CAMERA: Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress.
+[00:48.60-00:52.40] CATHERINE (Spiteful, Boastful): "And now they can all see what you truly are."
+[00:52.80-00:57.80] CAMERA: Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze.
+[00:54.80-00:57.50] ACTION: Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain.
+[00:57.80-01:00.75] CAMERA: Tight close-up on Juliana's bruised, unshaken face.
+[00:58.00-01:00.50] JULIANA (Defiant, Unbowed): "You needed an entire chapel to feel powerful over one chained woman?"

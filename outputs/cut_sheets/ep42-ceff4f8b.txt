@@ -1,0 +1,39 @@
+PROMO ep42-ceff4f8b
+Episode 42 - Episode 42
+Duration: 37.8s   Segments: 2
+Score: 48.75 (heuristic 48.75)
+
+IN / OUT
+  segment 1: 00:18.00 -> 00:40.05  (22.05s)
+  segment 2: 01:02.00 -> 01:17.80  (15.8s)
+
+HOOK      00:18.00  "Guards! Arrest this imposter!"
+CLIFF     01:13.80  "And now, Rupert... we settle what you stole."
+
+WHY       opens on a clear dramatic question; ends without a real cliffhanger; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 42, 2 segment(s), 38s
+-- segment 1: 00:18.00 to 00:40.05 --
+[00:18.00-00:21.20] BLOND NOBLEMAN (Furious, Hysterical): "Guards! Arrest this imposter!"
+[00:21.50-00:23.40] CAMERA: Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.
+[00:22.00-00:23.40] ROYAL GUARD (Stoic, Defiant): "We will not."
+[00:23.40-00:26.50] CAMERA: Close-up on Rupert, veins bulging in his neck as his composure shatters.
+[00:23.50-00:25.20] BLOND NOBLEMAN (Screaming, Outraged): "I said arrest him!"
+[00:25.50-00:26.50] BLOND NOBLEMAN (Desperate, Unhinged): "Why?!"
+[00:26.50-00:28.80] CAMERA: Close-up on the Royal Guard holding his upright blade with unwavering conviction.
+[00:26.70-00:28.80] ROYAL GUARD (Firm, Reverent): "Because we know who he is."
+[00:28.80-00:30.40] CAMERA: Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.
+[00:29.00-00:30.30] CATHERINE (Trembling, Apprehensive): "Rupert..."
+[00:30.40-00:33.80] CAMERA: Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.
+[00:30.50-00:33.80] BLOND NOBLEMAN (Denial, Shaken): "You cannot be him. Alexander died!"
+[00:33.80-00:39.90] CAMERA: Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.
+[00:34.00-00:39.80] ALEXANDER (Cold, Commanding): "And yet, here I stand. That is the lie you built your life upon."
+[00:39.90-00:40.05] CAMERA: Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.
+-- segment 2: 01:02.00 to 01:17.80 --
+[01:02.00-01:04.00] ALEXANDER (Tender, Resolute): "I have come home, Mother."
+[01:04.00-01:12.50] ACTION: Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.
+[01:04.20-01:12.40] ALEXANDER'S MOTHER (Ringing, Authoritative): "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!"
+[01:12.50-01:13.80] CAMERA: Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.
+[01:13.80-01:17.80] CAMERA: Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.
+[01:13.80-01:17.50] ALEXANDER (Grim, Vengeful): "And now, Rupert... we settle what you stole."

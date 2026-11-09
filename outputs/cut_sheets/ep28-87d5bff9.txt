@@ -1,0 +1,34 @@
+PROMO ep28-87d5bff9
+Episode 28 - Episode 28
+Duration: 26.9s   Segments: 1
+Score: 68.78 (heuristic 68.78)
+
+IN / OUT
+  segment 1: 00:20.40 -> 00:47.25  (26.85s)
+
+HOOK      00:20.40  "But the guards know how to extract the truth."
+CLIFF     00:45.60  "They have been—"
+
+WHY       opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 28, 1 segment(s), 27s
+[00:20.40-00:22.70] BLOND NOBLEMAN (Threatening): "But the guards know how to extract the truth."
+[00:22.80-00:26.70] CAMERA: Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with visible effort.
+[00:24.80-00:26.50] DOWAGER DUCHESS (Weak, Straining): "Rupert..."
+[00:26.70-00:28.40] CAMERA: Medium shot of Rupert pausing mid-stride as he hears his mother's voice, slowly turning his head toward the bed.
+[00:26.70-00:28.20] DOWAGER DUCHESS (Commanding): "Stop this!"
+[00:28.40-00:32.80] CAMERA: Wide shot of the bedchamber framed through the bed curtains as the Duchess props herself up on one elbow and points an accusing finger.
+[00:28.80-00:30.30] DOWAGER DUCHESS (Desperate, Firm): "She is innocent."
+[00:30.80-00:32.40] DOWAGER DUCHESS (Adamant): "She saved me!"
+[00:32.80-00:34.90] CAMERA: Close-up of Juliana, tears of relief welling in her eyes.
+[00:33.20-00:34.60] JULIANA (Breathless, Relieved): "Your Grace..."
+[00:34.90-00:37.70] CAMERA: Close-up of the Duchess clutching at her nightgown, her face twisted in mounting fury and horror.
+[00:35.00-00:37.40] DOWAGER DUCHESS (Trembling, Shouting): "I know what happened to me!"
+[00:37.70-00:43.00] CAMERA: Medium low-angle shot past the Duchess pointing directly at Rupert, who stands rigid and expressionless.
+[00:38.20-00:40.00] DOWAGER DUCHESS (Fierce, Condemning): "I was poisoned!"
+[00:40.30-00:42.20] DOWAGER DUCHESS (Accusing): "And you... you knew!"
+[00:43.00-00:47.25] CAMERA: Medium shot of the Duchess lunging forward from the pillows, gasping for breath as she points toward Catherine.
+[00:43.60-00:45.30] DOWAGER DUCHESS (Choking, Weakening): "Catherine knew!"
+[00:45.60-00:47.00] DOWAGER DUCHESS (Gasping): "They have been—"
+[00:46.80-00:47.25] ACTION: The Duchess collapses back onto the pillows, coughing violently and clutching her chest.

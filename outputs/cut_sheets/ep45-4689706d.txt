@@ -1,0 +1,41 @@
+PROMO ep45-4689706d
+Episode 45 - Episode 45
+Duration: 39.2s   Segments: 2
+Score: 74.91 (heuristic 74.91)
+
+IN / OUT
+  segment 1: 00:22.90 -> 00:42.05  (19.15s)
+  segment 2: 01:33.20 -> 01:53.25  (20.05s)
+
+HOOK      00:22.90  "You're the Duke?"
+CLIFF     01:49.00  "You are not Alexander Ashburton's lawful wife."
+
+WHY       opens cold on a high-voltage line or physical beat; ends on a raised stake; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 45, 2 segment(s), 39s
+-- segment 1: 00:22.90 to 00:42.05 --
+[00:22.90-00:24.40] JULIANA (Shocked, Wondering): "You're the Duke?"
+[00:24.50-00:27.20] CAMERA: Close-up on Alexander looking intensely into her eyes.
+[00:24.60-00:27.40] ALEXANDER (Firm, Resonant): "Alexander Ashburton. The rightful Duke of Ashburton."
+[00:27.20-00:29.80] CAMERA: Close-up on Juliana, tears of awe spilling over her cheeks.
+[00:27.60-00:29.60] JULIANA (Incredulous, Moved): "All this time?"
+[00:29.80-00:35.80] CAMERA: Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand.
+[00:30.20-00:33.00] ALEXANDER (Tender, Deep): "You chose me when you believed I was nobody."
+[00:33.20-00:34.90] JULIANA (Sincere, Loving): "I chose you because you were kind."
+[00:35.10-00:36.80] ALEXANDER (Low, Passionate): "You chose me when I had nothing."
+[00:35.80-00:38.50] CAMERA: Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence.
+[00:37.00-00:38.70] JULIANA (Resolute, Warm): "I chose you because you had honor."
+[00:38.50-00:42.00] CAMERA: Tight close-up on Alexander looking deep into Juliana's blue eyes.
+[00:38.80-00:41.80] ALEXANDER (Earnest, Devoted): "And I chose you because you saw the man before the title."
+[00:42.00-00:42.05] CAMERA: Extreme close-up as Alexander and Juliana rest their foreheads and noses together in an intimate embrace.
+-- segment 2: 01:33.20 to 01:53.25 --
+[01:33.20-01:41.00] ACTION: The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward.
+[01:33.20-01:41.10] HIGH PRIEST (Commanding, Severe): "This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union."
+[01:41.20-01:45.80] CAMERA: Close-up on the High Priest unfolding the document, reading aloud to the congregation.
+[01:41.50-01:45.50] HIGH PRIEST (Stern, Official): "These vows were never entered into the Royal Matrimonial Register."
+[01:45.80-01:48.80] CAMERA: Medium shot of Alexander shielding Juliana behind him as the Crown officer approaches with drawn sword.
+[01:46.20-01:48.80] HIGH PRIEST (Harsh, Resolute): "Before the Crown, you are not Duchess of Ashburton."
+[01:48.80-01:53.20] CAMERA: Close-up of the High Priest scowling directly at Juliana with unyielding authority.
+[01:49.00-01:53.00] HIGH PRIEST (Unyielding, Condemning): "You are not Alexander Ashburton's lawful wife."
+[01:53.20-01:53.25] CAMERA: Close-up two-shot of Juliana gasping in terror, clutching Alexander's hand tightly as Alexander glares at the Priest.

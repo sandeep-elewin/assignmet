@@ -1,0 +1,39 @@
+PROMO ep04-876d4b4e
+Episode 4 - Episode 4
+Duration: 30.6s   Segments: 1
+Score: 67.92 (heuristic 67.92)
+
+IN / OUT
+  segment 1: 00:03.40 -> 00:33.95  (30.55s)
+
+HOOK      00:03.40  "Look at him."
+CLIFF     00:32.10  "And what do you see?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 4, 1 segment(s), 31s
+[00:03.40-00:04.90] GERALD (Mocking, Arrogant): "Look at him."
+[00:05.00-00:07.50] CAMERA: Tight close-up of Gerald's venomous, self-satisfied face.
+[00:05.00-00:07.50] GERALD (Scornful): "A penniless nobody for a discarded bride."
+[00:07.60-00:10.50] CAMERA: Medium shot of Clarissa covering her mouth with her gloved hand, bursting into cruel laughter.
+[00:07.80-00:09.50] ACTION: Clarissa giggles spitefully, lowering her gloved hand to gloat.
+[00:09.00-00:10.50] CLARISSA (Gleeful, Condescending): "How fitting."
+[00:10.50-00:12.00] CAMERA: Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers.
+[00:10.60-00:14.20] CLARISSA (Taunting): "You have finally found a man as worthless as everyone thinks you are."
+[00:12.00-00:15.00] CAMERA: Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep.
+[00:15.00-00:17.50] CAMERA: Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength.
+[00:15.50-00:17.50] ACTION: Juliana closes her eyes briefly and releases a steadying breath.
+[00:17.50-00:21.80] CAMERA: Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana.
+[00:20.00-00:21.80] JULIANA (Vulnerable, Trembling): "You don't even know me."
+[00:21.90-00:23.40] CAMERA: Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness.
+[00:23.40-00:25.80] CAMERA: Tight close-up of Juliana's anguished face.
+[00:23.50-00:25.80] JULIANA (Conflicted, Pained): "You heard what they think I am."
+[00:25.80-00:27.90] CAMERA: Medium shot looking down as Juliana addresses the kneeling stranger directly.
+[00:25.90-00:27.70] JULIANA (Searching): "Why would you offer me your name?"
+[00:27.90-00:30.50] CAMERA: Low-angle close-up of the Mysterious Bearded Man.
+[00:28.00-00:30.20] MYSTERIOUS BEARDED MAN (Grave, Certain): "Because I know what I see."
+[00:30.50-00:32.00] CAMERA: Medium close-up of Juliana reacting with a mix of suspicion and wonder.
+[00:32.00-00:33.80] CAMERA: Intimate tight shot framing Juliana's profile beside his dark silhouette.
+[00:32.10-00:33.70] JULIANA (Quiet, Hesitant): "And what do you see?"
+[00:33.80-00:33.95] CAMERA: Medium close-up of the Mysterious Bearded Man.

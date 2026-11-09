@@ -1,0 +1,37 @@
+PROMO ep31-7197a8de
+Episode 31 - Episode 31
+Duration: 44.5s   Segments: 1
+Score: 68.51 (heuristic 68.51)
+
+IN / OUT
+  segment 1: 01:17.80 -> 02:02.25  (44.45s)
+
+HOOK      01:17.80  "You call that marriage?"
+CLIFF     01:58.40  "Then why are you so desperate to make me kneel?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 31, 1 segment(s), 44s
+[01:17.80-01:20.20] CATHERINE (Incredulous, Mocking): "You call that marriage?"
+[01:20.50-01:23.20] CAMERA: Extreme close-up of Juliana's clear blue eyes, shining with profound conviction.
+[01:20.80-01:23.20] JULIANA (Pure, Sincere): "I call it love."
+[01:23.20-01:28.00] CAMERA: High-angle wide shot looking straight down through the ceiling iron grating into the deep dungeon shaft where Catherine looms over Juliana.
+[01:23.50-01:27.40] CATHERINE (Mocking, Hysterical Laugh): "[laughs] Love? Look where your precious love brought you."
+[01:27.50-01:31.20] CAMERA: Medium close-up of Juliana looking directly up past the glowing tip of the iron poker into Catherine's eyes.
+[01:27.80-01:31.20] JULIANA (Firm, Piercing): "To a place where I can still look you in the eyes."
+[01:31.20-01:34.20] CAMERA: Close-up of Catherine, her lips curling in indignant disbelief.
+[01:31.40-01:34.20] CATHERINE (Incredulous, Offended): "You think love makes you better than me?"
+[01:34.20-01:38.20] CAMERA: Close-up of Juliana speaking calmly and razor-sharp.
+[01:34.50-01:38.20] JULIANA (Calm, Cutting): "No. But cruelty certainly doesn't make you better than me."
+[01:38.20-01:43.50] CAMERA: Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence.
+[01:38.50-01:43.30] CATHERINE (Incensed, Boastful): "I have beauty, money, family, status! What do you have?"
+[01:43.50-01:48.80] CAMERA: Close-up of Juliana, her expression serene and grounded in moral superiority.
+[01:43.70-01:48.50] JULIANA (Quiet, Powerful): "Knowledge. Love. And people who need me."
+[01:48.80-01:50.50] CAMERA: Tight shot of Catherine's gloved hands holding Juliana's mother's partially burned botanical volume, 'The Virtues of Plants & Herbs'.
+[01:50.20-01:51.40] CATHERINE (Sneering, Derisive): "[scoffs] Peasants? People?"
+[01:51.50-01:58.20] CAMERA: Medium shot of Catherine casually holding the ancient book while pacing slowly before Juliana.
+[01:51.60-01:58.20] CATHERINE (Arrogant, Elitist): "That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve."
+[01:58.20-02:02.25] CAMERA: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk.
+[01:58.40-02:02.00] JULIANA (Piercing, Provocative): "Then why are you so desperate to make me kneel?"
+[02:02.00-02:02.25] ACTION: Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.

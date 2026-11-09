@@ -1,0 +1,25 @@
+parsed 50 episodes (102.7 min of screen time)
+generated 459 candidate windows (9.2/episode), judged_by=heuristic
+postable episodes: 39/50
+no postable promo: ep5, ep6, ep8, ep21, ep39, ep40, ep42, ep46, ep48, ep49, ep50
+median clip length: 33.6s
+
+  #   ep        in       out   len  score  hook / cliff
+  1   18   02:25.80-03:06.75   41s   79.0  '"Why would anyone do this?"' -> '"What are you going to do?"'
+  2   36   01:57.50-02:28.25   31s   78.9  '"You told them the truth!"' -> '"What wedding?"'
+  3   45 00:22.90-00:42.05 + 01:33.20-01:53.25   39s   74.9  '"You\'re the Duke?"' -> '"You are not Alexander Ashburton\'s lawful wi'
+  4   22   01:36.00-02:11.00   35s   74.3  '"Do not stare. Keep walking."' -> '"Who has been treating you?"'
+  5   35   01:51.00-02:25.25   34s   73.3  '"How did you escape?"' -> '"Who?"'
+  6    1   01:15.00-01:59.25   44s   72.5  '"Long enough to know he was never going to m' -> '"So that is what I was worth to you?"'
+  7   27   00:44.50-01:20.75   36s   72.5  '"What is your husband\'s name?"' -> '"Who permitted you to give medicine to the D'
+  8    9   00:06.30-00:54.25   48s   72.3  '"Please! They told me there was a woman here' -> '"Why isn\'t it working?"'
+  9   23   00:32.00-01:24.25   52s   70.3  '"The physician said her heart is failing."' -> '"Poison?"'
+ 10   41   00:57.80-01:36.09   38s   70.1  "Tight close-up on Juliana's bruised, unshake" -> "Extreme close-up pushing in on Juliana's bru"
+ 11   34   00:19.40-01:00.35   41s   69.9  "Tight close-up of Lady Juliana's face, bruis" -> '"What did you see?"'
+ 12   29   00:27.10-01:14.55   47s   69.8  '"It is medicine!"' -> '"Your scarred soldier?"'
+ 13   38   00:23.20-00:47.75   25s   69.7  "Tight shot following Juliana's trembling, sh" -> '"What if I die here?"'
+ 14   43   01:11.40-01:52.75   41s   69.1  '"I didn\'t!"' -> '"Going somewhere, Lord Sterling?"'
+ 15   15   00:08.50-00:31.45   23s   68.9  '"Stop! What are you doing?!"' -> '"Months? You actually spend your days growin'
+
+wrote outputs/report.html  (6.4s)
+wrote outputs/promos.json

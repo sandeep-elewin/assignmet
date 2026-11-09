@@ -1,0 +1,31 @@
+PROMO ep25-e2938d7d
+Episode 25 - Episode 25
+Duration: 27.5s   Segments: 1
+Score: 68.56 (heuristic 68.56)
+
+IN / OUT
+  segment 1: 00:24.00 -> 00:51.45  (27.45s)
+
+HOOK      00:24.00  "Who did this?"
+CLIFF     00:47.00  "Juliana... why were you inside Ashburg Manor?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 25, 1 segment(s), 27s
+[00:24.00-00:25.50] ALEXANDER (Seething, Dangerous): "Who did this?"
+[00:25.80-00:29.80] CAMERA: Medium close-up of Juliana averting her eyes, her head bowed in quiet resignation.
+[00:27.50-00:29.30] JULIANA (Subdued, Weary): "It does not matter."
+[00:29.80-00:32.80] CAMERA: Tight shot of Alexander, his eyes burning with intense anger.
+[00:32.80-00:34.50] ACTION: Alexander steps directly into her space, firmly taking her hand in his.
+[00:32.80-00:33.80] ALEXANDER (Demanding, Stern): "Who?"
+[00:34.50-00:38.50] CAMERA: Close-up of Juliana looking up into his eyes, whispering the truth.
+[00:36.00-00:37.80] JULIANA (Quiet, Apprehensive): "Lady Catherine."
+[00:38.50-00:41.20] CAMERA: Close-up of Alexander, his gaze piercing and hard.
+[00:39.20-00:41.00] ALEXANDER (Low, Interrogating): "Where did you meet her?"
+[00:41.20-00:44.40] CAMERA: Close-up of Juliana recounting the incident.
+[00:41.20-00:44.20] JULIANA (Hedged): "I was in the wrong chamber. I was punished as a maid."
+[00:44.40-00:46.80] CAMERA: Close-up of Alexander, pressing her without hesitation.
+[00:44.60-00:46.40] ALEXANDER (Incredulous, Demanding): "What were you doing there?"
+[00:46.80-00:51.45] CAMERA: Medium two-shot of Alexander leaning down toward her against the dim forest backdrop.
+[00:47.00-00:51.20] ALEXANDER (Fierce, Urgent): "Juliana... why were you inside Ashburg Manor?"

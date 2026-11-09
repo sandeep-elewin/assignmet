@@ -1,0 +1,60 @@
+{
+  "episode": 10,
+  "label": "Episode 10",
+  "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+  "continuity_notes": "Follows the ominous revelation from Episode 9 of rumors circulating about a scarred war veteran, cutting directly to the secluded cottage where Alexander arrives bearing fresh wounds.",
+  "duration_s": 94.0,
+  "candidates_considered": 6,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep10-01947f0e",
+      "rank": null,
+      "episode": 10,
+      "episode_label": "Episode 10",
+      "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 6.8,
+          "end": 66.35,
+          "start_tc": "00:06.80",
+          "end_tc": "01:06.35",
+          "duration": 59.55
+        }
+      ],
+      "clip_duration": 59.55,
+      "hook": "Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest.",
+      "cliffhanger": "\"Why do you look at me like that?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer.",
+      "score": 65.23,
+      "heuristic_score": 65.23,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.726,
+        "standalone": 0.9,
+        "arc": 0.649,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 10, 1 segment(s), 60s\n[00:06.80-00:09.10] CAMERA: Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest.\n[00:07.50-00:09.00] ALEXANDER (Gruff, Strained): \"It is nothing.\"\n[00:09.10-00:11.50] CAMERA: Medium shot of Juliana hurriedly stepping toward him across the stone floor.\n[00:09.15-00:11.45] JULIANA (Urgent, Worried): \"There is blood running down your arm.\"\n[00:11.50-00:14.20] CAMERA: Medium profile two-shot as Alexander stands rigid while Juliana confronts him.\n[00:11.90-00:14.30] ALEXANDER (Stiff, Dismissive): \"A cut from the tenant fields.\"\n[00:14.20-00:16.00] CAMERA: Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire.\n[00:14.50-00:16.00] JULIANA (Commanding, Resolute): \"Sit down.\"\n[00:16.00-00:17.80] CAMERA: Close-up of Juliana's determined, unyielding expression.\n[00:16.20-00:17.30] JULIANA (Stern): \"Now.\"\n[00:17.80-00:20.00] CAMERA: Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire.\n[00:20.00-00:23.00] CAMERA: Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair.\n[00:20.90-00:22.90] JULIANA (Gentle, Insistent): \"I need to see the wound.\"\n[00:23.00-00:25.20] CAMERA: Low-angle close-up of Alexander looking up at her stubbornly.\n[00:23.20-00:24.90] ALEXANDER (Low, Defiant): \"It is only a scratch.\"\n[00:25.20-00:28.00] CAMERA: Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance.\n[00:25.50-00:28.00] JULIANA (Sarcastic, Challenging): \"Then removing your shirt should not trouble you.\"\n[00:28.00-00:31.80] CAMERA: Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat.\n[00:31.80-00:33.20] CAMERA: Close-up of Juliana observing him with guarded anticipation.\n[00:33.20-00:36.50] CAMERA: Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.\n[00:36.50-00:38.00] CAMERA: Tight pan over the scarred, wounded flesh along his chest and ribs.\n[00:38.00-00:39.20] CAMERA: Close-up of Juliana's eyes widening in horror and deep pity.\n[00:38.10-00:38.90] JULIANA (Whispering, Distressed): \"Dear God.\"\n[00:39.20-00:43.00] CAMERA: Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor.\n[00:43.00-00:45.00] CAMERA: Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest.\n[00:45.00-00:47.30] CAMERA: Close-up of Juliana looking up at him, her eyes softened with profound empathy.\n[00:45.30-00:47.10] JULIANA (Soft, Sorrowful): \"You have suffered terribly.\"\n[00:47.30-00:49.50] CAMERA: Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism.\n[00:47.80-00:49.00] ALEXANDER (Quiet, Somber): \"It is over.\"\n[00:49.50-00:51.50] CAMERA: Medium close-up of Juliana dipping a linen cloth into the water bowl.\n[00:49.70-00:51.30] JULIANA (Gentle): \"Your scars disagree.\"\n[00:51.50-00:54.00] CAMERA: Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder.\n[00:52.00-00:53.30] JULIANA (Tender): \"Does it hurt?\"\n[00:54.00-00:55.50] CAMERA: Close-up of Alexander trying not to wince under her touch.\n[00:54.00-00:55.20] ALEXANDER (Gruff): \"Not much.\"\n[00:55.50-00:58.00] CAMERA: Close-up of Juliana smiling softly, amused by his stubborn pride.\n[00:55.60-00:57.60] JULIANA (Playful, Whispering): \"You are a terrible liar.\"\n[00:58.00-01:00.00] CAMERA: Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound.\n[01:00.00-01:03.00] CAMERA: Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound.\n[01:03.00-01:06.20] CAMERA: Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze.\n[01:03.90-01:06.10] JULIANA (Soft, Breathless): \"Why do you look at me like that?\"\n[01:06.20-01:06.35] CAMERA: Close-up of Alexander, his voice deep and laden with restrained emotion."
+    }
+  ]
+}

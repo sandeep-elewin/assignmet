@@ -1,0 +1,46 @@
+PROMO ep01-2929357e
+Episode 1 - Episode 1
+Duration: 44.2s   Segments: 1
+Score: 72.49 (heuristic 72.49)
+
+IN / OUT
+  segment 1: 01:15.00 -> 01:59.25  (44.25s)
+
+HOOK      01:15.00  "Long enough to know he was never going to marry you."
+CLIFF     01:57.00  "So that is what I was worth to you?"
+
+WHY       opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 1, 1 segment(s), 44s
+[01:15.00-01:18.50] LADY IN GOLD GOWN (Cruel, Poised): "Long enough to know he was never going to marry you."
+[01:19.00-01:21.00] ACTION: Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.
+[01:19.00-01:21.40] CAMERA: Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.
+[01:20.10-01:21.20] LADY JULIANA (Desperate): "Father..."
+[01:21.40-01:23.70] CAMERA: Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.
+[01:21.40-01:23.60] LADY JULIANA (Begging): "Tell them this is a mistake."
+[01:23.70-01:26.00] CAMERA: Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.
+[01:26.00-01:29.50] CAMERA: Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.
+[01:26.00-01:28.90] LADY JULIANA (Choking, Broken): "Father... please look at me."
+[01:29.50-01:30.80] ACTION: The father tightens his jaw and stony expression, refusing to offer a single word or look.
+[01:29.50-01:30.80] CAMERA: Profile close-up of the father staring blankly forward.
+[01:30.80-01:35.80] CAMERA: Low-angle shot looking up at the Matriarch commanding the space with regal severity.
+[01:30.90-01:31.90] MATRIARCH (Stern, Resolute): "Enough!"
+[01:32.10-01:35.50] MATRIARCH (Disgusted): "You have embarrassed this family long enough."
+[01:35.80-01:38.60] CAMERA: Close-up on Juliana as she rises, stung by the utter betrayal.
+[01:36.20-01:38.20] LADY JULIANA (Incredulous): "Embarrassed you?"
+[01:38.60-01:42.50] CAMERA: Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold.
+[01:38.80-01:41.50] MATRIARCH (Haughty): "Clarissa knows how to carry herself."
+[01:41.60-01:45.00] MATRIARCH (Proud): "She has beauty, connections, and a future worth protecting."
+[01:42.50-01:45.30] CAMERA: Medium profile two-shot of the Matriarch confronting Juliana face to face.
+[01:45.30-01:47.40] CAMERA: Close-up on Juliana, demanding answers in spite of her humiliation.
+[01:45.40-01:47.30] LADY JULIANA (Raw, Painful): "And I am what?"
+[01:47.40-01:50.00] CAMERA: Medium tracking shot showing the Lady in Gold Gown stepping past Juliana toward the center.
+[01:47.50-01:50.80] LADY IN GOLD GOWN (Viciously Calm): "You are the daughter people tolerate because they have to."
+[01:50.00-01:53.00] CAMERA: Close-up on Juliana absorbing the venomous words, her breathing shallow.
+[01:51.10-01:53.00] LADY IN GOLD GOWN (Gloating): "I am the daughter they choose."
+[01:53.00-01:55.20] CAMERA: Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles.
+[01:53.30-01:55.70] MATRIARCH (Firm): "Clarissa is the jewel of this family."
+[01:55.20-01:57.00] CAMERA: Close two-shot of the Matriarch and Juliana standing side by side in profile.
+[01:57.00-01:59.25] CAMERA: Medium shot framing Juliana looking directly at Gerald, who towers over her coldly.
+[01:57.00-01:59.00] LADY JULIANA (Trembling, Dignified): "So that is what I was worth to you?"

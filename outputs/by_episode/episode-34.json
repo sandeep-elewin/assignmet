@@ -1,0 +1,114 @@
+{
+  "episode": 34,
+  "label": "Episode 34",
+  "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+  "continuity_notes": "Following the aristocratic Lord's ruthless extortion of the young maid in his study, Episode 34 transitions directly into the crowded courtroom trial where the conspirators unleash their manufactured charges and false witnesses against Lady Juliana.",
+  "duration_s": 190.0,
+  "candidates_considered": 14,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep34-b9da4197",
+      "rank": 11,
+      "episode": 34,
+      "episode_label": "Episode 34",
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 19.4,
+          "end": 60.35,
+          "start_tc": "00:19.40",
+          "end_tc": "01:00.35",
+          "duration": 40.95
+        }
+      ],
+      "clip_duration": 40.95,
+      "hook": "Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.",
+      "cliffhanger": "\"What did you see?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 69.94,
+      "heuristic_score": 69.94,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.708,
+        "standalone": 0.64,
+        "arc": 0.709,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JUDGE, JULIANA, MAID, PRUDENCE"
+        ],
+        "prior_knowledge_entities": [
+          "JUDGE",
+          "MAID",
+          "PRUDENCE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 34, 1 segment(s), 41s\n[00:19.40-00:23.80] CAMERA: Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.\n[00:20.80-00:21.80] LADY JULIANA (Firm): \"No.\"\n[00:23.80-00:27.40] CAMERA: Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction.\n[00:27.40-00:31.70] CAMERA: Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.\n[00:27.50-00:31.20] JUDGE (Hard, Pressing): \"Then you admit to practicing forbidden arts.\"\n[00:31.70-00:35.30] CAMERA: Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.\n[00:33.20-00:35.10] LADY JULIANA (Proud, Dignified): \"I admit to healing the sick.\"\n[00:35.30-00:37.40] ACTION: The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.\n[00:35.40-00:36.60] JUDGE (Furious, Shouting): \"Silence!\"\n[00:35.80-00:37.00] SOUND: [Sharp, echoing crack of the gavel slamming onto wood]\n[00:35.80-00:37.40] CAMERA: Medium shot of the Judge slamming the gavel down on his bench.\n[00:37.40-00:42.50] CAMERA: Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.\n[00:37.50-00:41.20] JUDGE (Commanding): \"Prudence. You served beside the accused?\"\n[00:41.00-00:43.00] ACTION: Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.\n[00:42.50-00:44.80] CAMERA: Medium close-up of Prudence looking up with tears streaming down her pale face.\n[00:43.20-00:44.60] PRUDENCE (Trembling, Tearful): \"Yes, Your Honor.\"\n[00:44.80-00:49.00] CAMERA: Medium close-up of the Judge leaning forward with folded hands.\n[00:45.30-00:48.80] JUDGE (Probing, Formal): \"Did you witness Lady Juliana perform these treatments?\"\n[00:49.00-00:51.50] CAMERA: Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock.\n[00:49.10-00:50.50] LADY JULIANA (Softly, Urgent): \"Tell the truth.\"\n[00:51.50-00:54.80] CAMERA: Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.\n[00:53.00-00:54.20] PRUDENCE (Sobbing, Heartbroken): \"Yes.\"\n[00:54.80-00:57.60] CAMERA: Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.\n[00:57.60-01:00.35] CAMERA: Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.\n[00:58.20-01:00.10] JUDGE (Measured, Stern): \"What did you see?\""
+    },
+    {
+      "id": "ep34-abd29419",
+      "rank": null,
+      "episode": 34,
+      "episode_label": "Episode 34",
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 49.1,
+          "end": 99.35,
+          "start_tc": "00:49.10",
+          "end_tc": "01:39.35",
+          "duration": 50.25
+        }
+      ],
+      "clip_duration": 50.25,
+      "hook": "\"Tell the truth.\"",
+      "cliffhanger": "\"And?\"",
+      "why_it_works": "opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 67.36,
+      "heuristic_score": 67.36,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.901,
+        "cliffhanger": 0.708,
+        "standalone": 0.6,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JUDGE, JULIANA, LORD, MAID"
+        ],
+        "prior_knowledge_entities": [
+          "LORD",
+          "MAID",
+          "JUDGE",
+          "PRUDENCE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 34, 1 segment(s), 50s\n[00:49.10-00:50.50] LADY JULIANA (Softly, Urgent): \"Tell the truth.\"\n[00:51.50-00:54.80] CAMERA: Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.\n[00:53.00-00:54.20] PRUDENCE (Sobbing, Heartbroken): \"Yes.\"\n[00:54.80-00:57.60] CAMERA: Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.\n[00:57.60-01:00.80] CAMERA: Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.\n[00:58.20-01:00.10] JUDGE (Measured, Stern): \"What did you see?\"\n[01:00.80-01:04.60] CAMERA: Medium close-up of Prudence clutching both hands to her chest in anguish.\n[01:01.30-01:04.40] PRUDENCE (Choked with Tears): \"She used herbs... and her mother's book.\"\n[01:04.60-01:06.80] CAMERA: Medium shot of the Judge leaning back slightly, pointing his hand accusingly.\n[01:04.80-01:06.70] JUDGE (Pressing, Sharp): \"Did she draw strange markings?\"\n[01:06.80-01:11.80] CAMERA: Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.\n[01:08.20-01:11.70] PRUDENCE (Faltering, Desperate): \"She... placed herbs around my brother's bed.\"\n[01:11.80-01:15.80] CAMERA: Medium shot of the Judge pointing an outstretched index finger with piercing intensity.\n[01:12.10-01:15.50] JUDGE (Accusatory, Forceful): \"And did she speak words you could not understand?\"\n[01:15.80-01:21.00] CAMERA: Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.\n[01:18.80-01:20.50] PRUDENCE (Weeping, Shaken): \"Yes.\"\n[01:21.00-01:25.20] CAMERA: Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge.\n[01:21.30-01:24.90] LORD (Triumphant, Smug): \"Your Honor... the witness has confirmed the ritual.\"\n[01:25.00-01:27.20] ACTION: Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.\n[01:25.20-01:27.40] CAMERA: Low-angle medium shot of Lady Juliana gripping the railing, leaning forward.\n[01:25.20-01:27.20] LADY JULIANA (Passionate, Indignant): \"It was not a ritual!\"\n[01:27.20-01:30.20] ACTION: The Judge repeatedly hammers his gavel down onto the desk, roaring over her.\n[01:27.40-01:30.50] CAMERA: Medium shot of the Judge striking the wooden block twice in rapid succession.\n[01:27.80-01:29.20] SOUND: [Violent, resonant double bang of the wooden gavel]\n[01:27.90-01:30.00] JUDGE (Bellowing): \"You will speak when addressed!\"\n[01:30.50-01:33.80] CAMERA: Medium shot of the Lord extending his palm toward the gallery with theatrical composure.\n[01:31.00-01:33.20] LORD (Calm, Poisonous): \"We have further witnesses.\"\n[01:33.80-01:38.20] CAMERA: Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands.\n[01:34.20-01:38.00] TOWNSMAN (Nervous, Fearful): \"My wife took one of Lady Juliana's mixtures...\"\n[01:38.20-01:39.35] CAMERA: Close-up of the Judge glaring down expectantly.\n[01:38.30-01:39.10] JUDGE (Sharp): \"And?\""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "episode": 24,
+  "label": "Episode 24",
+  "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+  "continuity_notes": "Picks up directly from Episode 23's cliffhanger inside the West Wing bedchamber, as the brass latch turns and the door swings open to reveal an unexpected intruder confronting Lady Juliana and Prudence.",
+  "duration_s": 92.0,
+  "candidates_considered": 6,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep24-c7f2c479",
+      "rank": null,
+      "episode": 24,
+      "episode_label": "Episode 24",
+      "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 22.5,
+          "end": 67.75,
+          "start_tc": "00:22.50",
+          "end_tc": "01:07.75",
+          "duration": 45.25
+        }
+      ],
+      "clip_duration": 45.25,
+      "hook": "\"You thought? A new maid thinks she knows better than the physicians?\"",
+      "cliffhanger": "\"My lady—\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.",
+      "score": 62.94,
+      "heuristic_score": 62.94,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.552,
+        "cliffhanger": 0.671,
+        "standalone": 0.77,
+        "arc": 0.299,
+        "pacing": 0.977
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA, NOBLEWOMAN, PRUDENCE"
+        ],
+        "prior_knowledge_entities": [
+          "NOBLEWOMAN",
+          "PRUDENCE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 24, 1 segment(s), 45s\n[00:22.50-00:26.80] CAMERA: Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.\n[00:22.50-00:26.50] NOBLEWOMAN (Scoffing, Cruel): \"You thought? A new maid thinks she knows better than the physicians?\"\n[00:26.80-00:28.80] CAMERA: Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency.\n[00:27.00-00:28.60] LADY JULIANA (Emphatic, Defiant): \"She is suffering.\"\n[00:28.80-00:30.80] CAMERA: Tight close-up of the noblewoman's face twisting into a malicious sneer.\n[00:29.00-00:30.80] NOBLEWOMAN (Vicious, Venomous): \"Then let her suffer.\"\n[00:30.80-00:32.80] CAMERA: Close-up of Juliana recoiling slightly in shock at the blatant cruelty.\n[00:31.00-00:32.50] LADY JULIANA (Steely, Steadfast): \"I cannot do that.\"\n[00:32.50-00:34.50] ACTION: The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.\n[00:32.80-00:33.80] SOUND: A sharp, stinging whip crack as the riding crop makes harsh contact.\n[00:33.80-00:36.50] ACTION: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.\n[00:33.80-00:36.80] CAMERA: Medium shot of Juliana hunched over in pain, clutching her abdomen.\n[00:35.00-00:36.80] NOBLEWOMAN (Cold, Threatening): \"You are a maid.\"\n[00:36.80-00:38.80] CAMERA: Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply.\n[00:37.00-00:38.80] NOBLEWOMAN (Cold, Continuing): \"Not a physician. Not a lady.\"\n[00:38.80-00:43.00] CAMERA: Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana.\n[00:39.00-00:42.80] NOBLEWOMAN (Disdainful, Final): \"And certainly not a woman whose opinion matters.\"\n[00:43.00-00:45.50] CAMERA: Close-up of Juliana looking down, enduring the humiliation while stifling her breath.\n[00:43.20-00:44.80] LADY JULIANA (Subdued, Controlled): \"Yes, my lady.\"\n[00:45.50-00:48.50] CAMERA: Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction.\n[00:45.50-00:48.00] NOBLEWOMAN (Smug, Condescending): \"Good. Perhaps we can teach you your place.\"\n[00:48.50-00:51.50] ACTION: The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway.\n[00:48.50-00:51.50] CAMERA: Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps.\n[00:51.50-00:53.50] ACTION: Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth.\n[00:51.50-00:54.00] CAMERA: Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side.\n[00:53.60-00:55.20] NOBLEWOMAN (Harsh, Dismissive): \"Clean it.\"\n[00:54.00-00:56.20] CAMERA: Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth.\n[00:56.20-00:57.80] CAMERA: Close-up of Juliana looking up at the towering, soot-blackened chimney.\n[00:56.20-00:57.60] LADY JULIANA (Quiet, Questioning): \"All of it, my lady?\"\n[00:57.80-01:03.80] CAMERA: Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish.\n[00:57.80-01:03.50] NOBLEWOMAN (Intimate, Venomous): \"Every stone. Perhaps when your hands are black enough, you will finally remember what you are.\"\n[01:03.80-01:06.00] ACTION: Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace.\n[01:03.80-01:06.20] CAMERA: Medium shot of Juliana sinking to her knees, her face grim and composed.\n[01:06.00-01:07.50] ACTION: Prudence steps toward the noblewoman in distress, her hands clasped tightly.\n[01:06.20-01:07.75] CAMERA: Close-up of Prudence's anxious, trembling face.\n[01:06.20-01:07.50] PRUDENCE (Desperate, Pleading): \"My lady—\"\n[01:07.50-01:07.75] ACTION: The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face."
+    }
+  ]
+}

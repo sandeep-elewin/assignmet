@@ -1,0 +1,40 @@
+PROMO ep34-b9da4197
+Episode 34 - Episode 34
+Duration: 41.0s   Segments: 1
+Score: 69.94 (heuristic 69.94)
+
+IN / OUT
+  segment 1: 00:19.40 -> 01:00.35  (40.95s)
+
+HOOK      00:19.40  Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.
+CLIFF     00:58.20  "What did you see?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 34, 1 segment(s), 41s
+[00:19.40-00:23.80] CAMERA: Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.
+[00:20.80-00:21.80] LADY JULIANA (Firm): "No."
+[00:23.80-00:27.40] CAMERA: Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction.
+[00:27.40-00:31.70] CAMERA: Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.
+[00:27.50-00:31.20] JUDGE (Hard, Pressing): "Then you admit to practicing forbidden arts."
+[00:31.70-00:35.30] CAMERA: Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.
+[00:33.20-00:35.10] LADY JULIANA (Proud, Dignified): "I admit to healing the sick."
+[00:35.30-00:37.40] ACTION: The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.
+[00:35.40-00:36.60] JUDGE (Furious, Shouting): "Silence!"
+[00:35.80-00:37.00] SOUND: [Sharp, echoing crack of the gavel slamming onto wood]
+[00:35.80-00:37.40] CAMERA: Medium shot of the Judge slamming the gavel down on his bench.
+[00:37.40-00:42.50] CAMERA: Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.
+[00:37.50-00:41.20] JUDGE (Commanding): "Prudence. You served beside the accused?"
+[00:41.00-00:43.00] ACTION: Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.
+[00:42.50-00:44.80] CAMERA: Medium close-up of Prudence looking up with tears streaming down her pale face.
+[00:43.20-00:44.60] PRUDENCE (Trembling, Tearful): "Yes, Your Honor."
+[00:44.80-00:49.00] CAMERA: Medium close-up of the Judge leaning forward with folded hands.
+[00:45.30-00:48.80] JUDGE (Probing, Formal): "Did you witness Lady Juliana perform these treatments?"
+[00:49.00-00:51.50] CAMERA: Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock.
+[00:49.10-00:50.50] LADY JULIANA (Softly, Urgent): "Tell the truth."
+[00:51.50-00:54.80] CAMERA: Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.
+[00:53.00-00:54.20] PRUDENCE (Sobbing, Heartbroken): "Yes."
+[00:54.80-00:57.60] CAMERA: Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.
+[00:57.60-01:00.35] CAMERA: Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.
+[00:58.20-01:00.10] JUDGE (Measured, Stern): "What did you see?"

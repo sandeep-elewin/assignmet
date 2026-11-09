@@ -1,0 +1,1 @@
+note: --llm was requested but no provider key is configured (set PROMO_LLM_API_KEY or OPENAI_API_KEY); ran the heuristic pass only

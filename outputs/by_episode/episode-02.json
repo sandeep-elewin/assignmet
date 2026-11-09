@@ -1,0 +1,60 @@
+{
+  "episode": 2,
+  "label": "Episode 2",
+  "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+  "continuity_notes": "Picks up directly from Episode 1's cliffhanger. Gerald has turned away from Juliana at the altar, leaving her devastated before the entire aristocratic congregation.",
+  "duration_s": 110.0,
+  "candidates_considered": 7,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep02-47595332",
+      "rank": null,
+      "episode": 2,
+      "episode_label": "Episode 2",
+      "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 4.7,
+          "end": 27.65,
+          "start_tc": "00:04.70",
+          "end_tc": "00:27.65",
+          "duration": 22.95
+        }
+      ],
+      "clip_duration": 22.95,
+      "hook": "\"You are far too plain...\"",
+      "cliffhanger": "\"A better choice? Is that what she is?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 64.43,
+      "heuristic_score": 64.43,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.545,
+        "cliffhanger": 0.68,
+        "standalone": 0.82,
+        "arc": 0.679,
+        "pacing": 0.969
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of FORMER GROOM, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "FORMER GROOM",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 2, 1 segment(s), 23s\n[00:04.70-00:06.50] THE FORMER GROOM (Cruel, Derisive): \"You are far too plain...\"\n[00:06.60-00:09.50] CAMERA: Close-up on Juliana's tear-streaked face, crushed under his biting words.\n[00:06.80-00:09.50] THE FORMER GROOM (Off-screen, Dismissive): \"...far too silent...\"\n[00:09.50-00:12.00] CAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\n[00:09.60-00:12.00] THE FORMER GROOM (Arrogant, Conceited): \"...and completely beneath the future I deserve.\"\n[00:12.00-00:15.80] CAMERA: Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.\n[00:12.40-00:15.50] LADY JULIANA (Desperate, Pleading): \"Gerald... Look at me.\"\n[00:15.80-00:18.00] CAMERA: Close-up on Gerald's cold, merciless face staring ahead unblinkingly.\n[00:18.00-00:20.70] CAMERA: Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.\n[00:18.20-00:20.60] LADY JULIANA (Trembling, Betrayed): \"You gave me your word before both our families.\"\n[00:20.70-00:23.80] CAMERA: Medium two-shot of Gerald and Clarissa standing side by side before the priest.\n[00:20.90-00:23.70] THE FORMER GROOM (Indifferent, Unapologetic): \"Promises change when a better choice appears.\"\n[00:23.80-00:27.60] CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.\n[00:24.00-00:27.40] LADY JULIANA (Shattered, Disbelieving): \"A better choice? Is that what she is?\"\n[00:27.60-00:27.65] CAMERA: Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+PROMO ep37-133e4793
+Episode 37 - Episode 37
+Duration: 28.0s   Segments: 1
+Score: 64.09 (heuristic 64.09)
+
+IN / OUT
+  segment 1: 01:32.00 -> 02:00.05  (28.05s)
+
+HOOK      01:32.00  Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.
+CLIFF     01:57.20  "Do you think she'll actually be executed?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 37, 1 segment(s), 28s
+[01:32.00-01:35.50] CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.
+[01:33.50-01:35.50] ACTION: Juliana curls her fingers back, pulling away from the foul sustenance in defiance.
+[01:35.50-01:40.50] CAMERA: Tight close-up of Juliana's dirty, tear-stained face. Her eyes squeeze shut as tears stream down her cheeks from overwhelming physical agony and hunger.
+[01:36.00-01:39.50] JULIANA (Weak, Whispering through Tears): "They think hunger will make me surrender."
+[01:40.50-01:43.50] CAMERA: Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.
+[01:40.80-01:43.20] JULIANA (Fierce Resolve): "They think fear will make me beg."
+[01:43.50-01:48.50] CAMERA: Full shot of Juliana using her bare hands against the slimy stone floor to drag herself upright to her knees, chains rattling loudly.
+[01:44.00-01:47.00] SOUND: The harsh scrape and clatter of heavy iron chains dragging across wet stone.
+[01:45.50-01:47.80] JULIANA (Straining, Defiant Gasps): "I will not!"
+[01:48.50-01:53.50] CAMERA: Low-angle shot looking up at Juliana as she thrusts her chin high toward the iron ceiling grate, bathed in cold shafts of light.
+[01:49.00-01:52.50] JULIANA (Passionate Defiance): "They can take my name. They can take my home."
+[01:53.50-01:56.50] CAMERA: Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.
+[01:53.60-01:56.20] JULIANA (Indomitable Spirit): "They cannot take who I am!"
+[01:56.50-02:00.00] CAMERA: Medium two-shot in the dimly lit parlor, illuminated by the warm glow of the fireplace. Clarissa now wears a deep blue velvet gown, reclining in an armchair beside the nobleman.
+[01:57.20-01:59.80] NOBLEMAN (Quietly Skeptical): "Do you think she'll actually be executed?"
+[02:00.00-02:00.05] CAMERA: Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty.

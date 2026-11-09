@@ -1,0 +1,60 @@
+{
+  "episode": 23,
+  "label": "Episode 23",
+  "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+  "continuity_notes": "Picks up immediately from the Episode 22 cliffhanger inside the forbidden West Wing of Ashbury Manor, where Lady Juliana crouches beside the bedridden Dowager Duchess, racing against time to determine the source of her fatal illness.",
+  "duration_s": 131.5,
+  "candidates_considered": 11,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep23-8563b9cd",
+      "rank": 9,
+      "episode": 23,
+      "episode_label": "Episode 23",
+      "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 32.0,
+          "end": 84.25,
+          "start_tc": "00:32.00",
+          "end_tc": "01:24.25",
+          "duration": 52.25
+        }
+      ],
+      "clip_duration": 52.25,
+      "hook": "\"The physician said her heart is failing.\"",
+      "cliffhanger": "\"Poison?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 70.29,
+      "heuristic_score": 70.29,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.545,
+        "cliffhanger": 0.836,
+        "standalone": 0.9,
+        "arc": 0.679,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA, PRUDENCE"
+        ],
+        "prior_knowledge_entities": [
+          "PRUDENCE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 23, 1 segment(s), 52s\n[00:32.00-00:36.00] PRUDENCE (Despairing, Weeping): \"The physician said her heart is failing.\"\n[00:36.00-00:38.50] CAMERA: Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe.\n[00:36.00-00:38.50] SOUND: Duchess's raspy, labored inhalation.\n[00:38.50-00:43.00] CAMERA: Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism.\n[00:40.80-00:43.00] LADY JULIANA (Firm, Resolute): \"No.\"\n[00:43.00-00:46.50] CAMERA: Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook.\n[00:43.80-00:46.50] LADY JULIANA (Certain, Focused): \"This is not simply old age.\"\n[00:46.50-00:48.00] CAMERA: Quick reaction shot of Prudence staring with wide, bewildered eyes.\n[00:48.00-00:53.50] CAMERA: Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages.\n[00:53.50-00:57.50] CAMERA: Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script.\n[00:57.50-00:58.50] ACTION: Juliana draws in a sharp, startled breath, her eyes widening in horror.\n[00:58.50-01:00.80] CAMERA: Close-up of Juliana looking up from the page, stunned by her mother's written words.\n[00:58.50-01:00.00] LADY JULIANA (Breathless, Reverent): \"Mother.\"\n[01:00.80-01:02.00] CAMERA: Medium shot of Prudence leaning in, candle trembling.\n[01:00.80-01:02.00] PRUDENCE (Urgent, Baffled): \"What is it?\"\n[01:02.00-01:09.50] CAMERA: Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background.\n[01:02.00-01:08.50] LADY JULIANA (Shocked, Deliberate): \"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\"\n[01:09.50-01:10.50] CAMERA: Close-up of Prudence staring back in stunned disbelief.\n[01:10.50-01:13.80] CAMERA: Medium close-up of Juliana speaking with absolute certainty.\n[01:10.50-01:13.50] LADY JULIANA (Serious, Chilled): \"I have seen these symptoms before.\"\n[01:13.80-01:16.00] CAMERA: Close-up of Prudence's terrified face.\n[01:13.80-01:15.80] PRUDENCE (Panicked, Shaken): \"What are you saying?\"\n[01:16.00-01:18.50] CAMERA: Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp.\n[01:18.50-01:21.50] CAMERA: Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence.\n[01:19.00-01:21.50] LADY JULIANA (Cold, Deadly Serious): \"Someone is poisoning her.\"\n[01:21.50-01:24.25] CAMERA: Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror.\n[01:21.50-01:22.50] SOUND: Sharp intake of breath from Prudence.\n[01:22.00-01:24.00] PRUDENCE (Muffled, Horrified): \"Poison?\""
+    }
+  ]
+}

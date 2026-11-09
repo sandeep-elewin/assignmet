@@ -1,0 +1,114 @@
+{
+  "episode": 41,
+  "label": "Episode 41",
+  "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+  "continuity_notes": "Follows Episode 40 where Rupert and Catherine met at the altar; Catherine halts the vows to stage a public humiliation of Juliana, unaware that Alexander's forces are already detonating the cathedral gates.",
+  "duration_s": 96.09,
+  "candidates_considered": 8,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep41-bdb16ed2",
+      "rank": 10,
+      "episode": 41,
+      "episode_label": "Episode 41",
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 57.8,
+          "end": 96.09,
+          "start_tc": "00:57.80",
+          "end_tc": "01:36.09",
+          "duration": 38.29
+        }
+      ],
+      "clip_duration": 38.29,
+      "hook": "Tight close-up on Juliana's bruised, unshaken face.",
+      "cliffhanger": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, brea…",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 70.14,
+      "heuristic_score": 70.14,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.775,
+        "standalone": 0.6,
+        "arc": 0.649,
+        "pacing": 0.969
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of BLOND NOBLEMAN, CATHERINE, JULIANA, PRIEST"
+        ],
+        "prior_knowledge_entities": [
+          "PRIEST",
+          "BLOND NOBLEMAN",
+          "RUPERT",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 41, 1 segment(s), 38s\n[00:57.80-01:00.80] CAMERA: Tight close-up on Juliana's bruised, unshaken face.\n[00:58.00-01:00.50] JULIANA (Defiant, Unbowed): \"You needed an entire chapel to feel powerful over one chained woman?\"\n[01:00.80-01:04.00] CAMERA: Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains.\n[01:01.00-01:03.50] CATHERINE (Murmured, Cold): \"Still arrogant. Still standing.\"\n[01:04.00-01:08.50] CAMERA: Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her.\n[01:04.50-01:05.40] CATHERINE (Dismissive): \"Come.\"\n[01:08.50-01:10.50] CAMERA: Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion.\n[01:10.50-01:15.00] CAMERA: Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate.\n[01:10.50-01:14.80] CATHERINE (Intimate, Ambitious): \"Soon, there will be nothing left between us and the Ashburgh title.\"\n[01:15.00-01:17.50] CAMERA: Close-up of Rupert's face breaking into a calculating, ambitious grin.\n[01:15.80-01:17.00] BLOND NOBLEMAN (Quietly Triumphant): \"Nothing.\"\n[01:17.50-01:20.50] CAMERA: Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine.\n[01:18.00-01:19.30] PRIEST (Solemn, Polite): \"Shall we?\"\n[01:20.50-01:21.80] CAMERA: Wide shot centered down the aisle toward the massive closed entrance doors.\n[01:21.00-01:25.50] SOUND: Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.\n[01:21.80-01:24.00] ACTION: A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.\n[01:21.80-01:24.50] CAMERA: Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down.\n[01:24.50-01:28.50] CAMERA: Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock.\n[01:28.50-01:32.00] CAMERA: Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her.\n[01:29.00-01:33.50] ACTION: Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.\n[01:32.00-01:36.09] CAMERA: Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger."
+    },
+    {
+      "id": "ep41-04c12619",
+      "rank": null,
+      "episode": 41,
+      "episode_label": "Episode 41",
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 30.5,
+          "end": 60.75,
+          "start_tc": "00:30.50",
+          "end_tc": "01:00.75",
+          "duration": 30.25
+        }
+      ],
+      "clip_duration": 30.25,
+      "hook": "\"Look at her.\"",
+      "cliffhanger": "\"You needed an entire chapel to feel powerful over one chained woman?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 61.94,
+      "heuristic_score": 61.94,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.554,
+        "cliffhanger": 0.596,
+        "standalone": 0.6,
+        "arc": 0.685,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ASHCROFT, CATHERINE, JULIANA, NOBLEMAN"
+        ],
+        "prior_knowledge_entities": [
+          "NOBLEMAN",
+          "ASHCROFT",
+          "NOBLEWOMAN",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 41, 1 segment(s), 30s\n[00:30.50-00:31.60] NOBLEWOMAN (Gleeful, Whispering): \"Look at her.\"\n[00:31.70-00:33.80] NOBLEMAN (Mocking, Chuckling): \"She actually came back to the chapel.\"\n[00:34.00-00:36.80] CAMERA: Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride.\n[00:34.80-00:36.80] NOBLEWOMAN (Scornful, Smug): \"Not as a bride this time.\"\n[00:36.80-00:39.80] CAMERA: Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement.\n[00:39.80-00:43.80] CAMERA: Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers.\n[00:41.00-00:44.20] CATHERINE (Derisive, Projecting): \"Lady Juliana Ashcroft. Look around.\"\n[00:43.80-00:48.50] CAMERA: High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral.\n[00:45.00-00:48.00] CATHERINE (Mocking, Resonant): \"This is the world you thought you belonged to.\"\n[00:48.50-00:52.80] CAMERA: Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress.\n[00:48.60-00:52.40] CATHERINE (Spiteful, Boastful): \"And now they can all see what you truly are.\"\n[00:52.80-00:57.80] CAMERA: Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze.\n[00:54.80-00:57.50] ACTION: Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain.\n[00:57.80-01:00.75] CAMERA: Tight close-up on Juliana's bruised, unshaken face.\n[00:58.00-01:00.50] JULIANA (Defiant, Unbowed): \"You needed an entire chapel to feel powerful over one chained woman?\""
+    }
+  ]
+}

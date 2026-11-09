@@ -1,0 +1,30 @@
+PROMO ep02-47595332
+Episode 2 - Episode 2
+Duration: 22.9s   Segments: 1
+Score: 64.43 (heuristic 64.43)
+
+IN / OUT
+  segment 1: 00:04.70 -> 00:27.65  (22.95s)
+
+HOOK      00:04.70  "You are far too plain..."
+CLIFF     00:24.00  "A better choice? Is that what she is?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 2, 1 segment(s), 23s
+[00:04.70-00:06.50] THE FORMER GROOM (Cruel, Derisive): "You are far too plain..."
+[00:06.60-00:09.50] CAMERA: Close-up on Juliana's tear-streaked face, crushed under his biting words.
+[00:06.80-00:09.50] THE FORMER GROOM (Off-screen, Dismissive): "...far too silent..."
+[00:09.50-00:12.00] CAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.
+[00:09.60-00:12.00] THE FORMER GROOM (Arrogant, Conceited): "...and completely beneath the future I deserve."
+[00:12.00-00:15.80] CAMERA: Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.
+[00:12.40-00:15.50] LADY JULIANA (Desperate, Pleading): "Gerald... Look at me."
+[00:15.80-00:18.00] CAMERA: Close-up on Gerald's cold, merciless face staring ahead unblinkingly.
+[00:18.00-00:20.70] CAMERA: Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.
+[00:18.20-00:20.60] LADY JULIANA (Trembling, Betrayed): "You gave me your word before both our families."
+[00:20.70-00:23.80] CAMERA: Medium two-shot of Gerald and Clarissa standing side by side before the priest.
+[00:20.90-00:23.70] THE FORMER GROOM (Indifferent, Unapologetic): "Promises change when a better choice appears."
+[00:23.80-00:27.60] CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.
+[00:24.00-00:27.40] LADY JULIANA (Shattered, Disbelieving): "A better choice? Is that what she is?"
+[00:27.60-00:27.65] CAMERA: Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm.

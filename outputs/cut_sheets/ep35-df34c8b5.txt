@@ -1,0 +1,30 @@
+PROMO ep35-df34c8b5
+Episode 35 - Episode 35
+Duration: 39.2s   Segments: 1
+Score: 71.06 (heuristic 71.06)
+
+IN / OUT
+  segment 1: 00:52.50 -> 01:31.75  (39.25s)
+
+HOOK      00:52.50  "I buried you."
+CLIFF     01:29.80  "A traitor?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 35, 1 segment(s), 39s
+[00:52.50-00:55.00] ALEXANDER'S MOTHER (Tearful, Heartbroken): "I buried you."
+[00:56.50-00:58.00] ALEXANDER (Soft, Somber): "I know."
+[00:59.50-01:06.00] ALEXANDER'S MOTHER (Anguished, Accusing): "They told me you died. They told me your entire regiment was destroyed."
+[01:06.50-01:11.00] CAMERA: Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories.
+[01:08.50-01:10.80] ALEXANDER (Dark, Resigned): "Most of them were."
+[01:11.50-01:14.00] ALEXANDER'S MOTHER (Searching, Desperate): "Then how did you survive?"
+[01:14.20-01:18.00] CAMERA: Side profile of Alexander as his eyes look into the distance, haunted by the past.
+[01:15.00-01:17.50] ALEXANDER (Grim, Quiet): "I wasn't supposed to."
+[01:18.00-01:22.50] ACTION: Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.
+[01:19.00-01:23.00] ALEXANDER (Solemn): "Three years ago, I was sent to the Iberian front."
+[01:23.00-01:27.00] CAMERA: Close-up of Alexander's weathered face looking down pensively as he recounts the mission.
+[01:23.00-01:29.00] ALEXANDER (Steady, Focused): "It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies."
+[01:27.00-01:29.80] ACTION: Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.
+[01:29.80-01:31.75] CAMERA: Close-up on his mother, gasping with wide, horrified eyes.
+[01:29.80-01:31.50] ALEXANDER'S MOTHER (Shocked): "A traitor?"

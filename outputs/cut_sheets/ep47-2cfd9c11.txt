@@ -1,0 +1,35 @@
+PROMO ep47-2cfd9c11
+Episode 47 - Episode 47
+Duration: 26.6s   Segments: 2
+Score: 66.7 (heuristic 66.7)
+
+IN / OUT
+  segment 1: 01:03.50 -> 01:15.05  (11.55s)
+  segment 2: 01:24.00 -> 01:39.05  (15.05s)
+
+HOOK      01:03.50  "London closed its doors! My family disowned me!"
+CLIFF     01:36.00  "You want me? As a guest?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 47, 2 segment(s), 27s
+-- segment 1: 01:03.50 to 01:15.05 --
+[01:03.50-01:07.00] CAMERA: Low-angle shot tracking Catherine clutching her chest in agony.
+[01:03.50-01:06.80] CATHERINE (Sobbing, Pleading): "London closed its doors! My family disowned me!"
+[01:07.00-01:11.50] CAMERA: Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment.
+[01:07.20-01:11.20] LADY ASHBOURNE (Cold, Unforgiving): "She aided the poison in my veins. Cast her into the road."
+[01:11.50-01:14.80] CAMERA: Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind.
+[01:11.80-01:14.80] VAUGHN (Gruff, Ready): "One command, Your Grace, and I drag her past the gates."
+[01:14.80-01:15.05] CAMERA: Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him.
+-- segment 2: 01:24.00 to 01:39.05 --
+[01:24.00-01:26.50] ALEXANDER (Indignant, Protective): "Juliana, she tried to destroy you!"
+[01:26.50-01:28.00] CAMERA: Close-up of Juliana maintaining serene poise.
+[01:26.70-01:27.80] JULIANA (Calm, Composed): "She did."
+[01:28.00-01:31.00] CAMERA: Medium tracking shot as Juliana steps gracefully past Alexander toward Catherine.
+[01:28.20-01:31.00] JULIANA (Dignified, Principled): "But Ashbourne does not throw beggars into the mud."
+[01:31.00-01:35.00] ACTION: Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.
+[01:31.50-01:35.00] JULIANA (Steely, Direct): "If you seek shelter in this house, Catherine, you earn it."
+[01:35.50-01:38.80] CAMERA: Close-up of Catherine's face turning from despair to offended shock.
+[01:36.00-01:38.80] CATHERINE (Incredulous, Stunned): "You want me? As a guest?"
+[01:38.80-01:39.05] CAMERA: Close-up of Juliana staring straight into Catherine's eyes without blinking.

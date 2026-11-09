@@ -1,0 +1,43 @@
+PROMO ep07-8ed0b427
+Episode 7 - Episode 7
+Duration: 49.5s   Segments: 1
+Score: 63.83 (heuristic 63.83)
+
+IN / OUT
+  segment 1: 00:22.00 -> 01:11.45  (49.45s)
+
+HOOK      00:22.00  "This is where you live now?"
+CLIFF     01:09.50  "Where is that beggar husband?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 7, 1 segment(s), 49s
+[00:22.00-00:24.50] ARISTOCRATIC WOMAN (Mocking, Condescending): "This is where you live now?"
+[00:24.50-00:29.80] CAMERA: Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully.
+[00:25.00-00:29.80] GERALD (Arrogant, Scornful): "A fitting home for a woman who threw away everything for a penniless soldier."
+[00:29.80-00:32.80] CAMERA: Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair.
+[00:30.00-00:32.60] JULIANA (Sharp, Unintimidated): "You came all this way just to insult my home?"
+[00:32.80-00:37.50] CAMERA: Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol.
+[00:33.20-00:37.80] ARISTOCRATIC WOMAN (Gloating, Mocking): "Home? Look at your hands, Juliana."
+[00:37.80-00:39.80] CAMERA: Close-up of Juliana's mud-stained palms held open against her apron.
+[00:38.20-00:39.80] ARISTOCRATIC WOMAN (Cruel): "You look like a servant."
+[00:39.80-00:41.00] CAMERA: Close-up of Gerald's smug expression watching Juliana.
+[00:41.00-00:45.00] CAMERA: Medium close-up of Juliana lifting her chin with unwavering dignity.
+[00:41.20-00:44.80] JULIANA (Proud, Resolute): "I work with my hands. There is no shame in that."
+[00:45.00-00:47.00] CAMERA: Close-up on Gerald's tightening jaw.
+[00:45.20-00:46.80] GERALD (Biting, Condescending): "You were born a lady."
+[00:47.00-00:50.80] CAMERA: Close-up on Juliana's clear blue eyes, shining with unbroken pride.
+[00:48.80-00:50.40] JULIANA (Firm, Unapologetic): "And I remain one."
+[00:50.80-00:54.80] CAMERA: Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.
+[00:51.50-00:54.60] GERALD (Bitter, Sneering): "You chose that scarred beggar over a life of comfort."
+[00:54.80-01:01.50] CAMERA: Two-shot profile of Juliana looking straight into Gerald's eyes without flinching.
+[00:57.80-01:01.00] JULIANA (Passionate, Defiant): "I chose a man who stood beside me when you walked away."
+[01:01.50-01:05.20] CAMERA: Intense close-up of Juliana dismissing him with utter contempt.
+[01:01.80-01:04.80] JULIANA (Cold, Commanding): "You have no authority here. Leave."
+[01:05.20-01:09.50] CAMERA: Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face.
+[01:05.60-01:08.50] GERALD (Furious, Threatening): "I have enough influence to make a beggar disappear."
+[01:08.60-01:09.50] GERALD (Spiteful, Boastful): "And your husband?"
+[01:09.50-01:11.45] CAMERA: Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist.
+[01:09.50-01:11.20] GERALD (Snarl): "Where is that beggar husband?"
+[01:10.00-01:11.45] ACTION: The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.

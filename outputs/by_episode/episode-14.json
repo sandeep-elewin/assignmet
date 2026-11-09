@@ -1,0 +1,61 @@
+{
+  "episode": 14,
+  "label": "Episode 14",
+  "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+  "continuity_notes": "Picks up immediately from Episode 13's cliffhanger where Juliana grasped the emerald ring beneath the razor-sharp blackthorns.",
+  "duration_s": 87.63,
+  "candidates_considered": 4,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep14-e79ae232",
+      "rank": null,
+      "episode": 14,
+      "episode_label": "Episode 14",
+      "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 0.5,
+          "end": 25.25,
+          "start_tc": "00:00.50",
+          "end_tc": "00:25.25",
+          "duration": 24.75
+        }
+      ],
+      "clip_duration": 24.75,
+      "hook": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signe…",
+      "cliffhanger": "\"What have they done to you?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 68.58,
+      "heuristic_score": 68.58,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.6,
+        "cliffhanger": 0.78,
+        "standalone": 0.77,
+        "arc": 0.666,
+        "pacing": 0.857
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, CONSTABLE, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "CONSTABLE",
+          "ALEXANDER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 14, 1 segment(s), 25s\n[00:00.50-00:05.50] ACTION: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.\n[00:01.00-00:05.50] SOUND: Eerie cold wind whistling over the briars with deep, atmospheric cello chords.\n[00:05.60-00:09.50] CAMERA: Medium close-up of Juliana stepping out from the briar patch, her cloak torn, cheeks scratched, holding the ring outward with unwavering resolve.\n[00:07.70-00:09.00] JULIANA (Exhausted, Resolute): \"I found it.\"\n[00:09.50-00:13.50] CAMERA: Wide shot of Juliana holding the ring out toward the austere Police Constable standing guard beside the frozen garden.\n[00:10.50-00:12.70] JULIANA (Firm, Commanding): \"Now release my husband.\"\n[00:12.50-00:13.50] ACTION: The Constable takes the ring from her bloodied fingers.\n[00:13.50-00:15.50] CAMERA: Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop.\n[00:14.20-00:15.40] SOUND: Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.\n[00:14.50-00:15.60] ACTION: The Constable unlocks the cuffs, freeing Alexander's large hands.\n[00:15.60-00:18.50] CAMERA: Tracking shot as Alexander lunges forward without hesitation, rushing past the Constable straight to Juliana.\n[00:16.80-00:18.00] ALEXANDER (Gasping, Urgent): \"Juliana.\"\n[00:18.50-00:23.00] CAMERA: Close-up on Alexander's rugged hands tenderly grasping Juliana's bloodied, lacerated hands, turning them over with immense care.\n[00:18.80-00:23.00] ACTION: Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.\n[00:23.00-00:25.25] CAMERA: Close-up on Alexander's agonized, furious expression as he stares at her wounds.\n[00:23.10-00:25.00] ALEXANDER (Trembling, Heartbroken): \"What have they done to you?\""
+    }
+  ]
+}

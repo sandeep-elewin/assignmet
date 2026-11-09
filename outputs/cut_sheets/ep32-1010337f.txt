@@ -1,0 +1,43 @@
+PROMO ep32-1010337f
+Episode 32 - Episode 32
+Duration: 36.3s   Segments: 1
+Score: 64.04 (heuristic 64.04)
+
+IN / OUT
+  segment 1: 00:43.40 -> 01:19.65  (36.25s)
+
+HOOK      00:43.40  "You still think you are better?!"
+CLIFF     01:17.80  "Your soldier?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 32, 1 segment(s), 36s
+[00:43.40-00:45.40] CATHERINE (Furious, Shouting): "You still think you are better?!"
+[00:43.50-00:45.50] CAMERA: Extreme close-up of Catherine, baring her teeth in outrage.
+[00:45.50-00:47.80] CAMERA: Medium shot of Juliana, her chained hands clasped together in her lap.
+[00:45.60-00:47.40] JULIANA (Serene, Grounded): "I know what I am."
+[00:47.80-00:49.00] CAMERA: Medium shot of Catherine scoffing with forced, derisive laughter.
+[00:47.80-00:49.00] CATHERINE (Sneering, Mocking): "A disgraced woman?"
+[00:49.00-00:52.50] CAMERA: Close-up of Juliana speaking with undeniable strength.
+[00:49.20-00:52.40] JULIANA (Unwavering): "A woman who survived. You cannot destroy me."
+[00:52.50-00:54.40] CAMERA: Close-up of Catherine brandishing the glowing tong in Juliana's face, spittle flying from her lips.
+[00:52.80-00:54.20] CATHERINE (Screaming, Enraged): "You are lying!"
+[00:54.40-00:58.00] CAMERA: Close-up of Juliana looking straight up, voice steady and clear.
+[00:54.60-00:58.00] JULIANA (Measured, Emphatic): "Gerald leaving me was the best thing he ever did for me."
+[00:58.00-01:00.80] CAMERA: Full shot of the dungeon cell. Catherine stands rigidly tall while Juliana sits shackled on the ground.
+[00:58.20-01:01.00] JULIANA (Contemplative, Scathing): "He wanted a woman who looked beautiful beside his wealth."
+[01:00.80-01:04.50] CAMERA: Extreme close-up of Juliana's expressive blue eyes and tear-stained cheek.
+[01:01.10-01:06.80] JULIANA (Passionate, Clear): "He wanted a wife whose family could raise his name. He measured a woman's worth by what she could give him."
+[01:04.50-01:07.00] CAMERA: Low-angle shot of Juliana leaning slightly forward against her chains.
+[01:07.00-01:09.00] CAMERA: Close-up of Catherine staring down, her eyes widening as Juliana's words pierce her facade.
+[01:07.20-01:08.90] JULIANA (Unapologetic, Victorious): "Let him have Clarissa."
+[01:09.00-01:11.20] CAMERA: Close-up of Juliana smiling with genuine liberation.
+[01:09.60-01:11.20] JULIANA (Proud): "He lost me."
+[01:11.20-01:13.30] CAMERA: Extreme close-up of Catherine's face contorting in sheer fury.
+[01:11.30-01:13.20] CATHERINE (Shrieking, Vicious): "You were rejected!"
+[01:13.30-01:15.50] CAMERA: Close-up of Juliana's calm, resolute face.
+[01:13.40-01:17.60] JULIANA (Grounded, Powerful): "I was freed. And I found a man who never asked me what I was worth."
+[01:15.50-01:17.50] CAMERA: Wide shot of the cell, steam rising faintly in the cold subterranean air.
+[01:17.50-01:19.65] CAMERA: Close-up of Catherine sneering with dripping condescension.
+[01:17.80-01:19.40] CATHERINE (Disdainful): "Your soldier?"

@@ -1,0 +1,42 @@
+PROMO ep12-0ac6445a
+Episode 12 - Episode 12
+Duration: 38.0s   Segments: 1
+Score: 64.02 (heuristic 64.02)
+
+IN / OUT
+  segment 1: 00:05.70 -> 00:43.75  (38.05s)
+
+HOOK      00:05.70  "No! That watch was not in his coat!"
+CLIFF     00:42.20  "What do you want?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 12, 1 segment(s), 38s
+[00:05.70-00:08.80] JULIANA (Furious, Defiant): "No! That watch was not in his coat!"
+[00:09.10-00:11.80] CAMERA: Close-up of the Constable narrowing his eyes coldly at Juliana.
+[00:10.00-00:11.70] CONSTABLE (Blunt, Unyielding): "I found it there myself."
+[00:11.80-00:13.90] CAMERA: Close-up of Juliana glaring back with unwavering conviction.
+[00:12.30-00:13.90] JULIANA (Passionate, Accusatory): "Then someone put it there!"
+[00:13.90-00:20.80] CAMERA: Medium full shot of Gerald framed in the open cottage doorway holding his riding crop, stepping inside with a patronizing, gloating grin.
+[00:14.30-00:20.60] GERALD (Smug, Condescending): "The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket."
+[00:20.80-00:23.70] CAMERA: Close-up of Alexander, his scarred brow furrowed in dark, quiet defiance.
+[00:21.60-00:23.60] ALEXANDER (Low, Steady, Dangerous): "I have never touched your property."
+[00:23.70-00:26.90] CAMERA: Medium shot of Gerald pointing his riding crop toward them, with Clarissa hovering behind him in her violet silk gown.
+[00:23.70-00:26.80] GERALD (Mocking, Malicious): "Then perhaps your wife should explain why it was found in your coat."
+[00:26.80-00:28.00] ACTION: Juliana lunges a step forward, jabbing an accusing finger toward Gerald.
+[00:26.80-00:27.90] JULIANA (Enraged, Shouting): "You planted it!"
+[00:28.00-00:29.80] CAMERA: Medium shot of Clarissa gliding past Gerald, a venomous, amused smile playing upon her lips.
+[00:28.10-00:30.00] CLARISSA (Purring, Taunting): "Oh, dear sister..."
+[00:29.80-00:31.00] CAMERA: Tight shot of Alexander's hand clenching into a tight, trembling fist against the glow of the roaring fireplace.
+[00:30.00-00:32.40] CLARISSA (Continuing taunt): "...still defending your broken scrap of a man?"
+[00:31.00-00:32.40] CAMERA: Close-up of Alexander glaring daggers at Clarissa.
+[00:32.40-00:35.30] CAMERA: Medium close-up of Juliana, her eyes narrowing with sharp perception.
+[00:32.40-00:35.20] JULIANA (Steely, Resolute): "Name your price, Clarissa. I know you."
+[00:35.30-00:40.00] CAMERA: Medium close-up of Clarissa smiling with vicious delight.
+[00:35.40-00:40.00] CLARISSA (Smooth, Derisive): "You always were clever, Juliana. Always searching for some way to escape."
+[00:40.00-00:41.80] CAMERA: Tight shot of Clarissa smoothing her long purple evening glove along her wrist.
+[00:40.10-00:41.50] CLARISSA (Scheming): "Perhaps I can give you one."
+[00:41.80-00:43.70] CAMERA: Close-up of Juliana watching her with cautious skepticism.
+[00:42.20-00:43.50] JULIANA (Guarded, Cold): "What do you want?"
+[00:43.70-00:43.75] CAMERA: Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.

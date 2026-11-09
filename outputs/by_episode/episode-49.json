@@ -1,0 +1,66 @@
+{
+  "episode": 49,
+  "label": "Episode 49",
+  "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+  "continuity_notes": "Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous.",
+  "duration_s": 144.75,
+  "candidates_considered": 13,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "hook too weak (0.40 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep49-51a36844",
+      "rank": null,
+      "episode": 49,
+      "episode_label": "Episode 49",
+      "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 94.4,
+          "end": 124.75,
+          "start_tc": "01:34.40",
+          "end_tc": "02:04.75",
+          "duration": 30.35
+        }
+      ],
+      "clip_duration": 30.35,
+      "hook": "\"I want eyes and ears everywhere that decides my future.\"",
+      "cliffhanger": "\"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\"",
+      "why_it_works": "opening is the weak point; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 63.69,
+      "heuristic_score": 63.69,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.4,
+        "cliffhanger": 0.78,
+        "standalone": 0.69,
+        "arc": 0.767,
+        "pacing": 0.652
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of CATHERINE, FATHER THOMAS, PRIEST"
+        ],
+        "prior_knowledge_entities": [
+          "FATHER THOMAS",
+          "CATHERINE",
+          "PRIEST"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "hook too weak (0.40 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 49, 1 segment(s), 30s\n[01:34.40-01:37.80] CATHERINE (Haughty, Imperious): \"I want eyes and ears everywhere that decides my future.\"\n[01:38.00-01:43.80] CAMERA: Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway.\n[01:38.20-01:42.50] ACTION: Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.\n[01:38.30-01:43.20] CATHERINE (Bitterly Resolute): \"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\"\n[01:43.80-01:53.00] CAMERA: Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern.\n[01:44.20-01:52.80] FATHER THOMAS (Wary, Grave): \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"\n[01:53.00-01:58.00] CAMERA: Medium two-shot tracking closer as Catherine steps closer toward him.\n[01:53.20-01:57.80] CATHERINE (Seductive, Reassuring): \"Then make certain he doesn't find out. You're careful. I've seen how careful.\"\n[01:58.00-02:04.75] CAMERA: Tight close-up on Father Thomas's intense, brooding face.\n[01:58.20-02:04.50] FATHER THOMAS (Stern, Stark): \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\""
+    }
+  ]
+}

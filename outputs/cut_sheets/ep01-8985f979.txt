@@ -1,0 +1,36 @@
+PROMO ep01-8985f979
+Episode 1 - Episode 1
+Duration: 30.5s   Segments: 1
+Score: 70.54 (heuristic 70.54)
+
+IN / OUT
+  segment 1: 01:47.50 -> 02:18.00  (30.5s)
+
+HOOK      01:47.50  "You are the daughter people tolerate because they have to."
+CLIFF     02:17.00  Cut to black.
+
+WHY       opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 1, 1 segment(s), 30s
+[01:47.50-01:50.80] LADY IN GOLD GOWN (Viciously Calm): "You are the daughter people tolerate because they have to."
+[01:50.00-01:53.00] CAMERA: Close-up on Juliana absorbing the venomous words, her breathing shallow.
+[01:51.10-01:53.00] LADY IN GOLD GOWN (Gloating): "I am the daughter they choose."
+[01:53.00-01:55.20] CAMERA: Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles.
+[01:53.30-01:55.70] MATRIARCH (Firm): "Clarissa is the jewel of this family."
+[01:55.20-01:57.00] CAMERA: Close two-shot of the Matriarch and Juliana standing side by side in profile.
+[01:57.00-01:59.50] CAMERA: Medium shot framing Juliana looking directly at Gerald, who towers over her coldly.
+[01:57.00-01:59.00] LADY JULIANA (Trembling, Dignified): "So that is what I was worth to you?"
+[01:59.50-02:02.50] CAMERA: Close-up on Gerald's sharp jawline as he looks down at her without an ounce of remorse.
+[01:59.80-02:02.30] THE FORMER GROOM (Scornful, Hard): "You have nothing to offer me anymore."
+[02:02.50-02:04.20] CAMERA: Extreme close-up on Juliana's eye as a single tear rolls down her cheek.
+[02:04.20-02:08.50] CAMERA: Full shot tracking Gerald as he turns his back on Juliana and walks back toward Clarissa and the altar.
+[02:04.20-02:07.50] THE FORMER GROOM (Arrogant, Dismissive): "I cannot marry a woman of such plainness and low value..."
+[02:08.50-02:11.30] CAMERA: Close-up on Clarissa's radiant, conceited smile basking in Gerald's words.
+[02:08.50-02:11.20] THE FORMER GROOM (Reverent toward Clarissa): "...when Clarissa is the true jewel of the county."
+[02:11.30-02:13.80] ACTION: Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.
+[02:11.30-02:13.80] CAMERA: Tight insert on Juliana's white-knuckled hand clutching the gown fabric.
+[02:13.80-02:17.00] CAMERA: Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance.
+[02:13.80-02:17.00] ACTION: Juliana breathes through the agony, refusing to break down further in front of the congregation.
+[02:15.00-02:17.50] SOUND: Solemn low-pitched string drone swells to an ominous cliffhanger peak.
+[02:17.00-02:18.00] CAMERA: Cut to black.

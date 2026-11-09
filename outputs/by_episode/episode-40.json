@@ -1,0 +1,66 @@
+{
+  "episode": 40,
+  "label": "Episode 40",
+  "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.",
+  "continuity_notes": "Picks up right after Alexander commands his men to secure the chapel and vows to reclaim his house and rescue Juliana; inside the cathedral, the wedding guests arrive and the conspirators finalize their sinister plot.",
+  "duration_s": 110.08,
+  "candidates_considered": 12,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "no real cliffhanger (0.05 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep40-ccbb0882",
+      "rank": null,
+      "episode": 40,
+      "episode_label": "Episode 40",
+      "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 23.2,
+          "end": 48.55,
+          "start_tc": "00:23.20",
+          "end_tc": "00:48.55",
+          "duration": 25.35
+        }
+      ],
+      "clip_duration": 25.35,
+      "hook": "\"Imagine Juliana seeing this.\"",
+      "cliffhanger": "\"And everything that comes after it.\"",
+      "why_it_works": "opens on a clear dramatic question; ends without a real cliffhanger; reads clean to a first-time viewer.",
+      "score": 43.67,
+      "heuristic_score": 43.67,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.545,
+        "cliffhanger": 0.048,
+        "standalone": 0.82,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of HARRINGTON, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "HARRINGTON",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "no real cliffhanger (0.05 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 40, 1 segment(s), 25s\n[00:23.20-00:26.00] LADY HARRINGTON (Malicious, Taunting): \"Imagine Juliana seeing this.\"\n[00:26.20-00:30.00] CAMERA: Tight close-up of Lord Harrington looking down at her, his expression cold and ruthless.\n[00:26.20-00:28.90] LORD HARRINGTON (Sinister, Dismissive): \"She won't be seeing anything for long.\"\n[00:29.00-00:29.90] LADY HARRINGTON (Pleased, Cold): \"Good.\"\n[00:30.10-00:33.20] LORD HARRINGTON (Chuckling, Scornful): \"This place has always been unlucky for Juliana.\"\n[00:32.80-00:34.20] ACTION: Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors.\n[00:34.20-00:40.50] CAMERA: Dramatic tracking shot following Lord and Lady Harrington from behind as they stride down the candlelit aisle of the cathedral toward their reserved pew.\n[00:34.40-00:39.00] LADY HARRINGTON (Vindictive, Pious): \"She stands beneath God's watch and still gets exactly what she deserves.\"\n[00:40.50-00:42.20] ACTION: Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments.\n[00:40.50-00:45.20] CAMERA: Medium profile shot of the couple seated in the pew, looking toward the grand altar.\n[00:42.00-00:44.00] LADY HARRINGTON (Anticipatory, Eager): \"We have an excellent view.\"\n[00:44.10-00:45.20] LORD HARRINGTON (Inquiring, Subdued): \"Of the wedding?\"\n[00:45.20-00:48.55] CAMERA: Close-up two-shot as Lady Harrington turns her head toward Lord Harrington with a dark, knowing smirk.\n[00:45.30-00:48.30] LADY HARRINGTON (Chilling, Sarcastic): \"And everything that comes after it.\""
+    }
+  ]
+}

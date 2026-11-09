@@ -1,0 +1,45 @@
+PROMO ep03-66e37cbd
+Episode 3 - Episode 3
+Duration: 31.2s   Segments: 1
+Score: 63.17 (heuristic 63.17)
+
+IN / OUT
+  segment 1: 01:00.60 -> 01:31.85  (31.25s)
+
+HOOK      01:00.60  "Let me go!"
+CLIFF     01:30.40  "Are you hurt?"
+
+WHY       opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 3, 1 segment(s), 31s
+[01:00.60-01:02.30] LADY JULIANA (Screaming, Resisting): "Let me go!"
+[01:02.00-01:03.20] CAMERA: Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain.
+[01:02.40-01:03.50] LADY JULIANA (Desperate, Begging): "Please! Someone!"
+[01:03.00-01:04.50] ACTION: The guards tear her grip away from the pew.
+[01:03.00-01:04.50] SOUND: Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.
+[01:04.50-01:06.00] CAMERA: High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana.
+[01:06.00-01:08.10] CAMERA: Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave.
+[01:06.00-01:08.10] ACTION: The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing.
+[01:08.10-01:10.50] CAMERA: Close-up on the Noble Matriarch freezing in utter shock and outrage.
+[01:09.90-01:12.10] THE BEARDED STRANGER (Low, Thunderous, Imposing): "Take your hands off her."
+[01:10.50-01:12.80] CAMERA: Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose.
+[01:12.80-01:15.10] CAMERA: Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him.
+[01:13.00-01:16.80] NOBLE MATRIARCH (Indignant, Screeching): "And who are you to give orders in my family's chapel?!"
+[01:15.10-01:17.00] CAMERA: High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle.
+[01:17.00-01:19.00] CAMERA: Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him.
+[01:17.20-01:18.90] ROYAL GUARD (Aggressive, Threatening): "Stand aside, stranger!"
+[01:19.00-01:21.00] CAMERA: Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve.
+[01:19.30-01:20.90] THE BEARDED STRANGER (Quiet, Deadly): "I said..."
+[01:21.00-01:24.00] CAMERA: Close-up on The Bearded Stranger's intense, scarred face.
+[01:21.80-01:23.90] THE BEARDED STRANGER (Dangerous, Uncompromising): "...let her go."
+[01:24.00-01:25.50] CAMERA: Medium action shot as the guard charges toward The Bearded Stranger.
+[01:24.00-01:25.50] ACTION: The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.
+[01:24.50-01:25.40] SOUND: A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.
+[01:25.50-01:28.10] CAMERA: Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking.
+[01:25.60-01:28.00] THE FORMER GROOM (Frantic, Shouting): "What are you waiting for?! He's only one man!"
+[01:28.10-01:29.30] CAMERA: Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana.
+[01:29.30-01:31.70] CAMERA: Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness.
+[01:30.40-01:31.60] THE BEARDED STRANGER (Gentle, Protective): "Are you hurt?"
+[01:31.70-01:31.85] CAMERA: Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder.
+[01:31.80-01:31.85] ACTION: Juliana softly shakes her head 'no', her wide blue eyes locked onto him.

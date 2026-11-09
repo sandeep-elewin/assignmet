@@ -1,0 +1,65 @@
+{
+  "episode": 6,
+  "label": "Episode 6",
+  "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+  "continuity_notes": "Picks up immediately from Episode 5, as Juliana and her mysterious new husband leave the Ashcroft estate behind and venture out into the rainy countryside.",
+  "duration_s": 115.0,
+  "candidates_considered": 9,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "hook too weak (0.34 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep06-0efa6f69",
+      "rank": null,
+      "episode": 6,
+      "episode_label": "Episode 6",
+      "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 24.0,
+          "end": 60.25,
+          "start_tc": "00:24.00",
+          "end_tc": "01:00.25",
+          "duration": 36.25
+        }
+      ],
+      "clip_duration": 36.25,
+      "hook": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty…",
+      "cliffhanger": "\"You are not disappointed?\"",
+      "why_it_works": "opening is the weak point; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.",
+      "score": 60.25,
+      "heuristic_score": 60.25,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.34,
+        "cliffhanger": 0.6,
+        "standalone": 0.82,
+        "arc": 0.698,
+        "pacing": 0.937
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of JULIANA, MYSTERIOUS BEARDED MAN"
+        ],
+        "prior_knowledge_entities": [
+          "MYSTERIOUS BEARDED MAN",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "hook too weak (0.34 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 6, 1 segment(s), 36s\n[00:24.00-00:26.10] CAMERA: Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees.\n[00:24.50-00:26.10] ACTION: They walk forward toward the cottage emerging from the dark woods.\n[00:26.10-00:27.90] CAMERA: Medium close-up on Juliana's face, wide-eyed with realization.\n[00:26.50-00:27.70] JULIANA (Surprised, Hesitant): \"That is it?\"\n[00:27.90-00:29.20] CAMERA: Medium close-up on the Mysterious Bearded Man.\n[00:28.10-00:29.00] MYSTERIOUS BEARDED MAN (Low): \"Yes.\"\n[00:29.20-00:30.10] CAMERA: Upward shot of rain pelting through the thick treetops.\n[00:29.20-00:30.50] SOUND: Sudden distant rumble of thunder echoing across the forest.\n[00:30.10-00:33.00] CAMERA: Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door.\n[00:30.15-00:33.15] JULIANA (Determined, Defiant): \"At least no one there will be waiting to humiliate me.\"\n[00:33.00-00:33.70] CAMERA: Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective.\n[00:33.70-00:36.70] ACTION: The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room.\n[00:33.80-00:36.50] SOUND: Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards.\n[00:36.70-00:37.70] CAMERA: Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling.\n[00:36.70-00:40.00] SOUND: Rhythmic water drips plinking into the metal-rimmed wooden bucket.\n[00:37.70-00:40.00] CAMERA: Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them.\n[00:40.00-00:42.00] CAMERA: Medium close-up of the Mysterious Bearded Man standing in the dim light by the door.\n[00:40.70-00:41.90] MYSTERIOUS BEARDED MAN (Humble, Apologetic): \"I am sorry.\"\n[00:42.00-00:43.30] CAMERA: Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings.\n[00:43.30-00:46.40] CAMERA: Medium close-up of the Mysterious Bearded Man looking at her with somber honesty.\n[00:43.60-00:45.00] MYSTERIOUS BEARDED MAN (Grave, Sincere): \"You came from comfort.\"\n[00:45.10-00:47.30] MYSTERIOUS BEARDED MAN (Grave, Sincere): \"This is all I can give you now.\"\n[00:46.40-00:48.80] CAMERA: Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders.\n[00:46.60-00:49.00] ACTION: Juliana removes her dark cloak, revealing her damp white bridal dress underneath.\n[00:48.80-00:51.10] CAMERA: Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane.\n[00:51.10-00:54.80] CAMERA: Side profile shot of Juliana looking out the rain-streaked window into the quiet forest.\n[00:51.30-00:52.70] JULIANA (Gentle, Peaceful): \"It is quiet.\"\n[00:53.30-00:54.60] JULIANA (Gentle, Peaceful): \"Very quiet.\"\n[00:54.80-00:56.20] CAMERA: Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively.\n[00:56.20-00:58.20] CAMERA: Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face.\n[00:56.40-00:58.00] JULIANA (Earnest, Content): \"I think I like that.\"\n[00:58.20-00:59.80] CAMERA: Close-up of the Mysterious Bearded Man, slightly surprised by her reaction.\n[00:58.40-01:00.00] MYSTERIOUS BEARDED MAN (Incredulous): \"You are not disappointed?\"\n[00:59.80-01:00.25] CAMERA: Medium close-up of Juliana meeting his gaze honestly."
+    }
+  ]
+}

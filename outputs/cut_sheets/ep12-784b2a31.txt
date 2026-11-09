@@ -1,0 +1,29 @@
+PROMO ep12-784b2a31
+Episode 12 - Episode 12
+Duration: 25.5s   Segments: 1
+Score: 55.9 (heuristic 55.9)
+
+IN / OUT
+  segment 1: 00:44.00 -> 01:09.45  (25.45s)
+
+HOOK      00:44.00  "I want to see you crawl, sister."
+CLIFF     01:05.40  "Fail, or refuse, and your husband hangs from the gallows."
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 12, 1 segment(s), 25s
+[00:44.00-00:46.40] CLARISSA (Cruel, Savoring): "I want to see you crawl, sister."
+[00:46.60-00:52.40] CAMERA: Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale.
+[00:46.70-00:52.30] CLARISSA (Theatrical, Vindictive): "My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it..."
+[00:52.40-00:56.80] CAMERA: Close-up of Clarissa flexing her gloved fingers theatrically in front of her face.
+[00:52.40-00:56.70] CLARISSA (Chilling, Sarcastic): "...sharp as steel. The ground is frozen, like pure ice."
+[00:56.80-00:58.00] ACTION: Gerald bursts into a loud, mocking laugh beside the stony Constable.
+[00:56.80-01:00.80] CAMERA: Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile.
+[00:57.30-01:00.60] CLARISSA (Demanding, Brutal): "You will retrieve it with your bare hands before the magistrate arrives."
+[01:00.80-01:03.20] CAMERA: Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable.
+[01:00.80-01:03.10] GERALD (Gleeful, Derisive): "A lady's hands will be shredded to ribbons!"
+[01:03.20-01:05.20] CAMERA: Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury.
+[01:03.30-01:05.10] CLARISSA (Cold, Transactional): "Do it, and we withdraw the charges."
+[01:05.20-01:09.45] CAMERA: Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously.
+[01:05.40-01:09.20] CLARISSA (Whispering, Menacing): "Fail, or refuse, and your husband hangs from the gallows."

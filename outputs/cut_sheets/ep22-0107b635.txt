@@ -1,0 +1,38 @@
+PROMO ep22-0107b635
+Episode 22 - Episode 22
+Duration: 35.0s   Segments: 1
+Score: 74.27 (heuristic 74.27)
+
+IN / OUT
+  segment 1: 01:36.00 -> 02:11.00  (35.0s)
+
+HOOK      01:36.00  "Do not stare. Keep walking."
+CLIFF     02:07.20  "Who has been treating you?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 22, 1 segment(s), 35s
+[01:36.00-01:38.50] ACTION: Prudence rushes into frame, grabbing Juliana's arm to keep her moving.
+[01:36.00-01:38.80] CAMERA: Medium close-up of Prudence whispering frantically into Juliana's ear.
+[01:36.00-01:38.50] PRUDENCE (Panicked, Hushed): "Do not stare. Keep walking."
+[01:38.80-01:42.00] CAMERA: Wide tracking shot behind Lady Juliana as she hastens down the long marble gallery toward the secluded West Wing wing.
+[01:42.00-01:45.50] CAMERA: Medium shot of Lady Juliana standing outside a massive carved mahogany door, glancing around the empty hallway to ensure she is unobserved.
+[01:45.50-01:48.50] ACTION: Lady Juliana reaches out with a trembling hand and quietly turns the ornate brass and glass door knob.
+[01:45.50-01:48.50] CAMERA: Close-up of Lady Juliana's hand twisting the latch handle.
+[01:46.50-01:48.50] SOUND: Faint, muffled click of the heavy door lock turning.
+[01:48.50-01:53.80] CAMERA: Slow tracking shot into the cavernous, shadowy bedchamber. In the center stands an ornate four-poster canopy bed draped in pale silk where a frail, silver-haired figure lies motionless.
+[01:49.00-01:54.00] SOUND: Labored, raspy, shallow breathing echoing in the quiet room.
+[01:53.80-01:56.00] ACTION: Lady Juliana hurries inside, sets the wooden bucket onto the floor, and rushes to the bedside.
+[01:54.00-01:55.50] LADY JULIANA (Gentle, Concerned): "Your Grace?"
+[01:55.50-01:58.20] CAMERA: Close-up of the Dowager Duchess lying propped on pillows, her face gaunt, ashen, and drenched in cold sweat, her eyes half-fluttering.
+[01:58.20-02:00.80] CAMERA: Medium close-up of Lady Juliana taking the Duchess's fragile, cold hands into her own.
+[01:58.20-01:59.80] LADY JULIANA (Soft, Comforting): "Do not speak."
+[02:00.80-02:05.50] CAMERA: Close-up of Lady Juliana checking the Duchess's pulse and gently pressing her fingertips against the Duchess's chest and neck, her herbalist instincts taking over.
+[02:03.00-02:05.80] ACTION: Lady Juliana's eyes widen with sudden, horrifying realization.
+[02:03.50-02:05.80] LADY JULIANA (Shocked, Murmuring): "This isn't ordinary fever."
+[02:05.80-02:07.00] ACTION: The Dowager Duchess suddenly gasps violently for breath, convulsing weakly as her eyes snap open in agony.
+[02:05.80-02:07.00] CAMERA: Close-up of the Duchess gasping in sudden spasms.
+[02:07.00-02:08.80] CAMERA: Intense two-shot as Lady Juliana leans in close, gripping the Duchess's shoulder with urgent desperation.
+[02:07.20-02:08.80] LADY JULIANA (Urgent, Alarmed): "Who has been treating you?"
+[02:08.80-02:11.00] CAMERA: Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up as she chokes for air, the haunting realization of poison lingering as dramatic music hits an abrupt, suspenseful cliffhanger.

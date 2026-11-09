@@ -1,0 +1,67 @@
+{
+  "episode": 50,
+  "label": "Episode 50",
+  "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+  "continuity_notes": "Directly follows Episode 49, where Father Thomas and Catherine sealed their covert alliance in the secluded wing; now, their secret affair deepens into political extortion before being shattered by an unexpected witness.",
+  "duration_s": 80.0,
+  "candidates_considered": 7,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "hook too weak (0.42 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep50-5b9d18f4",
+      "rank": null,
+      "episode": 50,
+      "episode_label": "Episode 50",
+      "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 31.0,
+          "end": 80.0,
+          "start_tc": "00:31.00",
+          "end_tc": "01:20.00",
+          "duration": 49.0
+        }
+      ],
+      "clip_duration": 49.0,
+      "hook": "\"Absolution is free. Discretion has a price.\"",
+      "cliffhanger": "Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the…",
+      "why_it_works": "opening is the weak point; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 61.72,
+      "heuristic_score": 61.72,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.42,
+        "cliffhanger": 0.775,
+        "standalone": 0.6,
+        "arc": 0.756,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of AGNES, CATHERINE, FATHER THOMAS, PRIEST"
+        ],
+        "prior_knowledge_entities": [
+          "FATHER THOMAS",
+          "PRIEST",
+          "AGNES",
+          "CATHERINE"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "hook too weak (0.42 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 50, 1 segment(s), 49s\n[00:31.00-00:35.00] FATHER THOMAS (Steady, Cold): \"Absolution is free. Discretion has a price.\"\n[00:35.80-00:39.80] CAMERA: Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.\n[00:36.50-00:39.40] CATHERINE (Soft, Calculating): \"Unsupervised. In your hands alone.\"\n[00:39.80-00:43.00] CAMERA: Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck.\n[00:40.40-00:42.50] FATHER THOMAS (Grave): \"For as long as it holds.\"\n[00:43.00-00:48.50] CAMERA: Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger.\n[00:43.20-00:48.00] CATHERINE (Softly, Teasing): \"Done. You told yourself this ends when the hearing does.\"\n[00:48.50-00:54.50] CAMERA: Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger.\n[00:49.80-00:54.00] FATHER THOMAS (Chuckle, Resigned): \"I've told myself that since the dawn in your bedchamber, and here we are again.\"\n[00:54.50-00:59.80] CAMERA: Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles.\n[00:54.80-00:56.50] CATHERINE (Murmuring): \"In another room no one uses?\"\n[00:56.80-00:59.20] FATHER THOMAS (Whispering): \"Perhaps I like rooms no one uses.\"\n[00:59.80-01:05.50] CAMERA: Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer.\n[01:00.30-01:04.80] CATHERINE (Low, Carnal): \"Or perhaps discretion isn't the only thing you've developed a taste for.\"\n[01:05.50-01:10.50] CAMERA: Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders.\n[01:05.80-01:10.50] ACTION: Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement.\n[01:10.50-01:13.50] CAMERA: Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern.\n[01:10.80-01:13.50] ACTION: Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall.\n[01:13.50-01:16.50] CAMERA: Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside.\n[01:14.00-01:16.50] ACTION: Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed.\n[01:16.50-01:18.50] CAMERA: Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror.\n[01:16.80-01:18.50] ACTION: Agnes's jaw drops open in shock as she stifles a cry.\n[01:17.20-01:18.60] SOUND: Sharp, terrified gasp catching in Agnes's throat.\n[01:18.50-01:20.00] CAMERA: Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black."
+    }
+  ]
+}

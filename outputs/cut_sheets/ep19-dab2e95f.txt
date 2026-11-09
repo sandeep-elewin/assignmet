@@ -1,0 +1,43 @@
+PROMO ep19-dab2e95f
+Episode 19 - Episode 19
+Duration: 52.8s   Segments: 1
+Score: 63.22 (heuristic 63.22)
+
+IN / OUT
+  segment 1: 00:28.50 -> 01:21.25  (52.75s)
+
+HOOK      00:28.50  "Thank you."
+CLIFF     01:19.00  "And everyone believes you are dead."
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 19, 1 segment(s), 53s
+[00:28.50-00:29.80] JULIANA (Whispering, Tearful): "Thank you."
+[00:30.80-00:34.50] ACTION: Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager.
+[00:31.20-00:33.20] ALEXANDER (Deep, Solemn): "We will not forget this kindness."
+[00:33.30-00:34.80] ELDER VILLAGER (Nodding, Earnest): "Neither will the village."
+[00:34.80-00:38.20] CAMERA: Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.
+[00:35.50-00:37.40] JULIANA (Choked Up, Mournful): "Goodbye, Blackwood."
+[00:38.00-00:41.50] ACTION: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.
+[00:41.50-00:44.20] CAMERA: Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest.
+[00:43.00-00:46.00] ACTION: A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.
+[00:44.30-00:45.80] INFORMANT (Subservient, Urgent): "Your Grace."
+[00:46.00-00:49.20] CAMERA: Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.
+[00:47.10-00:49.20] ALEXANDER (Authoritative, Direct): "Tell me what is happening in Ashburg."
+[00:49.50-00:54.80] INFORMANT (Grave, Cautious): "Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+[00:55.30-01:01.40] CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.
+[00:55.30-01:01.30] INFORMANT: "Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+[01:01.40-01:04.80] CAMERA: Medium shot of the bald informant standing among the towering trees, reporting solemnly.
+[01:01.60-01:04.80] INFORMANT (Earnest): "And Lady Catherine, she behaves as though she is already the future duchess."
+[01:04.80-01:10.60] CAMERA: Close-up of the informant, his voice dropping into urgent, discreet concern.
+[01:05.10-01:10.50] INFORMANT (Whispering, Alarmed): "But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+[01:10.60-01:13.30] CAMERA: Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence.
+[01:10.90-01:13.20] INFORMANT: "There are almost no loyal servants left around her."
+[01:13.30-01:16.20] CAMERA: Low-angle shot past Alexander toward the informant.
+[01:13.50-01:16.40] INFORMANT (Grave): "The people who served your family for years have been dismissed, frightened away, or replaced."
+[01:16.20-01:18.80] ACTION: Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.
+[01:16.50-01:18.80] ALEXANDER (Cold, Pained Fury): "My mother is a prisoner in her own house."
+[01:18.80-01:21.20] CAMERA: Close-up of the informant looking steadily at Alexander.
+[01:19.00-01:21.00] INFORMANT (Quiet, Solemn): "And everyone believes you are dead."
+[01:21.20-01:21.25] CAMERA: Extreme close-up of Alexander's scarred eye and grimly set mouth.

@@ -1,0 +1,31 @@
+PROMO ep14-e79ae232
+Episode 14 - Episode 14
+Duration: 24.8s   Segments: 1
+Score: 68.58 (heuristic 68.58)
+
+IN / OUT
+  segment 1: 00:00.50 -> 00:25.25  (24.75s)
+
+HOOK      00:00.50  Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.
+CLIFF     00:23.10  "What have they done to you?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 14, 1 segment(s), 25s
+[00:00.50-00:05.50] ACTION: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.
+[00:01.00-00:05.50] SOUND: Eerie cold wind whistling over the briars with deep, atmospheric cello chords.
+[00:05.60-00:09.50] CAMERA: Medium close-up of Juliana stepping out from the briar patch, her cloak torn, cheeks scratched, holding the ring outward with unwavering resolve.
+[00:07.70-00:09.00] JULIANA (Exhausted, Resolute): "I found it."
+[00:09.50-00:13.50] CAMERA: Wide shot of Juliana holding the ring out toward the austere Police Constable standing guard beside the frozen garden.
+[00:10.50-00:12.70] JULIANA (Firm, Commanding): "Now release my husband."
+[00:12.50-00:13.50] ACTION: The Constable takes the ring from her bloodied fingers.
+[00:13.50-00:15.50] CAMERA: Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop.
+[00:14.20-00:15.40] SOUND: Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.
+[00:14.50-00:15.60] ACTION: The Constable unlocks the cuffs, freeing Alexander's large hands.
+[00:15.60-00:18.50] CAMERA: Tracking shot as Alexander lunges forward without hesitation, rushing past the Constable straight to Juliana.
+[00:16.80-00:18.00] ALEXANDER (Gasping, Urgent): "Juliana."
+[00:18.50-00:23.00] CAMERA: Close-up on Alexander's rugged hands tenderly grasping Juliana's bloodied, lacerated hands, turning them over with immense care.
+[00:18.80-00:23.00] ACTION: Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.
+[00:23.00-00:25.25] CAMERA: Close-up on Alexander's agonized, furious expression as he stares at her wounds.
+[00:23.10-00:25.00] ALEXANDER (Trembling, Heartbroken): "What have they done to you?"

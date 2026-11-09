@@ -1,0 +1,36 @@
+PROMO ep41-bdb16ed2
+Episode 41 - Episode 41
+Duration: 38.3s   Segments: 1
+Score: 70.14 (heuristic 70.14)
+
+IN / OUT
+  segment 1: 00:57.80 -> 01:36.09  (38.29s)
+
+HOOK      00:57.80  Tight close-up on Juliana's bruised, unshaken face.
+CLIFF     01:32.00  Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 41, 1 segment(s), 38s
+[00:57.80-01:00.80] CAMERA: Tight close-up on Juliana's bruised, unshaken face.
+[00:58.00-01:00.50] JULIANA (Defiant, Unbowed): "You needed an entire chapel to feel powerful over one chained woman?"
+[01:00.80-01:04.00] CAMERA: Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains.
+[01:01.00-01:03.50] CATHERINE (Murmured, Cold): "Still arrogant. Still standing."
+[01:04.00-01:08.50] CAMERA: Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her.
+[01:04.50-01:05.40] CATHERINE (Dismissive): "Come."
+[01:08.50-01:10.50] CAMERA: Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion.
+[01:10.50-01:15.00] CAMERA: Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate.
+[01:10.50-01:14.80] CATHERINE (Intimate, Ambitious): "Soon, there will be nothing left between us and the Ashburgh title."
+[01:15.00-01:17.50] CAMERA: Close-up of Rupert's face breaking into a calculating, ambitious grin.
+[01:15.80-01:17.00] BLOND NOBLEMAN (Quietly Triumphant): "Nothing."
+[01:17.50-01:20.50] CAMERA: Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine.
+[01:18.00-01:19.30] PRIEST (Solemn, Polite): "Shall we?"
+[01:20.50-01:21.80] CAMERA: Wide shot centered down the aisle toward the massive closed entrance doors.
+[01:21.00-01:25.50] SOUND: Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.
+[01:21.80-01:24.00] ACTION: A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.
+[01:21.80-01:24.50] CAMERA: Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down.
+[01:24.50-01:28.50] CAMERA: Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock.
+[01:28.50-01:32.00] CAMERA: Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her.
+[01:29.00-01:33.50] ACTION: Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.
+[01:32.00-01:36.09] CAMERA: Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.

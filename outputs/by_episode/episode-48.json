@@ -1,0 +1,66 @@
+{
+  "episode": 48,
+  "label": "Episode 48",
+  "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+  "continuity_notes": "Directly follows Episode 47's public disgrace where Catherine bowed to Juliana and accepted the position of a maid; in private, Catherine sheds her feigned defeat and initiates her counter-plot.",
+  "duration_s": 80.0,
+  "candidates_considered": 6,
+  "postable": false,
+  "notes": [
+    "no clip met the brief; best effort returned",
+    "no real cliffhanger (0.18 < 0.45)"
+  ],
+  "picks": [
+    {
+      "id": "ep48-7947cbac",
+      "rank": null,
+      "episode": 48,
+      "episode_label": "Episode 48",
+      "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 34.2,
+          "end": 80.0,
+          "start_tc": "00:34.20",
+          "end_tc": "01:20.00",
+          "duration": 45.8
+        }
+      ],
+      "clip_duration": 45.8,
+      "hook": "\"Everyone in that chapel saw me humiliated today.\"",
+      "cliffhanger": "Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless in the war…",
+      "why_it_works": "opens on a clear dramatic question; ends without a real cliffhanger; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 48.33,
+      "heuristic_score": 48.33,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.47,
+        "cliffhanger": 0.18,
+        "standalone": 0.69,
+        "arc": 0.668,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of AGNES, CATHERINE, PRIEST"
+        ],
+        "prior_knowledge_entities": [
+          "PRIEST",
+          "AGNES",
+          "CATHERINE"
+        ]
+      },
+      "meets_brief": false,
+      "gate_failures": [
+        "no real cliffhanger (0.18 < 0.45)"
+      ],
+      "transcript": "CLIP: episode 48, 1 segment(s), 46s\n[00:34.20-00:37.10] CATHERINE (Fierce, Hissing): \"Everyone in that chapel saw me humiliated today.\"\n[00:37.30-00:39.00] CATHERINE (Spiteful, calculating): \"Good. Let them remember it.\"\n[00:39.20-00:43.00] CATHERINE (Sinister, Predatory): \"Grief makes people careless, and carelessness is exactly what I need from that household right now.\"\n[00:43.00-00:46.80] CAMERA: Over-the-shoulder close-up on Agnes, her brow furrowed in anxious alarm.\n[00:43.30-00:46.80] AGNES (Anxious, Whispering): \"My lady... the Duke has bailiffs watching every road out of the county.\"\n[00:46.80-00:51.50] CAMERA: Close-up on Catherine, a smug, venomous smile spreading across her painted lips.\n[00:47.00-00:51.30] CATHERINE (Confident, Devious): \"I'm not leaving the county, Agnes. I'm going back into that house.\"\n[00:51.50-00:58.20] CAMERA: Medium tracking shot following Catherine as she releases Agnes and stalks across the room toward the window sill.\n[00:52.00-00:55.00] CATHERINE (Pleased, Scheming): \"Father Thomas did his part beautifully today.\"\n[00:55.20-00:58.20] CATHERINE (Calculated, Demanding): \"Now I need him to do a little more before that hearing convenes.\"\n[00:58.20-01:01.00] CAMERA: Medium close-up of Agnes glancing nervously over her shoulder.\n[00:58.50-01:00.60] AGNES (Apprehensive): \"If someone sees him come to you...\"\n[01:01.00-01:06.90] CAMERA: Close-up on Catherine spinning around from the window, her jaw set in terrifying firmness.\n[01:01.80-01:04.00] CATHERINE (Stern, Threatening): \"Then no one sees him.\"\n[01:04.30-01:06.90] CATHERINE (Authoritative): \"That is precisely your job tonight.\"\n[01:06.90-01:13.50] CAMERA: Medium shot as Catherine picks up a heavy velvet coin purse and places it firmly into Agnes's awaiting open palms.\n[01:07.50-01:09.00] SOUND: Dull clinking of heavy gold coins inside a leather pouch.\n[01:07.80-01:10.50] CATHERINE (Hushed, Commanding): \"Send for the priest. Tonight.\"\n[01:10.80-01:13.40] CATHERINE (Firm, Final): \"And make sure no one sees him arrive.\"\n[01:13.50-01:16.80] CAMERA: Wide shot of Agnes curtsying swiftly, stashing the pouch into her apron, and hurrying out through the heavy wooden door into the darkness.\n[01:16.80-01:20.00] CAMERA: Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless in the warm candlelight, staring outward into the night with cold, unyielding ambition as the scene fades to black."
+    }
+  ]
+}

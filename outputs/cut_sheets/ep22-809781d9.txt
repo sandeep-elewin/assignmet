@@ -1,0 +1,52 @@
+PROMO ep22-809781d9
+Episode 22 - Episode 22
+Duration: 58.5s   Segments: 1
+Score: 60.21 (heuristic 60.21)
+
+IN / OUT
+  segment 1: 00:11.20 -> 01:09.75  (58.55s)
+
+HOOK      00:11.20  "No one will recognize me dressed like this."
+CLIFF     01:06.00  "And can you keep your eyes and ears where they belong?"
+
+WHY       opens cold on a high-voltage line or physical beat; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 22, 1 segment(s), 59s
+[00:11.20-00:14.20] LADY JULIANA (Resolute, Quiet): "No one will recognize me dressed like this."
+[00:14.20-00:19.00] CAMERA: Medium close-up of Prudence glancing nervously toward the courtyard before fixing her gaze on Juliana.
+[00:14.20-00:19.00] PRUDENCE (Nervous, Warning): "This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lord Rupert..."
+[00:19.00-00:21.20] CAMERA: Close-up of Lady Juliana cutting in with fierce, unyielding conviction.
+[00:19.10-00:21.00] LADY JULIANA (Determined): "The Duchess is dying."
+[00:21.20-00:25.80] CAMERA: Low-angle shot looking up at Lady Juliana and Prudence standing beneath the looming stone facade of the manor.
+[00:22.00-00:25.50] LADY JULIANA (Defiant, Firm): "I saved Toby. I can save her."
+[00:25.80-00:28.10] CAMERA: Close-up on Prudence, her eyes wide with dread.
+[00:26.00-00:28.10] PRUDENCE (Fretful): "And if they discover who you are?"
+[00:28.10-00:31.50] CAMERA: Close-up on Lady Juliana holding her gaze steadily.
+[00:28.20-00:31.00] LADY JULIANA (Steely, Selfless): "Then I will face that when she is breathing again."
+[00:31.50-00:36.20] CAMERA: Medium two-shot outside the heavy wooden servant entrance door.
+[00:33.80-00:36.00] PRUDENCE (Solemn): "Then forget you were ever a lady."
+[00:36.20-00:39.80] CAMERA: Close-up of Lady Juliana swallowing her pride and accepting her perilous disguise.
+[00:37.00-00:39.50] LADY JULIANA (Quietly Resolute): "Today, I am only a maid."
+[00:39.80-00:42.50] ACTION: Prudence opens the heavy wooden service door, and both women step inside into the dark servants' corridor as the door shuts firmly behind them.
+[00:41.50-00:42.80] SOUND: Heavy wooden latch clicks shut with a thud.
+[00:43.00-00:44.20] HOUSEKEEPER (Sharp, Stern, O.S.): "Prudence."
+[00:43.00-00:46.00] CAMERA: Medium shot of the formidable Housekeeper standing in the dim stone hallway with arms folded, ring of keys dangling from her waist.
+[00:44.30-00:45.60] HOUSEKEEPER (Suspicious): "Who is this?"
+[00:46.00-00:49.20] CAMERA: Medium shot of Prudence curtsying low with downcast eyes while Lady Juliana stands behind her carrying a heavy wooden water bucket.
+[00:46.00-00:49.00] PRUDENCE (Submissive): "Julian, ma'am. New help for the winter cleaning."
+[00:49.20-00:52.20] CAMERA: Close-up profile of the Housekeeper sizing up Juliana critically.
+[00:49.50-00:51.80] HOUSEKEEPER (Cold, Skeptical): "She looks soft."
+[00:51.80-00:53.00] ACTION: Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly.
+[00:52.80-00:55.20] CAMERA: Close-up on Lady Juliana keeping her eyes dutifully lowered.
+[00:52.80-00:54.80] LADY JULIANA (Humble, Steady): "I can work, ma'am."
+[00:55.20-00:58.50] CAMERA: Low-angle shot of the Housekeeper staring down coldly.
+[00:56.00-00:58.00] HOUSEKEEPER (Demanding): "Can you scrub stone?"
+[00:58.50-01:00.00] CAMERA: Close-up on Lady Juliana nodding slightly.
+[00:58.50-00:59.80] LADY JULIANA (Subdued): "Yes, ma'am."
+[01:00.20-01:01.80] HOUSEKEEPER (Harsh, O.S.): "Carry coal?"
+[01:00.20-01:02.30] CAMERA: Close-up of the Housekeeper's stern face.
+[01:02.30-01:04.20] CAMERA: Cut back to Lady Juliana maintaining her meek posture.
+[01:02.50-01:03.80] LADY JULIANA (Polite): "Yes, ma'am."
+[01:04.20-01:09.75] CAMERA: Profile medium two-shot as the Housekeeper steps right up into Lady Juliana's face, staring intently into her downcast eyes.
+[01:06.00-01:09.50] HOUSEKEEPER (Menacing, Threatening): "And can you keep your eyes and ears where they belong?"

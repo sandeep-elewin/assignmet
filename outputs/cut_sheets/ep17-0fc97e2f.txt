@@ -1,0 +1,34 @@
+PROMO ep17-0fc97e2f
+Episode 17 - Episode 17
+Duration: 24.2s   Segments: 1
+Score: 66.02 (heuristic 66.02)
+
+IN / OUT
+  segment 1: 00:07.00 -> 00:31.25  (24.25s)
+
+HOOK      00:07.00  Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope.
+CLIFF     00:28.80  "...no one will hurt you again."
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer.
+
+TRANSCRIPT
+CLIP: episode 17, 1 segment(s), 24s
+[00:07.00-00:11.50] CAMERA: Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope.
+[00:09.30-00:11.30] JULIANA (Soft, Emotional): "Some of them survived."
+[00:11.50-00:14.00] CAMERA: Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer.
+[00:11.50-00:14.00] SOUND: Rhythmic, heavy thuds of an iron hammer pounding into weathered wood.
+[00:11.50-00:14.00] ACTION: Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination.
+[00:14.00-00:16.20] CAMERA: Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer.
+[00:14.30-00:15.30] JULIANA (Grateful, Sincere): "Thank you."
+[00:16.20-00:18.00] CAMERA: Close-up of Alexander turning toward her, his scarred face stoic and intense.
+[00:16.80-00:17.80] ALEXANDER (Gruff, Low): "For what?"
+[00:18.00-00:21.00] CAMERA: Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears.
+[00:18.20-00:20.50] JULIANA (Trembling, Heartfelt): "For standing between me and those men."
+[00:21.00-00:23.50] CAMERA: Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction.
+[00:21.50-00:23.00] ALEXANDER (Unwavering, Firm): "I would do it again."
+[00:23.50-00:25.80] CAMERA: Close-up of Juliana, her lips parting as her voice wavers with emotion.
+[00:24.00-00:25.70] JULIANA (Whispering, Awed): "Even if there were ten of them?"
+[00:26.00-00:27.70] ALEXANDER (Deep, Resolute): "As long as I draw breath..."
+[00:26.50-00:30.00] CAMERA: Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana.
+[00:28.00-00:31.25] ACTION: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.
+[00:28.80-00:31.00] ALEXANDER (Gentle, Vowing): "...no one will hurt you again."

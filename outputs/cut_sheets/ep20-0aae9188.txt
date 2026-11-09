@@ -1,0 +1,39 @@
+PROMO ep20-0aae9188
+Episode 20 - Episode 20
+Duration: 36.5s   Segments: 1
+Score: 65.24 (heuristic 65.24)
+
+IN / OUT
+  segment 1: 00:02.90 -> 00:39.35  (36.45s)
+
+HOOK      00:02.90  "Two lumps of sugar, Rupert?"
+CLIFF     00:36.90  "How much longer can the frail thing survive?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 20, 1 segment(s), 36s
+[00:02.90-00:04.40] CATHERINE (Smug, Prim): "Two lumps of sugar, Rupert?"
+[00:04.60-00:07.80] CATHERINE (Taunting, Silkily): "Or has your sudden climb to power sweetened your taste already?"
+[00:06.90-00:09.50] CAMERA: Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk.
+[00:08.20-00:10.80] RUPERT (Flirtatious, Sly): "Only if it sweetens your disposition, Catherine."
+[00:09.60-00:15.20] CAMERA: Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.
+[00:10.90-00:12.70] RUPERT (Boastful, Confident): "The estate is practically ours."
+[00:12.80-00:15.10] RUPERT (Smug): "The succession papers are being finalized as we speak."
+[00:15.20-00:20.00] CAMERA: Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive.
+[00:15.40-00:18.70] CATHERINE (Cold, Haughty): "'Practically' is a word for beggars. I do not marry a practical Duke."
+[00:18.80-00:20.10] CATHERINE (Stern, Ambitious): "I marry the Lord of Ashbury."
+[00:20.00-00:25.50] CAMERA: Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.
+[00:20.10-00:21.20] RUPERT (Reassuring, Firm): "And so you shall."
+[00:21.30-00:24.20] RUPERT (Dark, Conspiratorial): "Once my cousin Alexander's death is formally sealed by the Crown..."
+[00:24.30-00:25.40] RUPERT (Decisive): "...the title is mine."
+[00:25.50-00:30.20] CAMERA: Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.
+[00:25.50-00:28.20] CATHERINE (Wary, Inquiring): "And what of the Dowager? The old woman still breathes."
+[00:28.30-00:30.20] CATHERINE (Disdainful): "Her shadow still hangs over this house."
+[00:30.20-00:34.00] CAMERA: Tight close-up of Rupert's face as a sinister grin spreads across his features.
+[00:30.20-00:32.80] RUPERT (Quiet, Sinister): "Her health fails more each day. The physicians are baffled."
+[00:32.90-00:34.40] RUPERT (Gloating): "They call it a wasting of the lungs."
+[00:34.10-00:39.20] CAMERA: Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.
+[00:34.20-00:36.80] CATHERINE (Mock-Sympathetic, Cruel): "How tragic. The slow, quiet decline."
+[00:36.90-00:39.10] CATHERINE (Scheming): "How much longer can the frail thing survive?"
+[00:39.30-00:39.35] CAMERA: Medium profile of Rupert looking out the window, hands clasped behind him.

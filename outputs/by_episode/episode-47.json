@@ -1,0 +1,121 @@
+{
+  "episode": 47,
+  "label": "Episode 47",
+  "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+  "continuity_notes": "Follows Episode 46's ecclesiastical challenge by the High Priest. While Catherine plots in secret to remain on the estate, the morning brings her disgrace to light as Juliana decides her fate.",
+  "duration_s": 134.0,
+  "candidates_considered": 9,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep47-2cfd9c11",
+      "rank": null,
+      "episode": 47,
+      "episode_label": "Episode 47",
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+      "stitched": true,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 63.5,
+          "end": 75.05,
+          "start_tc": "01:03.50",
+          "end_tc": "01:15.05",
+          "duration": 11.55
+        },
+        {
+          "segment": 2,
+          "start": 84.0,
+          "end": 99.05,
+          "start_tc": "01:24.00",
+          "end_tc": "01:39.05",
+          "duration": 15.05
+        }
+      ],
+      "clip_duration": 26.6,
+      "hook": "\"London closed its doors! My family disowned me!\"",
+      "cliffhanger": "\"You want me? As a guest?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 66.7,
+      "heuristic_score": 66.7,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.762,
+        "standalone": 0.72,
+        "arc": 0.353,
+        "pacing": 0.806
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, ASHBOURNE, CATHERINE, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "ALEXANDER",
+          "ASHBOURNE",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 47, 2 segment(s), 27s\n-- segment 1: 01:03.50 to 01:15.05 --\n[01:03.50-01:07.00] CAMERA: Low-angle shot tracking Catherine clutching her chest in agony.\n[01:03.50-01:06.80] CATHERINE (Sobbing, Pleading): \"London closed its doors! My family disowned me!\"\n[01:07.00-01:11.50] CAMERA: Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment.\n[01:07.20-01:11.20] LADY ASHBOURNE (Cold, Unforgiving): \"She aided the poison in my veins. Cast her into the road.\"\n[01:11.50-01:14.80] CAMERA: Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind.\n[01:11.80-01:14.80] VAUGHN (Gruff, Ready): \"One command, Your Grace, and I drag her past the gates.\"\n[01:14.80-01:15.05] CAMERA: Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him.\n-- segment 2: 01:24.00 to 01:39.05 --\n[01:24.00-01:26.50] ALEXANDER (Indignant, Protective): \"Juliana, she tried to destroy you!\"\n[01:26.50-01:28.00] CAMERA: Close-up of Juliana maintaining serene poise.\n[01:26.70-01:27.80] JULIANA (Calm, Composed): \"She did.\"\n[01:28.00-01:31.00] CAMERA: Medium tracking shot as Juliana steps gracefully past Alexander toward Catherine.\n[01:28.20-01:31.00] JULIANA (Dignified, Principled): \"But Ashbourne does not throw beggars into the mud.\"\n[01:31.00-01:35.00] ACTION: Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.\n[01:31.50-01:35.00] JULIANA (Steely, Direct): \"If you seek shelter in this house, Catherine, you earn it.\"\n[01:35.50-01:38.80] CAMERA: Close-up of Catherine's face turning from despair to offended shock.\n[01:36.00-01:38.80] CATHERINE (Incredulous, Stunned): \"You want me? As a guest?\"\n[01:38.80-01:39.05] CAMERA: Close-up of Juliana staring straight into Catherine's eyes without blinking."
+    },
+    {
+      "id": "ep47-9bb56b4a",
+      "rank": null,
+      "episode": 47,
+      "episode_label": "Episode 47",
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 23.4,
+          "end": 60.05,
+          "start_tc": "00:23.40",
+          "end_tc": "01:00.05",
+          "duration": 36.65
+        }
+      ],
+      "clip_duration": 36.65,
+      "hook": "\"What if Father Thomas sways the High Council?\"",
+      "cliffhanger": "\"You dare show your face in Ashbourne courtyard?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 65.74,
+      "heuristic_score": 65.74,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.547,
+        "cliffhanger": 0.662,
+        "standalone": 0.72,
+        "arc": 0.732,
+        "pacing": 0.805
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, CATHERINE, JULIANA, PRIEST"
+        ],
+        "prior_knowledge_entities": [
+          "PRIEST",
+          "ALEXANDER",
+          "CATHERINE",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 47, 1 segment(s), 37s\n[00:23.40-00:26.80] JULIANA (Anxious, Trembling): \"What if Father Thomas sways the High Council?\"\n[00:26.50-00:30.50] CAMERA: Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander.\n[00:27.00-00:30.30] JULIANA (Vulnerable, Fearful): \"What if they strip your title? Because of me?\"\n[00:30.50-00:35.00] ACTION: Juliana looks down at her hands, turning over her scarred palms shaped by years of herbal work.\n[00:31.00-00:35.20] JULIANA (Despairing): \"I am only a healer. The lords will never accept me.\"\n[00:35.50-00:37.50] CAMERA: Profile shot as Alexander reaches out and firmly clasps Juliana's trembling hands in his own.\n[00:35.80-00:37.80] ALEXANDER (Gentle, Resolute): \"Look at me, Juliana.\"\n[00:37.50-00:42.50] CAMERA: Close-up of Alexander raising his scarred hand to tenderly cradle Juliana's cheek.\n[00:38.20-00:42.50] ALEXANDER (Fierce, Loving): \"You saved my mother's life. You stood by me when I had nothing.\"\n[00:42.50-00:45.80] CAMERA: Tight close-up on Alexander's gaze locking onto Juliana's tearful eyes.\n[00:43.00-00:45.50] ALEXANDER (Deep, Unwavering): \"You are my wife.\"\n[00:45.50-00:48.00] ACTION: Alexander gently pulls Juliana closer, his hands resting securely on her shoulders.\n[00:45.80-00:54.80] ALEXANDER (Authoritative, Steadfast): \"You were my wife before that priest ever opened his mouth. And we will stand before the King and God again within ten days. Nothing breaks that.\"\n[00:55.50-00:56.80] CAMERA: Wide establishing shot of the rain-drenched cobblestone courtyard surrounded by imposing Gothic arches.\n[00:56.80-01:00.00] CAMERA: Medium shot of Lady Ashbourne leaning heavily on her walking cane, glaring down at Catherine who kneels in the mud.\n[00:56.80-00:59.80] LADY ASHBOURNE (Sharp, Contemptuous): \"You dare show your face in Ashbourne courtyard?\"\n[01:00.00-01:00.05] CAMERA: High-angle shot looking down at Catherine in her disheveled burgundy gown, clutching her skirts and weeping profusely."
+    }
+  ]
+}

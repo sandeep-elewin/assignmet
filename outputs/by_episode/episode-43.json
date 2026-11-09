@@ -1,0 +1,62 @@
+{
+  "episode": 43,
+  "label": "Episode 43",
+  "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+  "continuity_notes": "Follows directly from Episode 42; inside the ruined cathedral, Alexander confronts Rupert before the congregation, armed with evidence from the Crown to reclaim his rightful title.",
+  "duration_s": 114.96,
+  "candidates_considered": 8,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep43-a8d5ba96",
+      "rank": 14,
+      "episode": 43,
+      "episode_label": "Episode 43",
+      "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 71.4,
+          "end": 112.75,
+          "start_tc": "01:11.40",
+          "end_tc": "01:52.75",
+          "duration": 41.35
+        }
+      ],
+      "clip_duration": 41.35,
+      "hook": "\"I didn't!\"",
+      "cliffhanger": "\"Going somewhere, Lord Sterling?\"",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.",
+      "score": 69.11,
+      "heuristic_score": 69.11,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.605,
+        "cliffhanger": 0.85,
+        "standalone": 0.6,
+        "arc": 0.52,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, BLOND NOBLEMAN, CATHERINE, CONSTABLE"
+        ],
+        "prior_knowledge_entities": [
+          "CONSTABLE",
+          "RUPERT",
+          "ALEXANDER",
+          "BLOND NOBLEMAN",
+          "CROWN OFFICIAL",
+          "CATHERINE"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 43, 1 segment(s), 41s\n[01:11.40-01:12.70] BLOND NOBLEMAN (Desperate, Denying): \"I didn't!\"\n[01:12.70-01:14.80] CAMERA: Low-angle tracking push-in on Alexander raising the red-ribboned war document toward the cathedral arches.\n[01:12.80-01:15.20] ALEXANDER (Resonant, Accusatory): \"And when you believed I was dead...\"\n[01:14.80-01:16.00] CAMERA: Quick reaction shot on Rupert gasping on the steps.\n[01:16.00-01:17.80] CAMERA: Tight close-up on Alexander's scarred, furious face.\n[01:16.10-01:17.60] ALEXANDER (Venomous): \"You took my title.\"\n[01:17.80-01:21.00] CAMERA: Extreme close-up on the Crown Official's gloved thumb cracking the red wax seal open.\n[01:18.00-01:19.40] SOUND: Brittle snap of breaking sealing wax.\n[01:21.00-01:25.00] CAMERA: Full shot of the Crown Official standing amidst church debris reading the death register.\n[01:21.50-01:25.80] CROWN OFFICIAL (Grave, Official): \"Official death confirmation was filed three months after the ambush.\"\n[01:25.00-01:28.00] CAMERA: Two-shot of the Crown Official in the background and Alexander's dark silhouette in the foreground.\n[01:26.00-01:28.50] CROWN OFFICIAL (Continuing): \"Duke Alexander Ashburn was declared dead.\"\n[01:28.00-01:33.20] CAMERA: Wide majestic shot capturing the entire nave, the rows of horrified guests, and the ruined cathedral windows.\n[01:28.60-01:33.00] CROWN OFFICIAL (Loud, Authoritative): \"His estate and title were subsequently transferred under false authority.\"\n[01:33.20-01:36.50] CAMERA: Medium close-up on Rupert clutching his chest as if choking on his own lies.\n[01:33.40-01:36.40] BLOND NOBLEMAN (Screaming, Desperate): \"I was told he was dead!\"\n[01:36.50-01:39.80] CAMERA: Low shot following Alexander's heavy boots stepping steadily up the stone steps toward the altar.\n[01:36.80-01:39.80] ALEXANDER (Cold, Penetrating): \"You were told exactly what you needed to hear.\"\n[01:39.80-01:42.20] CAMERA: Medium shot on Rupert whirling around in a frenzy, pointing his finger toward Lord Sterling.\n[01:40.00-01:42.20] BLOND NOBLEMAN (Frantic, Betraying): \"Sterling handled the report!\"\n[01:42.20-01:43.40] CAMERA: Alexander turns his head sharply toward the side pews.\n[01:43.40-01:44.80] CAMERA: Medium shot of Lord Henry Sterling silently slipping out of his seat and making a break toward the side exit.\n[01:44.80-01:46.50] CAMERA: Close-up on Catherine peering out from under her bridal veil in shock.\n[01:44.80-01:46.20] CATHERINE (Shocked, Murmuring): \"My Lord?\"\n[01:46.50-01:49.80] CAMERA: Medium shot of Lord Sterling frantically unlatching the heavy oak church door and pulling it open.\n[01:47.00-01:49.00] SOUND: Heavy iron latch clicking open and wooden door creaking.\n[01:49.80-01:52.75] CAMERA: Reverse angle from inside the doorway showing a stern British Police Constable standing directly outside, blocking the passage.\n[01:50.40-01:52.50] POLICE CONSTABLE (Firm, Sardonic): \"Going somewhere, Lord Sterling?\""
+    }
+  ]
+}

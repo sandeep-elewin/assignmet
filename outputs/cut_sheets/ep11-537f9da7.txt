@@ -1,0 +1,31 @@
+PROMO ep11-537f9da7
+Episode 11 - Episode 11
+Duration: 28.5s   Segments: 1
+Score: 67.95 (heuristic 67.95)
+
+IN / OUT
+  segment 1: 01:24.20 -> 01:52.75  (28.55s)
+
+HOOK      01:24.20  "Don't!"
+CLIFF     01:46.80  Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.
+
+WHY       opens cold on a high-voltage line or physical beat; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 11, 1 segment(s), 29s
+[01:24.20-01:25.00] JULIANA (Whispering, Terrified): "Don't!"
+[01:25.00-01:26.50] CAMERA: Close-up of Juliana clutching her dress collar in acute panic.
+[01:26.00-01:27.50] ALEXANDER (Haunted, Resolute): "One blow would end this."
+[01:26.50-01:29.80] CAMERA: Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes.
+[01:28.00-01:30.00] ALEXANDER (Pained, Selfless): "But one blow would destroy her life."
+[01:29.80-01:32.00] CAMERA: Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace.
+[01:31.00-01:32.20] ACTION: The Constable grabs the coat by the collar and begins rummaging through its deep pockets.
+[01:32.10-01:33.20] JULIANA (Startled, Shouting): "That is his coat!"
+[01:33.20-01:36.80] CAMERA: Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain.
+[01:35.80-01:37.00] SOUND: Metallic clinking of the gold chain sliding against fabric.
+[01:36.80-01:39.20] CAMERA: Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief.
+[01:37.20-01:39.00] ACTION: Juliana draws a sharp, terrified breath as her face pales completely.
+[01:39.20-01:42.00] CAMERA: Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up.
+[01:42.00-01:46.80] CAMERA: Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter.
+[01:44.20-01:46.60] GERALD (Gloating, Victorious): "There it is. Ha!"
+[01:46.80-01:52.75] CAMERA: Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.

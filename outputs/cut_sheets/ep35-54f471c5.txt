@@ -1,0 +1,33 @@
+PROMO ep35-54f471c5
+Episode 35 - Episode 35
+Duration: 34.2s   Segments: 1
+Score: 73.31 (heuristic 73.31)
+
+IN / OUT
+  segment 1: 01:51.00 -> 02:25.25  (34.25s)
+
+HOOK      01:51.00  "How did you escape?"
+CLIFF     02:24.00  "Who?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer; escalates steadily into the cut.
+
+TRANSCRIPT
+CLIP: episode 35, 1 segment(s), 34s
+[01:51.00-01:53.00] ALEXANDER'S MOTHER (Pleading, Astonished): "How did you escape?"
+[01:53.50-01:58.00] CAMERA: Close-up on Alexander, his eyes dark with the harrowing memory.
+[01:54.00-01:58.00] ALEXANDER (Somber, Low): "I crawled away from the battlefield, half dead, alone."
+[01:58.20-02:02.00] ALEXANDER (Continuing): "I survived because the men who came looking for me believed I was already dead."
+[02:02.00-02:05.50] CAMERA: Close-up on his mother as her expression shifts to profound bewilderment and outrage.
+[02:02.00-02:05.50] ALEXANDER'S MOTHER (Aghast, Stunned): "Then why did they never tell us?"
+[02:05.50-02:09.50] CAMERA: Close-up on Alexander's intense, piercing gaze.
+[02:06.00-02:09.50] ALEXANDER (Ominous, Deliberate): "Because someone wanted you to believe I was dead."
+[02:09.50-02:10.50] ALEXANDER'S MOTHER (Breathless): "Who?"
+[02:10.50-02:14.00] ACTION: Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.
+[02:11.00-02:14.00] ALEXANDER (Brooding): "I spent three years trying to find out."
+[02:14.00-02:16.80] ACTION: Alexander abruptly pushes away from the window, storming back toward the table with burning rage.
+[02:14.00-02:17.00] ALEXANDER (Fierce, Resolute): "The ambush was not an accident."
+[02:17.00-02:24.00] ACTION: He leans heavily over the wooden table, looming close as his fury boils over.
+[02:17.00-02:20.50] ALEXANDER (Vehement, Enraged): "Someone ordered my men to die."
+[02:21.00-02:24.00] ALEXANDER (Darkly Intimating): "Someone wanted me erased."
+[02:24.00-02:25.00] ALEXANDER'S MOTHER (Gasping, Terrified): "Who?"
+[02:25.00-02:25.25] CAMERA: Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.

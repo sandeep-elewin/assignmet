@@ -1,0 +1,111 @@
+{
+  "episode": 13,
+  "label": "Episode 13",
+  "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+  "continuity_notes": "Picks up immediately from Episode 12's climax where Juliana demanded to know where the frozen blackthorn garden was located to save Alexander from the gallows.",
+  "duration_s": 118.88,
+  "candidates_considered": 9,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep13-713e3de8",
+      "rank": null,
+      "episode": 13,
+      "episode_label": "Episode 13",
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 97.0,
+          "end": 118.88,
+          "start_tc": "01:37.00",
+          "end_tc": "01:58.88",
+          "duration": 21.88
+        }
+      ],
+      "clip_duration": 21.88,
+      "hook": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, a…",
+      "cliffhanger": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground…",
+      "why_it_works": "opens on a clear dramatic question; cuts on an unresolved threat or question; reads clean to a first-time viewer.",
+      "score": 64.78,
+      "heuristic_score": 64.78,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.67,
+        "cliffhanger": 0.749,
+        "standalone": 0.9,
+        "arc": 0.278,
+        "pacing": 0.737
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "JULIANA",
+          "ALEXANDER"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 13, 1 segment(s), 22s\n[01:37.00-01:43.00] CAMERA: Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms.\n[01:38.20-01:42.50] JULIANA (Panting, Praying): \"Please, ring... you have to be here.\"\n[01:43.00-01:46.50] ACTION: Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch.\n[01:43.00-01:47.00] CAMERA: Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil.\n[01:47.00-01:49.00] CAMERA: Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat.\n[01:49.00-01:52.00] ACTION: Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring.\n[01:49.00-01:52.00] CAMERA: Extreme close-up of her bloody hand closing around the emerald signet ring.\n[01:52.00-01:53.00] CAMERA: Close-up of Juliana grimacing in fierce triumph and intense pain as thorns catch her knuckles.\n[01:53.00-01:54.00] CAMERA: Brief cut to Alexander staring into the briar patch in suspended terror.\n[01:54.00-01:57.20] CAMERA: Close-up on Juliana's sweat- and frost-streaked face as she grinds her teeth, tears pooling in her eyes, fighting through the blinding pain.\n[01:57.20-01:58.88] CAMERA: Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black."
+    },
+    {
+      "id": "ep13-74eb8210",
+      "rank": null,
+      "episode": 13,
+      "episode_label": "Episode 13",
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 47.2,
+          "end": 67.25,
+          "start_tc": "00:47.20",
+          "end_tc": "01:07.25",
+          "duration": 20.05
+        }
+      ],
+      "clip_duration": 20.05,
+      "hook": "\"Juliana, stop!\"",
+      "cliffhanger": "\"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup; escalates steadily into the cut.",
+      "score": 60.6,
+      "heuristic_score": 60.6,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.63,
+        "cliffhanger": 0.661,
+        "standalone": 0.64,
+        "arc": 0.714,
+        "pacing": 0.984
+      },
+      "signals": {
+        "arc_notes": [
+          "emotional peak lands in the back half"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of ALEXANDER, CLARISSA, GERALD, JULIANA"
+        ],
+        "prior_knowledge_entities": [
+          "CLARISSA",
+          "GERALD",
+          "ALEXANDER",
+          "JULIANA"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 13, 1 segment(s), 20s\n[00:47.20-00:48.80] ALEXANDER (Screaming, Panicked): \"Juliana, stop!\"\n[00:47.80-00:49.20] SOUND: Rattling of heavy iron chains.\n[00:50.00-00:53.00] ACTION: Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.\n[00:50.00-00:52.00] CAMERA: Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars.\n[00:51.50-00:52.60] ALEXANDER (Strangled, Weeping): \"Please...\"\n[00:52.00-00:53.50] CAMERA: Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs.\n[00:53.50-00:56.00] CAMERA: Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground.\n[00:54.00-00:56.50] ACTION: Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.\n[00:54.50-00:55.80] JULIANA (Gasping in Pain): \"No...\"\n[00:56.00-00:58.20] CAMERA: Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds.\n[00:57.20-00:58.60] CLARISSA (Gleeful, Derisive): \"Look at her hands.\"\n[00:58.20-01:02.00] CAMERA: Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her.\n[00:58.80-01:01.80] CLARISSA (Mocking, Spiteful): \"The lady has finally found something worthy of her.\"\n[01:02.00-01:04.00] ACTION: Gerald leans his hands on the terrace railing, sneering callously.\n[01:02.00-01:07.25] CAMERA: Low-angle medium close-up of Gerald shouting down into the garden.\n[01:02.20-01:07.00] GERALD (Taunting, Cruel): \"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\""
+    }
+  ]
+}

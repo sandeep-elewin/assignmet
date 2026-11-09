@@ -1,0 +1,30 @@
+PROMO ep30-afcecae2
+Episode 30 - Episode 30
+Duration: 32.8s   Segments: 1
+Score: 56.15 (heuristic 56.15)
+
+IN / OUT
+  segment 1: 01:29.00 -> 02:01.75  (32.75s)
+
+HOOK      01:29.00  "Witchcraft is a capital charge."
+CLIFF     02:00.00  "And Juliana?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 30, 1 segment(s), 33s
+[01:29.00-01:31.30] RUPERT (Stunned): "Witchcraft is a capital charge."
+[01:31.80-01:34.50] CAMERA: Straight-on close-up of the Elder Nobleman staring back without a flicker of remorse.
+[01:32.00-01:33.40] ELDER NOBLEMAN (Unflinching): "Precisely."
+[01:34.50-01:41.90] CAMERA: Medium three-shot framing Rupert, the Elder Nobleman between them, and Catherine listening closely.
+[01:34.60-01:41.80] ELDER NOBLEMAN (Authoritative, Command): "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her."
+[01:41.90-01:44.40] CAMERA: Close-up of Catherine smiling with malicious satisfaction, fluttering her fan.
+[01:42.20-01:43.90] CATHERINE (Scheming): "Her botanical ledger..."
+[01:44.40-01:46.60] CAMERA: Close-up of the Elder Nobleman nodding slowly.
+[01:44.80-01:46.00] ELDER NOBLEMAN (Confirming): "Exactly."
+[01:46.60-01:49.00] CAMERA: Close-up of Catherine leaning slightly forward.
+[01:47.30-01:48.80] CATHERINE (Inquiring): "And the Dowager?"
+[01:49.00-01:56.80] CAMERA: Medium shot of the Elder Nobleman gesturing dismissively with one gloved hand.
+[01:49.50-01:56.50] ELDER NOBLEMAN (Dismissive): "She is weak, confused. No magistrate will trust a dying woman's accusations against a respected household."
+[01:56.80-02:01.75] CAMERA: Medium close-up of Rupert exhaling deeply, processing the horrifying certainty of their conspiracy.
+[02:00.00-02:01.50] RUPERT (Hesitant): "And Juliana?"

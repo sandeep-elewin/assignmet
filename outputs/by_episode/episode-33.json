@@ -1,0 +1,107 @@
+{
+  "episode": 33,
+  "label": "Episode 33",
+  "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+  "continuity_notes": "Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved.",
+  "duration_s": 174.04,
+  "candidates_considered": 11,
+  "postable": true,
+  "notes": [],
+  "picks": [
+    {
+      "id": "ep33-36bfdf6a",
+      "rank": null,
+      "episode": 33,
+      "episode_label": "Episode 33",
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 69.5,
+          "end": 111.75,
+          "start_tc": "01:09.50",
+          "end_tc": "01:51.75",
+          "duration": 42.25
+        }
+      ],
+      "clip_duration": 42.25,
+      "hook": "\"Please, my Lord... he is only seven!\"",
+      "cliffhanger": "\"Praying... or chanting?\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 62.53,
+      "heuristic_score": 62.53,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.63,
+        "cliffhanger": 0.6,
+        "standalone": 0.74,
+        "arc": 0.278,
+        "pacing": 1.0
+      },
+      "signals": {
+        "arc_notes": [
+          "peak arrives early, tail sags",
+          "flat emotional line"
+        ],
+        "standalone_notes": [
+          "relies on prior knowledge of LORD, MAID"
+        ],
+        "prior_knowledge_entities": [
+          "MAID",
+          "LORD"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 33, 1 segment(s), 42s\n[01:09.50-01:13.00] MAID (Begging, Heartbroken): \"Please, my Lord... he is only seven!\"\n[01:13.20-01:15.50] CAMERA: Close-up of the Lord staring down without an ounce of pity.\n[01:13.20-01:15.00] LORD (Cold, Unwavering): \"Then help him.\"\n[01:15.50-01:19.50] CAMERA: Close-up of the maid weeping profusely, cornered and helpless.\n[01:16.80-01:19.00] MAID (Crying, Shattered): \"What do you want me to say?!\"\n[01:19.50-01:24.80] CAMERA: Wide shot of the study as the Lord stands calmly before the trembling servant.\n[01:19.60-01:20.50] LORD (Deceptive): \"The truth.\"\n[01:21.00-01:24.50] LORD (Leading, Deliberate): \"She drew something around the bed, did she not?\"\n[01:24.80-01:29.00] CAMERA: Close-up of the maid stammering through her tears.\n[01:25.50-01:28.80] MAID (Trembling, Reluctant): \"She... placed dried herbs around him.\"\n[01:29.00-01:34.80] CAMERA: Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.\n[01:29.00-01:30.50] LORD (Hypnotic, Coercive): \"Around him.\"\n[01:31.00-01:32.50] LORD (Coercive): \"Like a circle?\"\n[01:33.00-01:34.50] MAID (Faint, Defeated): \"Yes.\"\n[01:34.80-01:38.50] CAMERA: Close-up from behind the maid as the Lord leans close to her ear.\n[01:35.00-01:38.00] LORD (Whispering, Trap Snapping): \"And she opened her mother's book...\"\n[01:38.50-01:40.80] CAMERA: Extreme close-up of the maid's tear-drenched eyes and quivering lips.\n[01:38.50-01:40.00] MAID (Sobbing): \"Yes.\"\n[01:40.80-01:44.20] CAMERA: Close-up of the Lord delivering the final trap.\n[01:41.00-01:44.00] LORD (Sinister): \"...and spoke words you could not understand.\"\n[01:44.20-01:47.50] CAMERA: Close-up of the maid gasping out in desperate agony.\n[01:44.50-01:46.50] MAID (Desperately Defending): \"She was praying!\"\n[01:47.50-01:51.75] CAMERA: Close-up of the Lord grinning with sinister triumph.\n[01:48.00-01:51.50] LORD (Taunting): \"Praying... or chanting?\""
+    },
+    {
+      "id": "ep33-9327131f",
+      "rank": null,
+      "episode": 33,
+      "episode_label": "Episode 33",
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+      "stitched": false,
+      "segments": [
+        {
+          "segment": 1,
+          "start": 112.0,
+          "end": 144.25,
+          "start_tc": "01:52.00",
+          "end_tc": "02:24.25",
+          "duration": 32.25
+        }
+      ],
+      "clip_duration": 32.25,
+      "hook": "\"I don't know!\"",
+      "cliffhanger": "\"I never said she was a witch!\"",
+      "why_it_works": "opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.",
+      "score": 61.05,
+      "heuristic_score": 61.05,
+      "judged_by": "heuristic",
+      "llm": null,
+      "subscores": {
+        "hook": 0.58,
+        "cliffhanger": 0.494,
+        "standalone": 0.74,
+        "arc": 0.574,
+        "pacing": 0.944
+      },
+      "signals": {
+        "arc_notes": [],
+        "standalone_notes": [
+          "relies on prior knowledge of LORD, MAID"
+        ],
+        "prior_knowledge_entities": [
+          "MAID",
+          "LORD"
+        ]
+      },
+      "meets_brief": true,
+      "gate_failures": [],
+      "transcript": "CLIP: episode 33, 1 segment(s), 32s\n[01:52.00-01:53.50] MAID (Hysterically Sobbing): \"I don't know!\"\n[01:53.80-01:59.50] CAMERA: Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.\n[01:54.00-01:56.50] LORD (Calculating, Relentless): \"You saw a woman draw a circle of herbs.\"\n[01:56.80-01:59.50] LORD (Relentless): \"You saw her use a forbidden book.\"\n[01:59.50-02:03.50] CAMERA: Close-up profile of the Lord leaning in right in front of the sobbing maid.\n[01:59.80-02:02.80] LORD (Condemning): \"You heard words you could not understand.\"\n[02:03.50-02:06.80] CAMERA: Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.\n[02:04.50-02:06.50] LORD (Deadly, Resolute): \"That is witchcraft.\"\n[02:06.80-02:11.80] CAMERA: Medium two-shot as the maid steps forward, pleading passionately against his chest.\n[02:06.80-02:11.50] MAID (Crying Out, Desperate): \"No! She saved Toby! She made him breathe again!\"\n[02:11.80-02:14.50] CAMERA: Close-up of the Lord calmly watching her futile resistance.\n[02:12.00-02:14.00] LORD (Cold, Final): \"That will be your testimony.\"\n[02:14.50-02:17.80] CAMERA: Close-up of the maid's face frozen in horrified realization.\n[02:14.50-02:17.00] MAID (Gasping, Shocked): \"My testimony?!\"\n[02:17.80-02:20.50] CAMERA: Close-up of the Lord delivering the ultimatum without blinking.\n[02:18.00-02:20.00] LORD (Unyielding): \"Before the magistrate.\"\n[02:20.50-02:24.25] CAMERA: Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.\n[02:20.50-02:24.00] MAID (Wailing, Tormented): \"I never said she was a witch!\""
+    }
+  ]
+}

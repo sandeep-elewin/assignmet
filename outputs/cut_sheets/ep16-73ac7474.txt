@@ -1,0 +1,45 @@
+PROMO ep16-73ac7474
+Episode 16 - Episode 16
+Duration: 38.8s   Segments: 1
+Score: 58.49 (heuristic 58.49)
+
+IN / OUT
+  segment 1: 00:38.20 -> 01:17.05  (38.85s)
+
+HOOK      00:38.20  Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages.
+CLIFF     01:14.80  "Are you hurt?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 16, 1 segment(s), 39s
+[00:38.20-00:40.80] CAMERA: Close-up of Juliana's trembling, soil-stained hands wrapped in blood-soaked bandages.
+[00:38.20-00:40.00] JULIANA (Fragile, Pain-filled): "Only my hands."
+[00:40.80-00:44.20] CAMERA: Medium shot as Alexander suddenly wheels around, strides to the groaning Thug with Cap, and yanks him straight off the ground by his coat collar with one arm.
+[00:41.20-00:44.00] ACTION: Alexander lifts the thug onto his tiptoes against the cottage wall, glaring with lethal intensity.
+[00:42.50-00:44.00] ALEXANDER (Demanding, Threatening): "Who sent you?"
+[00:44.20-00:46.20] CAMERA: Close-up of the Thug with Cap gagging under Alexander's iron fist.
+[00:44.20-00:45.30] THUG WITH CAP (Choking, Defiant): "No one!"
+[00:46.20-00:48.50] CAMERA: Close-up of Alexander, his eyes darkening with lethal fury.
+[00:46.30-00:47.40] ALEXANDER (Cold, Ominous): "Wrong answer."
+[00:48.00-00:50.00] ACTION: Alexander tightens his grip on the thug's throat, lifting him higher against the stone wall.
+[00:48.80-00:49.60] ALEXANDER (Roaring): "Who?!"
+[00:49.80-00:52.80] CAMERA: Extreme close-up of the terrified thug gasping for air, his eyes bulging.
+[00:49.80-00:52.20] THUG WITH CAP (Screaming, Panicked): "Harrington! Gerald Harrington paid us!"
+[00:52.80-00:55.20] CAMERA: Close-up of Juliana on the ground, reeling in devastated disbelief as the betrayal hits her.
+[00:53.20-00:54.40] JULIANA (Shaken, Heartbroken): "Gerald..."
+[00:55.20-00:59.00] CAMERA: Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds.
+[00:55.50-00:58.50] ACTION: The Thug with Cap scrambles to his feet and sprints into the dark woods alongside his two limping accomplices.
+[00:56.00-00:58.20] THUG WITH CAP (Shouting, Retreating): "We were only paid to destroy the garden, that's all!"
+[00:59.00-01:03.00] CAMERA: Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist.
+[01:00.00-01:03.00] ACTION: Alexander flexes his bleeding hand, showing no sign of pain.
+[01:03.00-01:06.50] CAMERA: Medium shot as Juliana gingerly rises to her feet, stepping toward Alexander with deep awe and wonder in her eyes.
+[01:04.20-01:06.20] JULIANA (Soft, Astounded): "You knew exactly what to do."
+[01:06.50-01:10.50] CAMERA: Close-up of Juliana looking up at him, searching his scarred face.
+[01:07.80-01:10.20] JULIANA (Wondering, Intrigued): "You fought like you've done this a hundred times."
+[01:10.50-01:14.20] CAMERA: Medium close-up of Alexander turning his profile away, shadowed by haunted memories of his past.
+[01:11.00-01:14.00] ALEXANDER (Somber, Heavy-Hearted): "A soldier learns things he wishes he could forget."
+[01:14.20-01:16.80] CAMERA: Close-up of Juliana softening with deep empathy as her eyes drop to his bleeding knuckle.
+[01:14.80-01:15.80] JULIANA (Tender, Concerned): "Are you hurt?"
+[01:16.00-01:17.05] ACTION: Juliana reaches out toward his injured hand with delicate concern.
+[01:16.80-01:17.05] CAMERA: Medium shot of Alexander and Juliana standing face-to-face in the moonlit garden, framed against the dark night.

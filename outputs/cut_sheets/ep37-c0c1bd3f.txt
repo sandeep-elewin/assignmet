@@ -1,0 +1,30 @@
+PROMO ep37-c0c1bd3f
+Episode 37 - Episode 37
+Duration: 24.5s   Segments: 1
+Score: 58.75 (heuristic 58.75)
+
+IN / OUT
+  segment 1: 00:50.00 -> 01:14.45  (24.45s)
+
+HOOK      00:50.00  "Lady Catherine Ashbridge."
+CLIFF     01:13.00  "To whom?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 37, 1 segment(s), 24s
+[00:50.00-00:52.80] LADY CLARISSA (Mockingly Reverent): "Lady Catherine Ashbridge."
+[00:53.00-00:56.00] CAMERA: Medium shot as Clarissa unfolds the second page attached to the invitation, her expression shifting to intrigue.
+[00:54.00-00:56.20] LADY CLARISSA (Intrigued): "And after the ceremony..."
+[00:56.20-00:57.20] NOBLEMAN (Curious): "What?"
+[00:56.80-00:58.50] ACTION: Clarissa hands the letter upward to him. He takes it and looks down at the bold heading.
+[00:58.50-01:02.00] CAMERA: Close-up of the nobleman reading, his eyes widening in shock before breaking into a grin.
+[00:58.80-01:01.80] NOBLEMAN (Reading in Awe): "The sentencing of the condemned."
+[01:02.00-01:05.50] CAMERA: Close-up of Clarissa turning back to the fire, laughing softly with dark delight.
+[01:02.80-01:05.50] LADY CLARISSA (Gloating, Mocking): "They want the families to witness it."
+[01:05.50-01:09.00] CAMERA: Medium shot of the nobleman holding the invitation, chuckling at the audacity.
+[01:06.50-01:08.80] NOBLEMAN (Fascinated): "A public execution after a wedding."
+[01:09.00-01:12.50] CAMERA: Medium profile shot of Clarissa gazing back at him over her shoulder.
+[01:09.50-01:12.20] LADY CLARISSA (Chilling, Sharp): "Not just an execution. A warning."
+[01:12.50-01:14.45] CAMERA: Close-up of the nobleman's stern face, leaning down.
+[01:13.00-01:14.20] NOBLEMAN (Curious): "To whom?"

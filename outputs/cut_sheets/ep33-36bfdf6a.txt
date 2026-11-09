@@ -1,0 +1,39 @@
+PROMO ep33-36bfdf6a
+Episode 33 - Episode 33
+Duration: 42.2s   Segments: 1
+Score: 62.53 (heuristic 62.53)
+
+IN / OUT
+  segment 1: 01:09.50 -> 01:51.75  (42.25s)
+
+HOOK      01:09.50  "Please, my Lord... he is only seven!"
+CLIFF     01:48.00  "Praying... or chanting?"
+
+WHY       opens on a clear dramatic question; ends on a raised stake; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 33, 1 segment(s), 42s
+[01:09.50-01:13.00] MAID (Begging, Heartbroken): "Please, my Lord... he is only seven!"
+[01:13.20-01:15.50] CAMERA: Close-up of the Lord staring down without an ounce of pity.
+[01:13.20-01:15.00] LORD (Cold, Unwavering): "Then help him."
+[01:15.50-01:19.50] CAMERA: Close-up of the maid weeping profusely, cornered and helpless.
+[01:16.80-01:19.00] MAID (Crying, Shattered): "What do you want me to say?!"
+[01:19.50-01:24.80] CAMERA: Wide shot of the study as the Lord stands calmly before the trembling servant.
+[01:19.60-01:20.50] LORD (Deceptive): "The truth."
+[01:21.00-01:24.50] LORD (Leading, Deliberate): "She drew something around the bed, did she not?"
+[01:24.80-01:29.00] CAMERA: Close-up of the maid stammering through her tears.
+[01:25.50-01:28.80] MAID (Trembling, Reluctant): "She... placed dried herbs around him."
+[01:29.00-01:34.80] CAMERA: Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.
+[01:29.00-01:30.50] LORD (Hypnotic, Coercive): "Around him."
+[01:31.00-01:32.50] LORD (Coercive): "Like a circle?"
+[01:33.00-01:34.50] MAID (Faint, Defeated): "Yes."
+[01:34.80-01:38.50] CAMERA: Close-up from behind the maid as the Lord leans close to her ear.
+[01:35.00-01:38.00] LORD (Whispering, Trap Snapping): "And she opened her mother's book..."
+[01:38.50-01:40.80] CAMERA: Extreme close-up of the maid's tear-drenched eyes and quivering lips.
+[01:38.50-01:40.00] MAID (Sobbing): "Yes."
+[01:40.80-01:44.20] CAMERA: Close-up of the Lord delivering the final trap.
+[01:41.00-01:44.00] LORD (Sinister): "...and spoke words you could not understand."
+[01:44.20-01:47.50] CAMERA: Close-up of the maid gasping out in desperate agony.
+[01:44.50-01:46.50] MAID (Desperately Defending): "She was praying!"
+[01:47.50-01:51.75] CAMERA: Close-up of the Lord grinning with sinister triumph.
+[01:48.00-01:51.50] LORD (Taunting): "Praying... or chanting?"

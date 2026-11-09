@@ -1,0 +1,35 @@
+PROMO ep31-c5a28330
+Episode 31 - Episode 31
+Duration: 31.6s   Segments: 1
+Score: 64.71 (heuristic 64.71)
+
+IN / OUT
+  segment 1: 00:48.90 -> 01:20.45  (31.55s)
+
+HOOK      00:48.90  "Do you remember?"
+CLIFF     01:17.80  "You call that marriage?"
+
+WHY       opens on a clear dramatic question; cuts on an unresolved threat or question; mostly self-contained, needs one line of setup.
+
+TRANSCRIPT
+CLIP: episode 31, 1 segment(s), 32s
+[00:48.90-00:50.80] CATHERINE (Gloating): "Do you remember?"
+[00:49.00-00:52.00] ACTION: Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.
+[00:51.00-00:54.80] CATHERINE (Viciously Delighted): "Everyone saw you. Everyone watched him chose Clarisse."
+[00:54.80-00:59.00] CAMERA: Close-up of the red-hot iron hovering over the damp stone floor, rising steam and heat waves warping the air, before cutting to Catherine's gloating expression.
+[00:55.20-00:57.50] SOUND: Faint sizzling and hissing as ambient moisture touches the scalding iron tip.
+[00:55.50-00:58.80] CATHERINE (Quietly Venomous): "And everyone watched you walk away alone."
+[00:59.00-01:05.50] CAMERA: Close-up pushing in on Juliana's illuminated, dignified face.
+[00:59.20-01:01.30] JULIANA (Proud, Measured): "Gerald chose money."
+[01:01.50-01:03.50] JULIANA (Resolute): "Clarissa chose a coward."
+[01:03.80-01:05.30] JULIANA (Unyielding): "I chose myself."
+[01:05.50-01:07.50] CAMERA: Close-up of Catherine's face tightening in disgust.
+[01:05.60-01:07.40] CATHERINE (Disgusted): "You chose a beggar."
+[01:07.50-01:10.50] CAMERA: Low-angle shot of Juliana lifting her chin with unwavering pride.
+[01:07.60-01:09.80] JULIANA (Fierce, Proud): "I chose a man."
+[01:10.50-01:13.30] CAMERA: Medium shot of Catherine sneering down at her.
+[01:10.80-01:13.20] CATHERINE (Contemptuous): "A scarred nobody."
+[01:13.30-01:17.60] CAMERA: Medium shot of Juliana sitting erect against the dungeon wall, her hands resting calmly in her lap.
+[01:13.50-01:17.60] JULIANA (Resolute, Dignified): "A man with more honor than the people sitting above this dungeon."
+[01:17.60-01:20.45] CAMERA: Medium close-up of Catherine, holding the smoldering iron between them.
+[01:17.80-01:20.20] CATHERINE (Incredulous, Mocking): "You call that marriage?"
